@@ -1,0 +1,3768 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.721517299999999,
+          51.0540763
+        ]
+      },
+      "properties": {
+        "name": "1898 the Post",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "5*",
+        "latitude": 51.0540763,
+        "longitude": 3.721517299999999,
+        "webpage": "32320325B91B4E8CBD463826FBFC3CC8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7284809,
+          51.0505262
+        ]
+      },
+      "properties": {
+        "name": "Yalo Urben boutique",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0505262,
+        "longitude": 3.7284809,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7167302,
+          51.052744
+        ]
+      },
+      "properties": {
+        "name": "Monasterium",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.052744,
+        "longitude": 3.7167302,
+        "webpage": "F715A81B950941EDAB807C40F9E3A188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.715085,
+          51.05474359999999
+        ]
+      },
+      "properties": {
+        "name": "Pillows grand Reylof",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.05474359999999,
+        "longitude": 3.715085,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7168975,
+          51.0519612
+        ]
+      },
+      "properties": {
+        "name": "B&B The Verhaegen",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0519612,
+        "longitude": 3.7168975,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7159076,
+          51.0389318
+        ]
+      },
+      "properties": {
+        "name": "Chambre d'Amis by Alix",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 51.0389318,
+        "longitude": 3.7159076,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7239672,
+          51.059711
+        ]
+      },
+      "properties": {
+        "name": "Nonam Boutique Hotel Gent",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 51.059711,
+        "longitude": 3.7239672,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7228262,
+          51.0571661
+        ]
+      },
+      "properties": {
+        "name": "Harmony",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0571661,
+        "longitude": 3.7228262,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7308626,
+          51.0516328
+        ]
+      },
+      "properties": {
+        "name": "Getaway Studios Gent",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 51.0516328,
+        "longitude": 3.7308626,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2249016,
+          51.2000804
+        ]
+      },
+      "properties": {
+        "name": "Boutiquehotel 't Fraeyhuis",
+        "place": "Brugge",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.2000804,
+        "longitude": 3.2249016,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.339691600000001,
+          50.8404971
+        ]
+      },
+      "properties": {
+        "name": "Urban Yard hotel",
+        "place": "Brussel",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 50.8404971,
+        "longitude": 4.339691600000001,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5276883,
+          55.7083192
+        ]
+      },
+      "properties": {
+        "name": "25hours",
+        "place": "Kopenhagen",
+        "country": "Denemarken",
+        "stars": "4*",
+        "latitude": 55.7083192,
+        "longitude": 12.5276883,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3087239,
+          52.4957728
+        ]
+      },
+      "properties": {
+        "name": "provocateur hotel",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.4957728,
+        "longitude": 13.3087239,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7778334,
+          51.2183089
+        ]
+      },
+      "properties": {
+        "name": "the fritz",
+        "place": "Dusseldorf",
+        "country": "Duitsland",
+        "stars": "3*",
+        "latitude": 51.2183089,
+        "longitude": 6.7778334,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3949511324108,
+          52.5241366907756
+        ]
+      },
+      "properties": {
+        "name": "Telegraphenamt",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "5*",
+        "latitude": 52.5241366907756,
+        "longitude": 13.3949511324108,
+        "webpage": "4afa8585-5bb0-45fa-b6f1-9bcefeadaaab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2981263518299,
+          52.5070751759822
+        ]
+      },
+      "properties": {
+        "name": "Hotel Wilmina",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5070751759822,
+        "longitude": 13.2981263518299,
+        "webpage": "8a28be5f-a032-4a66-93d8-2d93e522c5a4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3091422356512,
+          52.4959164366693
+        ]
+      },
+      "properties": {
+        "name": "Provocateur Berlin",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.4959164366693,
+        "longitude": 13.3091422356512,
+        "webpage": "55279fe6-52fd-47a7-ae9d-47eab788741f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3862840636656,
+          52.5177832075171
+        ]
+      },
+      "properties": {
+        "name": "Boutique Hotel Château Royal",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "5*",
+        "latitude": 52.5177832075171,
+        "longitude": 13.3862840636656,
+        "webpage": "ae7eac2a-818b-47a8-bf96-527cb995ef0c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4094660964307,
+          52.5415400088502
+        ]
+      },
+      "properties": {
+        "name": "Linnen",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "3*",
+        "latitude": 52.5415400088502,
+        "longitude": 13.4094660964307,
+        "webpage": "4c2243d2-dfbc-4cb9-93a0-0a0eeb0f9f5c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3916142004694,
+          52.5284900883471
+        ]
+      },
+      "properties": {
+        "name": "Hotel Adelante Berlin-Mitte",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5284900883471,
+        "longitude": 13.3916142004694,
+        "webpage": "d583963d-e90b-449e-b9cf-20cdf07b46ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4390111432583,
+          52.5056137842536
+        ]
+      },
+      "properties": {
+        "name": "Locke at East Side Gallery",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5056137842536,
+        "longitude": 13.4390111432583,
+        "webpage": "ea1b17a8-e0be-481d-b67c-1f0035ece046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4487907394813,
+          52.5250188422644
+        ]
+      },
+      "properties": {
+        "name": "sly Berlin",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5250188422644,
+        "longitude": 13.4487907394813,
+        "webpage": "07fa471a-83d7-4b29-920e-c33b91a93b6f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4489752831007,
+          52.5047886556076
+        ]
+      },
+      "properties": {
+        "name": "Michelberger Hotel",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5047886556076,
+        "longitude": 13.4489752831007,
+        "webpage": "b9fa8770-b45f-4a44-8207-0568e0e8830f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418448011055,
+          52.516966135454
+        ]
+      },
+      "properties": {
+        "name": "The Social Hub Berlin",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.516966135454,
+        "longitude": 13.418448011055,
+        "webpage": "1cc41876-fc96-4d8a-8c09-6b512e9f0756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3380645204539,
+          52.5058708356866
+        ]
+      },
+      "properties": {
+        "name": "25hours Hotel Bikini",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5058708356866,
+        "longitude": 13.3380645204539,
+        "webpage": "47367a28-9d31-4017-9251-6cddd4ef7cac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4106752502542,
+          52.5378994774265
+        ]
+      },
+      "properties": {
+        "name": "Hotel Oderberger Berlin",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5378994774265,
+        "longitude": 13.4106752502542,
+        "webpage": "e7932b8c-1d2f-46c3-beb0-b4cfe91fb550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3300139413938,
+          52.5010591198177
+        ]
+      },
+      "properties": {
+        "name": "Hoxton Charlottenburg",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.5010591198177,
+        "longitude": 13.3300139413938,
+        "webpage": "ad5784e7-ddbb-45bf-8fa7-8750b07083c1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7422881,
+          59.4389079
+        ]
+      },
+      "properties": {
+        "name": "Nunne boutique hotel",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "4*",
+        "latitude": 59.4389079,
+        "longitude": 24.7422881,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2747098,
+          48.8613423
+        ]
+      },
+      "properties": {
+        "name": "Brach Hotel",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8613423,
+        "longitude": 2.2747098,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3077186,
+          48.8649939
+        ]
+      },
+      "properties": {
+        "name": "Le Damantin Hotel & Spa",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8649939,
+        "longitude": 2.3077186,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3031845,
+          48.8678223
+        ]
+      },
+      "properties": {
+        "name": "Le Demeure Montaigne",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8678223,
+        "longitude": 2.3031845,
+        "webpage": "50D1550743704CE981AF60F891B3F4E5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3043737,
+          48.8662354
+        ]
+      },
+      "properties": {
+        "name": "Plaza Athenee",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8662354,
+        "longitude": 2.3043737,
+        "webpage": "AA85BE2A23684F739B06C5DBA4132735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3781494,
+          48.8716498
+        ]
+      },
+      "properties": {
+        "name": "Babel Belleville",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.8716498,
+        "longitude": 2.3781494,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3343131,
+          48.8797635
+        ]
+      },
+      "properties": {
+        "name": "1er Etage SoPi-Montmartre",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.8797635,
+        "longitude": 2.3343131,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3465293,
+          48.862983
+        ]
+      },
+      "properties": {
+        "name": "1er Etage Opéra",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.862983,
+        "longitude": 2.3465293,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3626255,
+          48.881494
+        ]
+      },
+      "properties": {
+        "name": "Hotel Bloum",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.881494,
+        "longitude": 2.3626255,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37008,
+          48.87189
+        ]
+      },
+      "properties": {
+        "name": "La Planque Hotel",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.87189,
+        "longitude": 2.37008,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2934732,
+          48.8775352
+        ]
+      },
+      "properties": {
+        "name": "Hidden Hotel",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8775352,
+        "longitude": 2.2934732,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334808,
+          48.8720705
+        ]
+      },
+      "properties": {
+        "name": "chouchou hote",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8720705,
+        "longitude": 2.334808,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357307,
+          48.832897
+        ]
+      },
+      "properties": {
+        "name": "Coq Hotel (Community of Quality), Arr12/13:Bastille-Bercy, Paris, France",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.832897,
+        "longitude": 2.357307,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3648627,
+          48.86148499999999
+        ]
+      },
+      "properties": {
+        "name": "HOTEL SOOKIE",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.86148499999999,
+        "longitude": 2.3648627,
+        "webpage": "8E3817AC989A4A8FB8B85B2007AD87DA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3350762,
+          48.8853565
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Monsieur Aristide",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8853565,
+        "longitude": 2.3350762,
+        "webpage": "B46D4A9BE47B4DD9AFFF1A951238AA3E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3294184,
+          48.8822038
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Le Ballu",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8822038,
+        "longitude": 2.3294184,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3728058,
+          48.8630528
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Fabric",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8630528,
+        "longitude": 2.3728058,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3126462,
+          48.8422129
+        ]
+      },
+      "properties": {
+        "name": "VILLA M",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8422129,
+        "longitude": 2.3126462,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3646196,
+          48.856093
+        ]
+      },
+      "properties": {
+        "name": "cour des vosges",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.856093,
+        "longitude": 2.3646196,
+        "webpage": "3329012433AF464D8C6ED8705CEF4BF7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2884786,
+          48.8498964
+        ]
+      },
+      "properties": {
+        "name": "Hotel Eiffel Saint Charles",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.8498964,
+        "longitude": 2.2884786,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346832,
+          48.873258
+        ]
+      },
+      "properties": {
+        "name": "Hotel de nell",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.873258,
+        "longitude": 2.346832,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3025393,
+          48.8729829
+        ]
+      },
+      "properties": {
+        "name": "Monsieur George Hotel & Spa - Champs-Elysées",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8729829,
+        "longitude": 2.3025393,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342873,
+          48.8645355
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Madame Rêve",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8645355,
+        "longitude": 2.342873,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3348593,
+          48.86547969999999
+        ]
+      },
+      "properties": {
+        "name": "Nolinski Paris",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.86547969999999,
+        "longitude": 2.3348593,
+        "webpage": "38042A2ABF0A478184BF998BF5D5BE3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3495973,
+          48.86232580000001
+        ]
+      },
+      "properties": {
+        "name": "Dandy Hotel & Kitchen",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.86232580000001,
+        "longitude": 2.3495973,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340226,
+          48.88118069999999
+        ]
+      },
+      "properties": {
+        "name": "HOY Paris - Yoga Hotel",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.88118069999999,
+        "longitude": 2.340226,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.407937,
+          48.848569
+        ]
+      },
+      "properties": {
+        "name": "Hotel PiaPia",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 48.848569,
+        "longitude": 2.407937,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354914,
+          48.8796592
+        ]
+      },
+      "properties": {
+        "name": "25hours",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8796592,
+        "longitude": 2.354914,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0631742,
+          47.4922565
+        ]
+      },
+      "properties": {
+        "name": "Brody house",
+        "place": "Budapest",
+        "country": "Hongarije",
+        "stars": "4*",
+        "latitude": 47.4922565,
+        "longitude": 19.0631742,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0770311,
+          56.9464671
+        ]
+      },
+      "properties": {
+        "name": "Park Inn by Radisson Riga Valdemara",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "4",
+        "latitude": 56.9464671,
+        "longitude": 24.0770311,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1135071,
+          56.9585561
+        ]
+      },
+      "properties": {
+        "name": "AC Hotel by Marriott Riga",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "4",
+        "latitude": 56.9585561,
+        "longitude": 24.1135071,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.112608,
+          56.947063
+        ]
+      },
+      "properties": {
+        "name": "Wellton Centrum Hotel & Spa",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "4",
+        "latitude": 56.947063,
+        "longitude": 24.112608,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1009291,
+          56.96242669999999
+        ]
+      },
+      "properties": {
+        "name": "a22 hotel",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "5",
+        "latitude": 56.96242669999999,
+        "longitude": 24.1009291,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1105377,
+          56.9536179
+        ]
+      },
+      "properties": {
+        "name": "Grand Poet Hotel and SPA by Semarah",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "5",
+        "latitude": 56.9536179,
+        "longitude": 24.1105377,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1033921,
+          56.9497326
+        ]
+      },
+      "properties": {
+        "name": "dome hotel",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "5",
+        "latitude": 56.9497326,
+        "longitude": 24.1033921,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.105454,
+          56.948319
+        ]
+      },
+      "properties": {
+        "name": "Neiburgs Hotel",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "4",
+        "latitude": 56.948319,
+        "longitude": 24.105454,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1029608,
+          56.9502345
+        ]
+      },
+      "properties": {
+        "name": "Grand Palace Hotel riga",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "5",
+        "latitude": 56.9502345,
+        "longitude": 24.1029608,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1102739,
+          56.9493568
+        ]
+      },
+      "properties": {
+        "name": "Relais Le Chevalier",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "",
+        "latitude": 56.9493568,
+        "longitude": 24.1102739,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1106321,
+          56.9482066
+        ]
+      },
+      "properties": {
+        "name": "rixwell konventa seta design hotel",
+        "place": "Riga",
+        "country": "letland",
+        "stars": "",
+        "latitude": 56.9482066,
+        "longitude": 24.1106321,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1063804,
+          56.9494056
+        ]
+      },
+      "properties": {
+        "name": "Old Riga Boutique Hotel \"Vecriga\"",
+        "place": "Riga",
+        "country": "Letland",
+        "stars": "4",
+        "latitude": 56.9494056,
+        "longitude": 24.1063804,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749652,
+          59.9107151
+        ]
+      },
+      "properties": {
+        "name": "Amerikalinjen",
+        "place": "Oslo",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 59.9107151,
+        "longitude": 10.749652,
+        "webpage": "5BCA5B8FF5D04757A11CDA9B86862349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7359369,
+          59.9135605
+        ]
+      },
+      "properties": {
+        "name": "Hotel Christiania Teater",
+        "place": "Oslo",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 59.9135605,
+        "longitude": 10.7359369,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7210813,
+          59.90763899999999
+        ]
+      },
+      "properties": {
+        "name": "The thief",
+        "place": "Oslo",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 59.90763899999999,
+        "longitude": 10.7210813,
+        "webpage": "32D4CF4CC0434A4DA903D8C53954B628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7196448,
+          59.91528280000001
+        ]
+      },
+      "properties": {
+        "name": "Sommerro",
+        "place": "Oslo",
+        "country": "Noorwegen",
+        "stars": "5*",
+        "latitude": 59.91528280000001,
+        "longitude": 10.7196448,
+        "webpage": "9D23A2BE3FB747FBBB1BFC72055F6159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6828037,
+          59.9204186
+        ]
+      },
+      "properties": {
+        "name": "Scandic Sjolyst",
+        "place": "Oslo",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 59.9204186,
+        "longitude": 10.6828037,
+        "webpage": "5F09B4120C614BCDB5A3E84A3A42B592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7461163,
+          59.91184339999999
+        ]
+      },
+      "properties": {
+        "name": "comfort hotel karl johan",
+        "place": "Oslo",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 59.91184339999999,
+        "longitude": 10.7461163,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326277999999999,
+          60.3938693
+        ]
+      },
+      "properties": {
+        "name": "Bergen Bors hotel",
+        "place": "Bergen",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 60.3938693,
+        "longitude": 5.326277999999999,
+        "webpage": "EA68BF2BF4D24988AC536F1F5E5B6DF1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3342827,
+          60.3906735
+        ]
+      },
+      "properties": {
+        "name": "Gran Terminus",
+        "place": "Bergen",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 60.3906735,
+        "longitude": 5.3342827,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3259107,
+          60.3959437
+        ]
+      },
+      "properties": {
+        "name": "Der hanseatiske",
+        "place": "Bergen",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 60.3959437,
+        "longitude": 5.3259107,
+        "webpage": "20E58C6C98FB435BA9907CD9D8699FE4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.327309899999999,
+          60.39369259999999
+        ]
+      },
+      "properties": {
+        "name": "Opus XVI",
+        "place": "Bergen",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 60.39369259999999,
+        "longitude": 5.327309899999999,
+        "webpage": "915E2D595E4047D68DF29626308D5DA1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3716516,
+          48.1909216
+        ]
+      },
+      "properties": {
+        "name": "Gratzl hotels / 3 locaties",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "3*",
+        "latitude": 48.1909216,
+        "longitude": 16.3716516,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3713095,
+          48.20806959999999
+        ]
+      },
+      "properties": {
+        "name": "25 hours",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "4*",
+        "latitude": 48.20806959999999,
+        "longitude": 16.3713095,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4210421,
+          48.2341273
+        ]
+      },
+      "properties": {
+        "name": "Hotel Schani Uno City",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "4*",
+        "latitude": 48.2341273,
+        "longitude": 16.4210421,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3710315,
+          48.201709
+        ]
+      },
+      "properties": {
+        "name": "The Amauris Hotel",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "5*",
+        "latitude": 48.201709,
+        "longitude": 16.3710315,
+        "webpage": "4220E0DD191A4987A973B92FF7AEF8B6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3710959,
+          48.2094469
+        ]
+      },
+      "properties": {
+        "name": "The Leo Grand Hotel",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "5*",
+        "latitude": 48.2094469,
+        "longitude": 16.3710959,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3575225,
+          48.1930772
+        ]
+      },
+      "properties": {
+        "name": "Motto",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "4*",
+        "latitude": 48.1930772,
+        "longitude": 16.3575225,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3514589,
+          48.2048789
+        ]
+      },
+      "properties": {
+        "name": "Altstadt Vienna",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "4*",
+        "latitude": 48.2048789,
+        "longitude": 16.3514589,
+        "webpage": "E906C35E6B7A42B3864AFB271D830788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3489949,
+          48.1969024
+        ]
+      },
+      "properties": {
+        "name": "Josefine Hotel",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "3*",
+        "latitude": 48.1969024,
+        "longitude": 16.3489949,
+        "webpage": "F474E8B0225E4614BB09142AD4E0E400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3342098,
+          48.1802324
+        ]
+      },
+      "properties": {
+        "name": "WELTWIEN app",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "4*",
+        "latitude": 48.1802324,
+        "longitude": 16.3342098,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3718109,
+          48.2039184
+        ]
+      },
+      "properties": {
+        "name": "Boutique Hotel zur Wiener Staatsoper",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "3*",
+        "latitude": 48.2039184,
+        "longitude": 16.3718109,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3029603,
+          48.1885403
+        ]
+      },
+      "properties": {
+        "name": "Sissi West",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "3*",
+        "latitude": 48.1885403,
+        "longitude": 16.3029603,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4065208,
+          48.2208487
+        ]
+      },
+      "properties": {
+        "name": "Zola Hotel - Palais de Bohème Adults Only",
+        "place": "Wenen",
+        "country": "Oostenrijk",
+        "stars": "",
+        "latitude": 48.2208487,
+        "longitude": 16.4065208,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.135296,
+          38.720595
+        ]
+      },
+      "properties": {
+        "name": "1908 Lisboa Hotel",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 38.720595,
+        "longitude": -9.135296,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.144072399999999,
+          38.7291579
+        ]
+      },
+      "properties": {
+        "name": "Moxy Lisbon City",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 38.7291579,
+        "longitude": -9.144072399999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1367859,
+          38.7192753
+        ]
+      },
+      "properties": {
+        "name": "OnJ st Lazaro",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 38.7192753,
+        "longitude": -9.1367859,
+        "webpage": "A4BE1D677240450FA441200BD12D9BF6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.144106599999999,
+          38.7140779
+        ]
+      },
+      "properties": {
+        "name": "Palacio Ludovice Wine Experience Hotel",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.7140779,
+        "longitude": -9.144106599999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1444525,
+          38.7139646
+        ]
+      },
+      "properties": {
+        "name": "The Lumiares Hotel & Spa",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.7139646,
+        "longitude": -9.1444525,
+        "webpage": "F3A7E1651FC444B8A4D9B8E63CFA9FDC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1505303,
+          38.7200022
+        ]
+      },
+      "properties": {
+        "name": "The Vintage Hotel & Spa",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.7200022,
+        "longitude": -9.1505303,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.147526299999999,
+          38.7097892
+        ]
+      },
+      "properties": {
+        "name": "Verride - Palacio Santa Catarina",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.7097892,
+        "longitude": -9.147526299999999,
+        "webpage": "816465AAF53A4C5CA6D81EA2C3BCC3A3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1393366,
+          38.7222524
+        ]
+      },
+      "properties": {
+        "name": "The lisboans",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "3*",
+        "latitude": 38.7222524,
+        "longitude": -9.1393366,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1393366,
+          38.7222524
+        ]
+      },
+      "properties": {
+        "name": "Dear Lisbon",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "2*",
+        "latitude": 38.7222524,
+        "longitude": -9.1393366,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1527318,
+          38.7109569
+        ]
+      },
+      "properties": {
+        "name": "The Verse",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 38.7109569,
+        "longitude": -9.1527318,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6224403,
+          41.1566894
+        ]
+      },
+      "properties": {
+        "name": "Baumhaus Serviced Apartments",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "",
+        "latitude": 41.1566894,
+        "longitude": -8.6224403,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.604875,
+          41.14446
+        ]
+      },
+      "properties": {
+        "name": "Cocorico Luxury GuestHouse",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 41.14446,
+        "longitude": -8.604875,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6762366,
+          41.1504296
+        ]
+      },
+      "properties": {
+        "name": "Flattered to be in Porto",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "",
+        "latitude": 41.1504296,
+        "longitude": -8.6762366,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6047196,
+          41.1570215
+        ]
+      },
+      "properties": {
+        "name": "Oporto Collection Rosario",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "3*",
+        "latitude": 41.1570215,
+        "longitude": -8.6047196,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.621129999999999,
+          41.150415
+        ]
+      },
+      "properties": {
+        "name": "Rosa et al",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 41.150415,
+        "longitude": -8.621129999999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6215994,
+          41.1566213
+        ]
+      },
+      "properties": {
+        "name": "Tipografia do Conto / Casa do Conto",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 41.1566213,
+        "longitude": -8.6215994,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6227395,
+          41.1455788
+        ]
+      },
+      "properties": {
+        "name": "Torel Avantgarde",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 41.1455788,
+        "longitude": -8.6227395,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6144983,
+          41.1409834
+        ]
+      },
+      "properties": {
+        "name": "EXMO",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 41.1409834,
+        "longitude": -8.6144983,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.612635,
+          41.14367
+        ]
+      },
+      "properties": {
+        "name": "Torel 1884 suites & appartments",
+        "place": "Porto",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 41.14367,
+        "longitude": -8.612635,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1743205,
+          41.3936176
+        ]
+      },
+      "properties": {
+        "name": "Casa Bonay",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 41.3936176,
+        "longitude": 2.1743205,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1902532,
+          41.4037672
+        ]
+      },
+      "properties": {
+        "name": "Hotel Hoxton",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 41.4037672,
+        "longitude": 2.1902532,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1660376,
+          41.3918848
+        ]
+      },
+      "properties": {
+        "name": "Margo House",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 41.3918848,
+        "longitude": 2.1660376,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1683553,
+          41.3860704
+        ]
+      },
+      "properties": {
+        "name": "Pulitzer",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 41.3860704,
+        "longitude": 2.1683553,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1753815,
+          41.3831717
+        ]
+      },
+      "properties": {
+        "name": "neri",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 41.3831717,
+        "longitude": 2.1753815,
+        "webpage": "92726D253B2F45A987321C06CE9DFEE5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.178983,
+          41.391114
+        ]
+      },
+      "properties": {
+        "name": "we boutique hotel",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 41.391114,
+        "longitude": 2.178983,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1700408,
+          41.3850256
+        ]
+      },
+      "properties": {
+        "name": "yurbban ramblas",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 41.3850256,
+        "longitude": 2.1700408,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163987,
+          41.3837754
+        ]
+      },
+      "properties": {
+        "name": "Antiga Casa Buenavista",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 41.3837754,
+        "longitude": 2.163987,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1596416,
+          41.3941102
+        ]
+      },
+      "properties": {
+        "name": "Hotel Casa Sagnier",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 41.3941102,
+        "longitude": 2.1596416,
+        "webpage": "CE6D547B722644868E6056C878CE33E3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1660376,
+          41.3918848
+        ]
+      },
+      "properties": {
+        "name": "Hotel Margot House Barcelona",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 41.3918848,
+        "longitude": 2.1660376,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1804625,
+          41.3798075
+        ]
+      },
+      "properties": {
+        "name": "Duquesa de Cardona Hotel",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 41.3798075,
+        "longitude": 2.1804625,
+        "webpage": "47119D9724C04BF7A6E2FE6586935564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1563439,
+          41.396047
+        ]
+      },
+      "properties": {
+        "name": "Casa Elliot by Bondia Hotel",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 41.396047,
+        "longitude": 2.1563439,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1800544,
+          41.3837792
+        ]
+      },
+      "properties": {
+        "name": "chic&basic habana hoose",
+        "place": "Barcelona",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 41.3837792,
+        "longitude": 2.1800544,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6789438,
+          40.434877
+        ]
+      },
+      "properties": {
+        "name": "Heritage Madrid Hotel",
+        "place": "Madrid",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 40.434877,
+        "longitude": -3.6789438,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.701377,
+          40.414601
+        ]
+      },
+      "properties": {
+        "name": "ME Madrid Reina Victoria",
+        "place": "Madrid",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 40.414601,
+        "longitude": -3.701377,
+        "webpage": "EF93E4FCC4C3411DB2F3420AEE1456FB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6981333,
+          40.4151079
+        ]
+      },
+      "properties": {
+        "name": "One Shot Prado  23",
+        "place": "Madrid",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 40.4151079,
+        "longitude": -3.6981333,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3756348,
+          39.4738338
+        ]
+      },
+      "properties": {
+        "name": "Cosmo Hotel Boutique",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 39.4738338,
+        "longitude": -0.3756348,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3339764,
+          39.4647707
+        ]
+      },
+      "properties": {
+        "name": "Lindala",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 39.4647707,
+        "longitude": -0.3339764,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3780809,
+          39.4721866
+        ]
+      },
+      "properties": {
+        "name": "One Shot Mercat 09",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 39.4721866,
+        "longitude": -0.3780809,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3868127,
+          39.4746905
+        ]
+      },
+      "properties": {
+        "name": "You & Co Quart Boutique",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 39.4746905,
+        "longitude": -0.3868127,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37438,
+          39.474303
+        ]
+      },
+      "properties": {
+        "name": "Casa Clarita",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.474303,
+        "longitude": -0.37438,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3726102,
+          39.4724429
+        ]
+      },
+      "properties": {
+        "name": "Helen Berger Boutique Hotel",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.4724429,
+        "longitude": -0.3726102,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.388842,
+          39.4750668
+        ]
+      },
+      "properties": {
+        "name": "L&H Gran Via Valencia",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.4750668,
+        "longitude": -0.388842,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3767065,
+          39.4794201
+        ]
+      },
+      "properties": {
+        "name": "MYR Puerta Serranos",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.4794201,
+        "longitude": -0.3767065,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3739577,
+          39.4683781
+        ]
+      },
+      "properties": {
+        "name": "Palacio Santa Clara",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.4683781,
+        "longitude": -0.3739577,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3663036,
+          39.4690174
+        ]
+      },
+      "properties": {
+        "name": "Soho Boutique Turia",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.4690174,
+        "longitude": -0.3663036,
+        "webpage": "081C05AC113C4635B670C06B823F5871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3767142,
+          39.4754925
+        ]
+      },
+      "properties": {
+        "name": "The Valentia Corretgería",
+        "place": "Valencia",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.4754925,
+        "longitude": -0.3767142,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.506327,
+          46.0527237
+        ]
+      },
+      "properties": {
+        "name": "Grand Hotel Union Eurostars",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "4*",
+        "latitude": 46.0527237,
+        "longitude": 14.506327,
+        "webpage": "54C8E0805DEB4E82B4832C67DA86C9CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4845679,
+          46.0753716
+        ]
+      },
+      "properties": {
+        "name": "One66 Hotel",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "",
+        "latitude": 46.0753716,
+        "longitude": 14.4845679,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5050269,
+          46.0482325
+        ]
+      },
+      "properties": {
+        "name": "Hotel Heritage",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "",
+        "latitude": 46.0482325,
+        "longitude": 14.5050269,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5053554,
+          46.0482897
+        ]
+      },
+      "properties": {
+        "name": "Zlata Ladjica Boutique Hotel",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "5*",
+        "latitude": 46.0482897,
+        "longitude": 14.5053554,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5046834,
+          46.0518221
+        ]
+      },
+      "properties": {
+        "name": "AS Boutique Hotel",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "",
+        "latitude": 46.0518221,
+        "longitude": 14.5046834,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5039761,
+          46.048105
+        ]
+      },
+      "properties": {
+        "name": "Antiq",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "4*",
+        "latitude": 46.048105,
+        "longitude": 14.5039761,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5059916,
+          46.0505034
+        ]
+      },
+      "properties": {
+        "name": "Tromostovje Apartments",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "3*",
+        "latitude": 46.0505034,
+        "longitude": 14.5059916,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5457938,
+          46.0681382
+        ]
+      },
+      "properties": {
+        "name": "Art",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "4*",
+        "latitude": 46.0681382,
+        "longitude": 14.5457938,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4818951,
+          46.0555469
+        ]
+      },
+      "properties": {
+        "name": "Hotel Cad",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "3*",
+        "latitude": 46.0555469,
+        "longitude": 14.4818951,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5058403,
+          46.0495834
+        ]
+      },
+      "properties": {
+        "name": "Vander Urbani Resort",
+        "place": "ljubljana",
+        "country": "Slovenie",
+        "stars": "",
+        "latitude": 46.0495834,
+        "longitude": 14.5058403,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.00529,
+          41.04039
+        ]
+      },
+      "properties": {
+        "name": "Shangri-la Bosphorus",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "5*",
+        "latitude": 41.04039,
+        "longitude": 29.00529,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.974937,
+          41.023805
+        ]
+      },
+      "properties": {
+        "name": "Khai Hotel Karaköy",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 41.023805,
+        "longitude": 28.974937,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9733897,
+          41.02504039999999
+        ]
+      },
+      "properties": {
+        "name": "Ecole St. Pierre Hotel",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 41.02504039999999,
+        "longitude": 28.9733897,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9820484,
+          41.02909380000001
+        ]
+      },
+      "properties": {
+        "name": "Witt Istanbul Suites",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "3*",
+        "latitude": 41.02909380000001,
+        "longitude": 28.9820484,
+        "webpage": "9D681E2D015B418FB5042A3DE6DE3A2E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9746591,
+          41.0265111
+        ]
+      },
+      "properties": {
+        "name": "World House Boutique Hotel Galata",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "3*",
+        "latitude": 41.0265111,
+        "longitude": 28.9746591,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9723579,
+          41.0258719
+        ]
+      },
+      "properties": {
+        "name": "Walton Hotels Galata",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "4*",
+        "latitude": 41.0258719,
+        "longitude": 28.9723579,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.974304,
+          41.0289702
+        ]
+      },
+      "properties": {
+        "name": "RUZ Hotels Galata",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "3*",
+        "latitude": 41.0289702,
+        "longitude": 28.974304,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9805336,
+          41.0317698
+        ]
+      },
+      "properties": {
+        "name": "Hammamhane",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "3*",
+        "latitude": 41.0317698,
+        "longitude": 28.9805336,
+        "webpage": "BE467161F28F41C2BC8E8EBAD04CBC03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9808418,
+          41.0057111
+        ]
+      },
+      "properties": {
+        "name": "Tria Hotel Istanbul-Special Category",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "4*",
+        "latitude": 41.0057111,
+        "longitude": 28.9808418,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9801252,
+          41.0050833
+        ]
+      },
+      "properties": {
+        "name": "Alilass Hotel",
+        "place": "Istanbul",
+        "country": "Turkije",
+        "stars": "3*",
+        "latitude": 41.0050833,
+        "longitude": 28.9801252,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3990135,
+          50.0873921
+        ]
+      },
+      "properties": {
+        "name": "Vintage Design Hotel Sax",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "4*",
+        "latitude": 50.0873921,
+        "longitude": 14.3990135,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4261058,
+          50.0899973
+        ]
+      },
+      "properties": {
+        "name": "Hotel Josef",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "4*",
+        "latitude": 50.0899973,
+        "longitude": 14.4261058,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4322936,
+          50.082256
+        ]
+      },
+      "properties": {
+        "name": "MeetMe23",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "3*",
+        "latitude": 50.082256,
+        "longitude": 14.4322936,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3985878,
+          50.0880255
+        ]
+      },
+      "properties": {
+        "name": "MOOo by the Castle",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "4*",
+        "latitude": 50.0880255,
+        "longitude": 14.3985878,
+        "webpage": "06EB14A176D14D11B014F892B1B1D509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4219033,
+          50.0913716
+        ]
+      },
+      "properties": {
+        "name": "Allure Hotel Prague 4*",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "4*",
+        "latitude": 50.0913716,
+        "longitude": 14.4219033,
+        "webpage": "9183D7B342944AD0B6919B0FF058C0E5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4059453,
+          50.0872817
+        ]
+      },
+      "properties": {
+        "name": "Domus Balthasar Boutique",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "4*",
+        "latitude": 50.0872817,
+        "longitude": 14.4059453,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4415644,
+          50.091117
+        ]
+      },
+      "properties": {
+        "name": "The Viaduct Suites & More",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "",
+        "latitude": 50.091117,
+        "longitude": 14.4415644,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4180141,
+          50.0775048
+        ]
+      },
+      "properties": {
+        "name": "MOSAIC HOUSE Design Hotel",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "4*",
+        "latitude": 50.0775048,
+        "longitude": 14.4180141,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4482835,
+          50.083675
+        ]
+      },
+      "properties": {
+        "name": "boho",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "5*",
+        "latitude": 50.083675,
+        "longitude": 14.4482835,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4063774,
+          50.08879
+        ]
+      },
+      "properties": {
+        "name": "Augustine",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "5*",
+        "latitude": 50.08879,
+        "longitude": 14.4063774,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4183915,
+          50.08763
+        ]
+      },
+      "properties": {
+        "name": "The Emblem Hotel",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "5*",
+        "latitude": 50.08763,
+        "longitude": 14.4183915,
+        "webpage": "9122C7E88C7B4559973469B3FAE0E567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4303774,
+          50.08592549999999
+        ]
+      },
+      "properties": {
+        "name": "THE JULIUS 5*",
+        "place": "Praag",
+        "country": "Tsjechië",
+        "stars": "5*",
+        "latitude": 50.08592549999999,
+        "longitude": 14.4303774,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188246,
+          55.951068
+        ]
+      },
+      "properties": {
+        "name": "The Scotsman hotel",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 55.951068,
+        "longitude": -3.188246,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1828116,
+          55.951332
+        ]
+      },
+      "properties": {
+        "name": "BrewDog DogHouse Edinburgh",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "3*",
+        "latitude": 55.951332,
+        "longitude": -3.1828116,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1908589,
+          55.9499399
+        ]
+      },
+      "properties": {
+        "name": "Cheval Old Town Chambers",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 55.9499399,
+        "longitude": -3.1908589,
+        "webpage": "C0A6BE4EDBBC41318A0CE2B16404371D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2147528,
+          55.9596278
+        ]
+      },
+      "properties": {
+        "name": "The Raeburn",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 55.9596278,
+        "longitude": -3.2147528,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1573731,
+          55.9365412
+        ]
+      },
+      "properties": {
+        "name": "Prestonfield House",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "5*",
+        "latitude": 55.9365412,
+        "longitude": -3.1573731,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2054676,
+          55.9523801
+        ]
+      },
+      "properties": {
+        "name": "Eden Locke",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 55.9523801,
+        "longitude": -3.2054676,
+        "webpage": "BBD70F6E588C40C0AF7BC7DC4AB44805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1929921,
+          55.9486259
+        ]
+      },
+      "properties": {
+        "name": "Virgin Hotels Edinburgh",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "5*",
+        "latitude": 55.9486259,
+        "longitude": -3.1929921,
+        "webpage": "F6238E8FBF9D4B02B061CC4BB142E1D4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2007008,
+          55.9539871
+        ]
+      },
+      "properties": {
+        "name": "rabble",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 55.9539871,
+        "longitude": -3.2007008,
+        "webpage": "B9F3D01E717347B58E66248732F46A7F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1897586,
+          55.95099260000001
+        ]
+      },
+      "properties": {
+        "name": "market street hotel",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 55.95099260000001,
+        "longitude": -3.1897586,
+        "webpage": "72DC068533FB4BB4B55143C59962B311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1855901,
+          55.95668449999999
+        ]
+      },
+      "properties": {
+        "name": "The Glasshouse",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "5*",
+        "latitude": 55.95668449999999,
+        "longitude": -3.1855901,
+        "webpage": "3AF9EB27F55A4CF6A5A929B6E0ACC0B9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2103393,
+          55.9427763
+        ]
+      },
+      "properties": {
+        "name": "Moxy Edinburgh Fountainbridge",
+        "place": "Edinburgh",
+        "country": "Verenigd Koninkrijk",
+        "stars": "3*",
+        "latitude": 55.9427763,
+        "longitude": -3.2103393,
+        "webpage": "A88D9A2090EC4CA5945760DCB2334992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1275862,
+          51.5072178
+        ]
+      },
+      "properties": {
+        "name": "Artist Residence",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 51.5072178,
+        "longitude": -0.1275862,
+        "webpage": "6FE4D7CFF3B4496099CEB54C06549F3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1046483,
+          51.5056758
+        ]
+      },
+      "properties": {
+        "name": "Hoxten Southwark",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 51.5056758,
+        "longitude": -0.1046483,
+        "webpage": "561DDC0309E64576932E5CF1526332CD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0966846,
+          51.51080030000001
+        ]
+      },
+      "properties": {
+        "name": "Locke at Broken Wharf",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 51.51080030000001,
+        "longitude": -0.0966846,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07726709999999999,
+          51.52552009999999
+        ]
+      },
+      "properties": {
+        "name": "One Hundred Shoreditch",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 51.52552009999999,
+        "longitude": -0.07726709999999999,
+        "webpage": "C8E8C079D40845B2A23CDF48B20C8317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1354697,
+          51.517575
+        ]
+      },
+      "properties": {
+        "name": "The Mandrake",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 51.517575,
+        "longitude": -0.1354697,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.070349,
+          51.5144083
+        ]
+      },
+      "properties": {
+        "name": "Buckle street studios, Bermonds Locke, Broken wharf, leman, Kingsland",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "",
+        "latitude": 51.5144083,
+        "longitude": -0.070349,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1275862,
+          51.5072178
+        ]
+      },
+      "properties": {
+        "name": "The Alan",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 51.5072178,
+        "longitude": -0.1275862,
+        "webpage": "62882639780D4E22A09F12290AC91EDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.135365,
+          51.5138596
+        ]
+      },
+      "properties": {
+        "name": "Broadwick Soho",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "3*",
+        "latitude": 51.5138596,
+        "longitude": -0.135365,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0757185,
+          51.5449335
+        ]
+      },
+      "properties": {
+        "name": "Lime Tree",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "7*",
+        "latitude": 51.5449335,
+        "longitude": -0.0757185,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2034404,
+          51.512265
+        ]
+      },
+      "properties": {
+        "name": "portobello hotel",
+        "place": "Londen",
+        "country": "Verenigd Koninkrijk",
+        "stars": "4*",
+        "latitude": 51.512265,
+        "longitude": -0.2034404,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0656255,
+          59.3327036
+        ]
+      },
+      "properties": {
+        "name": "Bank",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "5*",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0733061,
+          59.3322318
+        ]
+      },
+      "properties": {
+        "name": "Berns",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "4*",
+        "latitude": 59.3322318,
+        "longitude": 18.0733061,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0361039,
+          59.3460252
+        ]
+      },
+      "properties": {
+        "name": "Blique by Nobis",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "4*",
+        "latitude": 59.3460252,
+        "longitude": 18.0361039,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0668655,
+          59.33083019999999
+        ]
+      },
+      "properties": {
+        "name": "Hobo",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "4*",
+        "latitude": 59.33083019999999,
+        "longitude": 18.0668655,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0771018,
+          59.329018
+        ]
+      },
+      "properties": {
+        "name": "Lydmar",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "5*",
+        "latitude": 59.329018,
+        "longitude": 18.0771018,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0619045,
+          59.33759320000001
+        ]
+      },
+      "properties": {
+        "name": "Miss Clara",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "4*",
+        "latitude": 59.33759320000001,
+        "longitude": 18.0619045,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.071608,
+          59.33694500000001
+        ]
+      },
+      "properties": {
+        "name": "The Sparrow hotel",
+        "place": "Stockholm",
+        "country": "zweden",
+        "stars": "4*",
+        "latitude": 59.33694500000001,
+        "longitude": 18.071608,
+        "webpage": "DD1CC3B27F354C128C0062ECF0AD8DA7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.964009,
+          59.340879
+        ]
+      },
+      "properties": {
+        "name": "Ulfsunda Slott",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "4*",
+        "latitude": 59.340879,
+        "longitude": 17.964009,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.087685,
+          59.3247597
+        ]
+      },
+      "properties": {
+        "name": "hotel skeppsholmen",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "4*",
+        "latitude": 59.3247597,
+        "longitude": 18.087685,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0738338,
+          59.33348480000001
+        ]
+      },
+      "properties": {
+        "name": "nobis hotel stockholm",
+        "place": "Stockholm",
+        "country": "Zweden",
+        "stars": "5*",
+        "latitude": 59.33348480000001,
+        "longitude": 18.0738338,
+        "webpage": "EC58C9873F464C22BFACCE3A9C41E76B"
+      }
+    }
+  ],
+  "name": "Steden"
+}

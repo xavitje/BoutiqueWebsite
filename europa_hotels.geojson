@@ -1,0 +1,6390 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82914030000001,
+          34.9933602
+        ]
+      },
+      "properties": {
+        "name": "Casale Panayiotis",
+        "place": "Kalopanayiotis",
+        "country": "Cyprus",
+        "stars": "4*",
+        "latitude": 34.9933602,
+        "longitude": 32.82914030000001,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.04582,
+          34.6748277
+        ]
+      },
+      "properties": {
+        "name": "S Paul City Hotel",
+        "place": "Limassol",
+        "country": "Cyprus",
+        "stars": "3*",
+        "latitude": 34.6748277,
+        "longitude": 33.04582,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3736,
+          35.1797
+        ]
+      },
+      "properties": {
+        "name": "Gillham Vineyard Hotel",
+        "place": "Ilgaz",
+        "country": "Cyprus",
+        "stars": "4*",
+        "latitude": 35.1797,
+        "longitude": 33.3736,
+        "webpage": "44E59007C17B4AC9A983C002006105CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.029474,
+          34.6814015
+        ]
+      },
+      "properties": {
+        "name": "Alasia Boutique Hotel",
+        "place": "Limassol",
+        "country": "Cyprus",
+        "stars": "4*",
+        "latitude": 34.6814015,
+        "longitude": 33.029474,
+        "webpage": "0726868F5C03464D990C865F86B584D2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9,
+          35.0333
+        ]
+      },
+      "properties": {
+        "name": "Ayii Anagyri - Secret Forest | Wellness Retreat & Healing Spa",
+        "place": "Milou",
+        "country": "Cyprus",
+        "stars": "4*",
+        "latitude": 35.0333,
+        "longitude": 32.9,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3257199,
+          34.8952365
+        ]
+      },
+      "properties": {
+        "name": "Cap St Georges Hotel & Resort",
+        "place": "Peyia",
+        "country": "Cyprus",
+        "stars": "5*",
+        "latitude": 34.8952365,
+        "longitude": 32.3257199,
+        "webpage": "3C33FBE4B9CA47FFA84895D9996714BB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3067529,
+          34.8665334
+        ]
+      },
+      "properties": {
+        "name": "The Agora Hotel - Adults Only",
+        "place": "Lefkara",
+        "country": "Cyprus",
+        "stars": "4*",
+        "latitude": 34.8665334,
+        "longitude": 33.3067529,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4986048,
+          34.8256436
+        ]
+      },
+      "properties": {
+        "name": "Minthis Resort",
+        "place": "",
+        "country": "Cyprus",
+        "stars": "5*",
+        "latitude": 34.8256436,
+        "longitude": 32.4986048,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.073264,
+          34.988292
+        ]
+      },
+      "properties": {
+        "name": "Periyiali Konnos Villas Beach Resort",
+        "place": "",
+        "country": "Cyprus",
+        "stars": "3*",
+        "latitude": 34.988292,
+        "longitude": 34.073264,
+        "webpage": "4FA294D6E8084F478C2DD461A28B0B46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3667,
+          35.1667
+        ]
+      },
+      "properties": {
+        "name": "M BOUTIQUE",
+        "place": "",
+        "country": "Cyprus",
+        "stars": "4*",
+        "latitude": 35.1667,
+        "longitude": 33.3667,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5833,
+          45.4833
+        ]
+      },
+      "properties": {
+        "name": "le moulin de roc",
+        "place": "Champagne de Belair",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 45.4833,
+        "longitude": -0.5833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3404113,
+          36.5384315
+        ]
+      },
+      "properties": {
+        "name": "Saluti da Stampalia Suites",
+        "place": "Chora",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.5384315,
+        "longitude": 26.3404113,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7204893,
+          37.9088148
+        ]
+      },
+      "properties": {
+        "name": "Scale Suites",
+        "place": "L",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.9088148,
+        "longitude": 23.7204893,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7373157,
+          37.9806817
+        ]
+      },
+      "properties": {
+        "name": "Shila",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.9806817,
+        "longitude": 23.7373157,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7414082,
+          37.9780309
+        ]
+      },
+      "properties": {
+        "name": "Project 3 urban chic hotel",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.9780309,
+        "longitude": 23.7414082,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7493146,
+          37.9773743
+        ]
+      },
+      "properties": {
+        "name": "The modernist",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.9773743,
+        "longitude": 23.7493146,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7315222,
+          37.9752809
+        ]
+      },
+      "properties": {
+        "name": "Ergon house",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.9752809,
+        "longitude": 23.7315222,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7335136,
+          37.9733621
+        ]
+      },
+      "properties": {
+        "name": "New hotel",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.9733621,
+        "longitude": 23.7335136,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8220697019712,
+          38.0786293169115
+        ]
+      },
+      "properties": {
+        "name": "Semiramis",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 38.0786293169115,
+        "longitude": 23.8220697019712,
+        "webpage": "2775cb6a-59e8-4698-9109-4e8d9af0f37c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7293583,
+          37.9741735
+        ]
+      },
+      "properties": {
+        "name": "a77 suites",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.9741735,
+        "longitude": 23.7293583,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7218153,
+          37.9789101
+        ]
+      },
+      "properties": {
+        "name": "the foundry suites",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "2*",
+        "latitude": 37.9789101,
+        "longitude": 23.7218153,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7272219,
+          37.9790629
+        ]
+      },
+      "properties": {
+        "name": "vasi",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.9790629,
+        "longitude": 23.7272219,
+        "webpage": "1856CFBFC5C24DD0B3C13F50720471D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7723704,
+          37.99635749999999
+        ]
+      },
+      "properties": {
+        "name": "newel psychiko",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.99635749999999,
+        "longitude": 23.7723704,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7207109,
+          37.9783925
+        ]
+      },
+      "properties": {
+        "name": "Asomaton",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.9783925,
+        "longitude": 23.7207109,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7320003,
+          37.9769401
+        ]
+      },
+      "properties": {
+        "name": "gatsby",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.9769401,
+        "longitude": 23.7320003,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7260417,
+          37.97770310000001
+        ]
+      },
+      "properties": {
+        "name": "mona",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.97770310000001,
+        "longitude": 23.7260417,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7212979,
+          37.9779047
+        ]
+      },
+      "properties": {
+        "name": "moon and stars",
+        "place": "Athene",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.9779047,
+        "longitude": 23.7212979,
+        "webpage": "2BA9D23BC1F54536B093CEFE64664447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.31183042744,
+          40.0993554075729
+        ]
+      },
+      "properties": {
+        "name": "Porto sani",
+        "place": "Kassandra",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 40.0993554075729,
+        "longitude": 23.31183042744,
+        "webpage": "BEA34024F80C40B4823C9ADECD6BDEE9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3090337390912,
+          40.0990556603713
+        ]
+      },
+      "properties": {
+        "name": "Sani Asterias",
+        "place": "Kassandra",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 40.0990556603713,
+        "longitude": 23.3090337390912,
+        "webpage": "F2F1E3F37EA14F18BD1AC01071999337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3387621599817,
+          40.0943791945115
+        ]
+      },
+      "properties": {
+        "name": "Sani Verde",
+        "place": "Kassandra",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 40.0943791945115,
+        "longitude": 23.3387621599817,
+        "webpage": "BF9357B473524E07A21662E65C5D8556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.600927366078,
+          39.9937425691188
+        ]
+      },
+      "properties": {
+        "name": "Blue Carpet Luxury suites",
+        "place": "Pefkohori",
+        "country": "Griekenland",
+        "stars": "",
+        "latitude": 39.9937425691188,
+        "longitude": 23.600927366078,
+        "webpage": "F10E334E87874316BC67ED10993573E5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4167,
+          40.0833
+        ]
+      },
+      "properties": {
+        "name": "Cocooning suites",
+        "place": "Kassandra",
+        "country": "Griekenland",
+        "stars": "",
+        "latitude": 40.0833,
+        "longitude": 23.4167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9684453,
+          40.3761623
+        ]
+      },
+      "properties": {
+        "name": "Avaton luxury hotel & villas",
+        "place": "Ouranoupoli",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 40.3761623,
+        "longitude": 23.9684453,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4726267967672,
+          40.262818429022
+        ]
+      },
+      "properties": {
+        "name": "Glavas inn",
+        "place": "Gerakini",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 40.262818429022,
+        "longitude": 23.4726267967672,
+        "webpage": "B744185047B84B3D89624F9D2356EAA3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8043417974778,
+          40.1914848765594
+        ]
+      },
+      "properties": {
+        "name": "ekies all senses resort",
+        "place": "vourvourou",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 40.1914848765594,
+        "longitude": 23.8043417974778,
+        "webpage": "895D0ED3ABB141B3A1475104262CA0BB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3796256,
+          36.6842909
+        ]
+      },
+      "properties": {
+        "name": "Calilo",
+        "place": "Ios Island",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.6842909,
+        "longitude": 25.3796256,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6373801,
+          38.1133431
+        ]
+      },
+      "properties": {
+        "name": "F Zeen",
+        "place": "Lourdata",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 38.1133431,
+        "longitude": 20.6373801,
+        "webpage": "02366683FC0E4064A6F00A613051753E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4833,
+          38.1667
+        ]
+      },
+      "properties": {
+        "name": "Eliamos Villas Hotel & Spa",
+        "place": "spartia",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 38.1667,
+        "longitude": 20.4833,
+        "webpage": "9A4DC3208B5949B29245DDAE3AB67F9C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1260676,
+          36.8654601
+        ]
+      },
+      "properties": {
+        "name": "Oku Kos",
+        "place": "Marmari",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.8654601,
+        "longitude": 27.1260676,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2755196,
+          36.9133457
+        ]
+      },
+      "properties": {
+        "name": "Lango Design Hotel & Spa",
+        "place": "Kos stad",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.9133457,
+        "longitude": 27.2755196,
+        "webpage": "FD972F13922442CFB4BD62D86F32371A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2956,
+          36.892259
+        ]
+      },
+      "properties": {
+        "name": "kosea boutique hotel",
+        "place": "Kos stad",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.892259,
+        "longitude": 27.2956,
+        "webpage": "C9C5C9C2F89C42D0BD9B7F3AE92672B4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4608759,
+          35.2832358
+        ]
+      },
+      "properties": {
+        "name": "Cretan Malia Park",
+        "place": "Malia",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.2832358,
+        "longitude": 25.4608759,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7181034,
+          35.2026443
+        ]
+      },
+      "properties": {
+        "name": "Minos Palace Hotel & Suites",
+        "place": "agios nicolaas",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.2026443,
+        "longitude": 25.7181034,
+        "webpage": "E8476F9040D0445C87266EE126B51BEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7175854,
+          35.2042892
+        ]
+      },
+      "properties": {
+        "name": "St nicolas bay resort",
+        "place": "agios nicolaas",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 35.2042892,
+        "longitude": 25.7175854,
+        "webpage": "946B83396DFF4E43975E10EA7F8C3635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7311774,
+          35.2480097
+        ]
+      },
+      "properties": {
+        "name": "Elounda beach hotel & villas",
+        "place": "elounda",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.2480097,
+        "longitude": 25.7311774,
+        "webpage": "6E89CC28D28E42C191EFC103A72ADAC5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7139279,
+          35.1999024
+        ]
+      },
+      "properties": {
+        "name": "Minos beach art hotel",
+        "place": "agios nicolaas",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 35.1999024,
+        "longitude": 25.7139279,
+        "webpage": "7F3D0F99F8EA4512A7E4D223D7F5C3C9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4667,
+          35.3667
+        ]
+      },
+      "properties": {
+        "name": "Kapsaliana village",
+        "place": "Rethmynon",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.3667,
+        "longitude": 24.4667,
+        "webpage": "E2A14DE9011643E987D132D22E83AEDB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6909049543275,
+          35.4177753501775
+        ]
+      },
+      "properties": {
+        "name": "z boutique",
+        "place": "Rethmynon",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.4177753501775,
+        "longitude": 24.6909049543275,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0157464,
+          35.5166512
+        ]
+      },
+      "properties": {
+        "name": "Azade",
+        "place": "Chania",
+        "country": "Griekenland",
+        "stars": "",
+        "latitude": 35.5166512,
+        "longitude": 24.0157464,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1833,
+          35.3333
+        ]
+      },
+      "properties": {
+        "name": "Acro suites",
+        "place": "Pelagia",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 35.3333,
+        "longitude": 25.1833,
+        "webpage": "40E78FD9EFBF45B89B9AE114E82B0A0C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6,
+          37.65
+        ]
+      },
+      "properties": {
+        "name": "Brazzo di Maina",
+        "place": "Karavostasi",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.65,
+        "longitude": 21.6,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.137528,
+          35.339641
+        ]
+      },
+      "properties": {
+        "name": "Domus Ariadne",
+        "place": "Heraklion",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 35.339641,
+        "longitude": 25.137528,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0195112,
+          35.5185026
+        ]
+      },
+      "properties": {
+        "name": "ambassadors residence boutique",
+        "place": "chania",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 35.5185026,
+        "longitude": 24.0195112,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9418324,
+          35.51519650000001
+        ]
+      },
+      "properties": {
+        "name": "The Theodore Boutique Hote",
+        "place": "Agia Marina Nea",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 35.51519650000001,
+        "longitude": 23.9418324,
+        "webpage": "8E52FF7B531043BDB39364BC9A402611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.709916,
+          35.174318
+        ]
+      },
+      "properties": {
+        "name": "The Island Concept Luxury Boutique",
+        "place": "Agios Nikolaos",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.174318,
+        "longitude": 25.709916,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4032791,
+          35.1869165
+        ]
+      },
+      "properties": {
+        "name": "Amente Mindful Stay",
+        "place": "Agios Plakias",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 35.1869165,
+        "longitude": 24.4032791,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5455721093198,
+          35.3728084599039
+        ]
+      },
+      "properties": {
+        "name": "The Syntopia",
+        "place": "Adelianos",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.3728084599039,
+        "longitude": 24.5455721093198,
+        "webpage": "147E84CE82E04EAB948C583F7E7B2872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4007114,
+          35.18858549999999
+        ]
+      },
+      "properties": {
+        "name": "KYMANI  Boutique hotel",
+        "place": "Plakias",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 35.18858549999999,
+        "longitude": 24.4007114,
+        "webpage": "AEDDDB26415D4B649E520225EE65A130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.020465,
+          35.5154019
+        ]
+      },
+      "properties": {
+        "name": "malmo historic hotel",
+        "place": "chania",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 35.5154019,
+        "longitude": 24.020465,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.039351,
+          35.5174891
+        ]
+      },
+      "properties": {
+        "name": "domus blanc boutique hotel",
+        "place": "Chania",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 35.5174891,
+        "longitude": 24.039351,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8115125,
+          35.28479910000001
+        ]
+      },
+      "properties": {
+        "name": "Monastery Estate Retreat",
+        "place": "Sougia",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 35.28479910000001,
+        "longitude": 23.8115125,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4667,
+          35.3667
+        ]
+      },
+      "properties": {
+        "name": "Kapsaliana Village Hotel",
+        "place": "Kapsalina",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.3667,
+        "longitude": 24.4667,
+        "webpage": "E2A14DE9011643E987D132D22E83AEDB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2030984,
+          35.3300831
+        ]
+      },
+      "properties": {
+        "name": "Pnoe Breathing Life",
+        "place": "Karteros",
+        "country": "Griekenland",
+        "stars": "",
+        "latitude": 35.3300831,
+        "longitude": 25.2030984,
+        "webpage": "D95A4F39158B4A94800D005C2FA51559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1568454,
+          35.235369
+        ]
+      },
+      "properties": {
+        "name": "Inotropes Boutique Suites",
+        "place": "Archanes",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.235369,
+        "longitude": 25.1568454,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1592084,
+          35.2327459
+        ]
+      },
+      "properties": {
+        "name": "Manili Boutique Suites & Villas",
+        "place": "Archanes",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 35.2327459,
+        "longitude": 25.1592084,
+        "webpage": "AEDDDB26415D4B649E520225EE65A130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.667116,
+          38.8166996
+        ]
+      },
+      "properties": {
+        "name": "Epiphany Villas Lefkada",
+        "place": "Tsoukalades",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 38.8166996,
+        "longitude": 20.667116,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4477737389684,
+          36.7265077555046
+        ]
+      },
+      "properties": {
+        "name": "Arco Solium Suites",
+        "place": "Milos",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 36.7265077555046,
+        "longitude": 24.4477737389684,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3987988,
+          37.4524759
+        ]
+      },
+      "properties": {
+        "name": "Bill & Coo",
+        "place": "Mykonos",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.4524759,
+        "longitude": 25.3987988,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3289486,
+          37.4566646
+        ]
+      },
+      "properties": {
+        "name": "Cavo Tagoo",
+        "place": "Mykonos",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.4566646,
+        "longitude": 25.3289486,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3136684,
+          37.4209298
+        ]
+      },
+      "properties": {
+        "name": "Mykonos grand hotel resort",
+        "place": "Agios Ioannis",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.4209298,
+        "longitude": 25.3136684,
+        "webpage": "1C1468A1D4C744548214B9C42072D3A3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3333,
+          37.45
+        ]
+      },
+      "properties": {
+        "name": "Kalesma",
+        "place": "",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.45,
+        "longitude": 25.3333,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3667,
+          37.4333
+        ]
+      },
+      "properties": {
+        "name": "Nomad",
+        "place": "Kalo livadi",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.4333,
+        "longitude": 25.3667,
+        "webpage": "4DFBFBD34689463BB939E5D2F03B4D1A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3160722,
+          37.4698425
+        ]
+      },
+      "properties": {
+        "name": "nimbus mykonos",
+        "place": "Agios Stefanos",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.4698425,
+        "longitude": 25.3160722,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3508388,
+          37.433475
+        ]
+      },
+      "properties": {
+        "name": "ac village christoulis",
+        "place": "Mykonos",
+        "country": "Griekenland",
+        "stars": "2*",
+        "latitude": 37.433475,
+        "longitude": 25.3508388,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3699199,
+          37.0518762
+        ]
+      },
+      "properties": {
+        "name": "Naxian on the Beach",
+        "place": "Plaka",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.0518762,
+        "longitude": 25.3699199,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3597361,
+          37.0603537
+        ]
+      },
+      "properties": {
+        "name": "Annio Studios",
+        "place": "Plaka",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.0603537,
+        "longitude": 25.3597361,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2482051,
+          37.1253157
+        ]
+      },
+      "properties": {
+        "name": "Cosme",
+        "place": "Paros",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.1253157,
+        "longitude": 25.2482051,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2863892,
+          37.1390377
+        ]
+      },
+      "properties": {
+        "name": "Seven Santa Maria",
+        "place": "Naoussa",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.1390377,
+        "longitude": 25.2863892,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.15,
+          37.0833
+        ]
+      },
+      "properties": {
+        "name": "Paros Comfy Suites",
+        "place": "Paros",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.0833,
+        "longitude": 25.15,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2964735,
+          37.7678455
+        ]
+      },
+      "properties": {
+        "name": "Dexamenes Seaside Hotel",
+        "place": "Amaliada",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.7678455,
+        "longitude": 21.2964735,
+        "webpage": "CECD6FBE677141D79759AD3A0704FA40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4658582273072,
+          36.4408112633042
+        ]
+      },
+      "properties": {
+        "name": "Tainaron Blue Resort",
+        "place": "Kastri, Vathia",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.4408112633042,
+        "longitude": 22.4658582273072,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0140670175587,
+          36.6457934290448
+        ]
+      },
+      "properties": {
+        "name": "Kinsterna hotel",
+        "place": "Monemvasia",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.6457934290448,
+        "longitude": 23.0140670175587,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275388,
+          37.9838096
+        ]
+      },
+      "properties": {
+        "name": "The Margi",
+        "place": "Athens",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.9838096,
+        "longitude": 23.7275388,
+        "webpage": "7B15A5DEA10647158F12DABEEAE12A49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3739256101455,
+          37.0680103013552
+        ]
+      },
+      "properties": {
+        "name": "Euphoria retreat",
+        "place": "Mystras",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.0680103013552,
+        "longitude": 22.3739256101455,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6,
+          37.65
+        ]
+      },
+      "properties": {
+        "name": "The Romanos",
+        "place": "Romanos",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.65,
+        "longitude": 21.6,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1172803009145,
+          37.3715956093645
+        ]
+      },
+      "properties": {
+        "name": "amanzoe",
+        "place": "Kranidi",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.3715956093645,
+        "longitude": 23.1172803009145,
+        "webpage": "193CEAAD8CB04A68A8041CAC171EBDBB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4006468,
+          36.479751
+        ]
+      },
+      "properties": {
+        "name": "kyrimai hotel",
+        "place": "gerolimenas",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.479751,
+        "longitude": 22.4006468,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7373085,
+          38.2431676
+        ]
+      },
+      "properties": {
+        "name": "the bold type hotel",
+        "place": "patras",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 38.2431676,
+        "longitude": 21.7373085,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5244767,
+          36.6760822
+        ]
+      },
+      "properties": {
+        "name": "100 Rizes Seaside Resort",
+        "place": "Gytheio",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.6760822,
+        "longitude": 22.5244767,
+        "webpage": "663A585E90964A7CBE2F05E1169AB1D3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2036143,
+          35.4232789
+        ]
+      },
+      "properties": {
+        "name": "athermigo villa",
+        "place": "Gavalohori",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 35.4232789,
+        "longitude": 24.2036143,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2239983,
+          36.4425418
+        ]
+      },
+      "properties": {
+        "name": "Allegory Boutique HoteL",
+        "place": "Rhodos stad",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.4425418,
+        "longitude": 28.2239983,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2,
+          36.3833
+        ]
+      },
+      "properties": {
+        "name": "Casa Cook Hotel",
+        "place": "kolymbia",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.3833,
+        "longitude": 28.2,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0686967,
+          36.1051883
+        ]
+      },
+      "properties": {
+        "name": "Lindos Aqua Terra",
+        "place": "Lindos",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 36.1051883,
+        "longitude": 28.0686967,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2247651,
+          36.4409038
+        ]
+      },
+      "properties": {
+        "name": "Cook's Club City Beach Rhodes",
+        "place": "Rhodos stad",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.4409038,
+        "longitude": 28.2247651,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0856654,
+          36.0918486
+        ]
+      },
+      "properties": {
+        "name": "melenos lindos boutique rhodos",
+        "place": "Rhodos stad",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.0918486,
+        "longitude": 28.0856654,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4213575,
+          36.4339127
+        ]
+      },
+      "properties": {
+        "name": "Kapari Natural Resort",
+        "place": "Santorini",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.4339127,
+        "longitude": 25.4213575,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4244547,
+          36.4315228
+        ]
+      },
+      "properties": {
+        "name": "Katikies Chromata",
+        "place": "Santorini",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.4315228,
+        "longitude": 25.4244547,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4228074,
+          36.4327707
+        ]
+      },
+      "properties": {
+        "name": "Vora Villas",
+        "place": "Imerovigli",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.4327707,
+        "longitude": 25.4228074,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3871551,
+          36.4621484
+        ]
+      },
+      "properties": {
+        "name": "perivolas luxury houses",
+        "place": "oia",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.4621484,
+        "longitude": 25.3871551,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4204113,
+          36.457318
+        ]
+      },
+      "properties": {
+        "name": "San Antonio Santorini",
+        "place": "Imerovigli",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.457318,
+        "longitude": 25.4204113,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4307842,
+          36.4185294
+        ]
+      },
+      "properties": {
+        "name": "Villa Bordeaux",
+        "place": "Fira",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.4185294,
+        "longitude": 25.4307842,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3853736,
+          36.4620789
+        ]
+      },
+      "properties": {
+        "name": "Mystique",
+        "place": "Oia",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.4620789,
+        "longitude": 25.3853736,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3818842,
+          36.4618738
+        ]
+      },
+      "properties": {
+        "name": "La Perla Villas & Suite",
+        "place": "Oia",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.4618738,
+        "longitude": 25.3818842,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3854515,
+          36.4618199
+        ]
+      },
+      "properties": {
+        "name": "Echoes luxury suites",
+        "place": "Oia",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 36.4618199,
+        "longitude": 25.3854515,
+        "webpage": "8E46B55C3267402EAEA4FACDD15EA58D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.426027,
+          36.443699
+        ]
+      },
+      "properties": {
+        "name": "Rocabella",
+        "place": "Imerovigli",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 36.443699,
+        "longitude": 25.426027,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.423299,
+          36.4328968
+        ]
+      },
+      "properties": {
+        "name": "La Maltese Estate Imerovigli",
+        "place": "Imerovigli",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.4328968,
+        "longitude": 25.423299,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4220811,
+          36.4353572
+        ]
+      },
+      "properties": {
+        "name": "atoles retreat",
+        "place": "Imerovigli",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 36.4353572,
+        "longitude": 25.4220811,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.465241,
+          36.3464162
+        ]
+      },
+      "properties": {
+        "name": "istoria hotel santorini",
+        "place": "perivolos",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.3464162,
+        "longitude": 25.465241,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4248899,
+          36.44955059999999
+        ]
+      },
+      "properties": {
+        "name": "nobu santorini",
+        "place": "Imerovigli",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 36.44955059999999,
+        "longitude": 25.4248899,
+        "webpage": "9FE9C7594A6B4D4D991D044CEEE82AA3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73418,
+          36.981954
+        ]
+      },
+      "properties": {
+        "name": "Verina Astra",
+        "place": "Sifnos",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 36.981954,
+        "longitude": 24.73418,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7024179,
+          36.96795729999999
+        ]
+      },
+      "properties": {
+        "name": "coco-mat eco residence",
+        "place": "Sifnos",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 36.96795729999999,
+        "longitude": 24.7024179,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1591407851347,
+          37.2623407412305
+        ]
+      },
+      "properties": {
+        "name": "Yayaki",
+        "place": "Spetses",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.2623407412305,
+        "longitude": 23.1591407851347,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9357878,
+          40.6394035
+        ]
+      },
+      "properties": {
+        "name": "vanoro hotel",
+        "place": "Thessaloniki",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 40.6394035,
+        "longitude": 22.9357878,
+        "webpage": "99723C9D610447CDBDA3D65E2DB3EA66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.413795,
+          40.933443
+        ]
+      },
+      "properties": {
+        "name": "Imaret",
+        "place": "Kavala",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 40.933443,
+        "longitude": 24.413795,
+        "webpage": "596EBEDA16B643A381931548CC71B38E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8504673696862,
+          37.8205530983486
+        ]
+      },
+      "properties": {
+        "name": "Paliokaliva Village",
+        "place": "Tsilivi",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.8205530983486,
+        "longitude": 20.8504673696862,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7016116,
+          37.9021744
+        ]
+      },
+      "properties": {
+        "name": "Yoma Cove Suites",
+        "place": "Volimes",
+        "country": "Griekenland",
+        "stars": "",
+        "latitude": 37.9021744,
+        "longitude": 20.7016116,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8650765,
+          37.8167084676516
+        ]
+      },
+      "properties": {
+        "name": "hotel contessina",
+        "place": "Tsilivi",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.8167084676516,
+        "longitude": 20.8650765,
+        "webpage": "F6A5A40F305E46C1989D4E980AD406DD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8650287382292,
+          37.8076881598205
+        ]
+      },
+      "properties": {
+        "name": "St.John Villas Suites & SPA",
+        "place": "Tsilivi",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.8076881598205,
+        "longitude": 20.8650287382292,
+        "webpage": "15E9EC3153874665B7019992ED5E6B78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8720494948323,
+          37.8062431462537
+        ]
+      },
+      "properties": {
+        "name": "olea all suite hotel",
+        "place": "Tsilivi",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.8062431462537,
+        "longitude": 20.8720494948323,
+        "webpage": "1ADA54B5940A4A648AE8C19D76603FEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8725971578049,
+          37.8077712189858
+        ]
+      },
+      "properties": {
+        "name": "Zante Maris Suites",
+        "place": "Tsilivi",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.8077712189858,
+        "longitude": 20.8725971578049,
+        "webpage": "C3524E5FFB8A40729CFDFE7FF1D126DB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7833,
+          37.8
+        ]
+      },
+      "properties": {
+        "name": "Emerald Villas & Suites",
+        "place": "Agios Nikolaos",
+        "country": "Griekenland",
+        "stars": "4*",
+        "latitude": 37.8,
+        "longitude": 20.7833,
+        "webpage": "B7B15DB7A05340E8ACDBA45D19FB5ED6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9054415831786,
+          37.7420366587058
+        ]
+      },
+      "properties": {
+        "name": "Nomas Living",
+        "place": "kalamaki",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.7420366587058,
+        "longitude": 20.9054415831786,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8881506441743,
+          37.8117813556357
+        ]
+      },
+      "properties": {
+        "name": "Lesante Cape Resort & Villas",
+        "place": "Akrotiri",
+        "country": "Griekenland",
+        "stars": "5*",
+        "latitude": 37.8117813556357,
+        "longitude": 20.8881506441743,
+        "webpage": "9CD301918D594B1DA1AD3E47B868F567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8461864,
+          37.7058093
+        ]
+      },
+      "properties": {
+        "name": "Leeda's Village",
+        "place": "Lithakia",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.7058093,
+        "longitude": 20.8461864,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7833,
+          37.8
+        ]
+      },
+      "properties": {
+        "name": "Nobelos Seaside Lodge",
+        "place": "Agios Nikolaos",
+        "country": "Griekenland",
+        "stars": "3*",
+        "latitude": 37.8,
+        "longitude": 20.7833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7833,
+          37.8
+        ]
+      },
+      "properties": {
+        "name": "Vais luxury villas",
+        "place": "Agios Nikolaos",
+        "country": "Griekenland",
+        "stars": "",
+        "latitude": 37.8,
+        "longitude": 20.7833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0,
+          63.9333
+        ]
+      },
+      "properties": {
+        "name": "ION adventure hotel",
+        "place": "Selfoss",
+        "country": "IJsland",
+        "stars": "5*",
+        "latitude": 63.9333,
+        "longitude": -21.0,
+        "webpage": "C4CD18F46A974904B5926C1F87FF1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4514108,
+          63.879586
+        ]
+      },
+      "properties": {
+        "name": "the Retreat at Blue Lagoon",
+        "place": "Grindavik",
+        "country": "IJsland",
+        "stars": "4*",
+        "latitude": 63.879586,
+        "longitude": -22.4514108,
+        "webpage": "A327800E28E04F0DA95131FCB2CB7325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9996925,
+          63.9318322
+        ]
+      },
+      "properties": {
+        "name": "Torfhus Retreat",
+        "place": "Selfoss",
+        "country": "IJsland",
+        "stars": "5*",
+        "latitude": 63.9318322,
+        "longitude": -20.9996925,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9069947,
+          66.15039709999999
+        ]
+      },
+      "properties": {
+        "name": "Siglo",
+        "place": "Siglufjorour",
+        "country": "IJsland",
+        "stars": "4*",
+        "latitude": 66.15039709999999,
+        "longitude": -18.9069947,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2167,
+          64.25
+        ]
+      },
+      "properties": {
+        "name": "umi hotel",
+        "place": "Hvolsvöllur",
+        "country": "IJsland",
+        "stars": "5*",
+        "latitude": 64.25,
+        "longitude": -15.2167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.95,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "INNI - Boutique apartments",
+        "place": "Hveragerði",
+        "country": "IJsland",
+        "stars": "3*",
+        "latitude": 64.15,
+        "longitude": -21.95,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0149625,
+          63.78466779999999
+        ]
+      },
+      "properties": {
+        "name": "Magma Hotel",
+        "place": "Kirkjubaejarklaustur",
+        "country": "IJsland",
+        "stars": "3*",
+        "latitude": 63.78466779999999,
+        "longitude": -18.0149625,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5167,
+          64.9167
+        ]
+      },
+      "properties": {
+        "name": "Hotel Búdir",
+        "place": "Búdir",
+        "country": "IJsland",
+        "stars": "3*",
+        "latitude": 64.9167,
+        "longitude": -23.5167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8833,
+          64.1
+        ]
+      },
+      "properties": {
+        "name": "the greenhouse",
+        "place": "Hveragerði",
+        "country": "IJsland",
+        "stars": "",
+        "latitude": 64.1,
+        "longitude": -21.8833,
+        "webpage": "277E643C301A42FAA0FFB4CE13E023FB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2167,
+          64.25
+        ]
+      },
+      "properties": {
+        "name": "the barn",
+        "place": "Norðurfoss",
+        "country": "IJsland",
+        "stars": "",
+        "latitude": 64.25,
+        "longitude": -15.2167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7740354,
+          63.95860930000001
+        ]
+      },
+      "properties": {
+        "name": "bubble",
+        "place": "Ölvisholt",
+        "country": "IJsland",
+        "stars": "",
+        "latitude": 63.95860930000001,
+        "longitude": -20.7740354,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1698378,
+          40.3579041
+        ]
+      },
+      "properties": {
+        "name": "La Fiermontina Urban Resort",
+        "place": "Lecce",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 40.3579041,
+        "longitude": 18.1698378,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3729896,
+          39.8441848
+        ]
+      },
+      "properties": {
+        "name": "Palazzo Daniele",
+        "place": "Gagliano del Capo LE",
+        "country": "Italie",
+        "stars": "3*",
+        "latitude": 39.8441848,
+        "longitude": 18.3729896,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4414554,
+          40.2295116
+        ]
+      },
+      "properties": {
+        "name": "Masseria Prosperi",
+        "place": "Otranto",
+        "country": "Italie",
+        "stars": "3*",
+        "latitude": 40.2295116,
+        "longitude": 18.4414554,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3609178,
+          46.5022372
+        ]
+      },
+      "properties": {
+        "name": "castel hortenberg",
+        "place": "Bozen",
+        "country": "",
+        "stars": "5",
+        "latitude": 46.5022372,
+        "longitude": 11.3609178,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7833,
+          37.6833
+        ]
+      },
+      "properties": {
+        "name": "Momentum Wellness bio resort",
+        "place": "Castelvetrano",
+        "country": "Italie",
+        "stars": "",
+        "latitude": 37.6833,
+        "longitude": 12.7833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0028313,
+          36.8454522
+        ]
+      },
+      "properties": {
+        "name": "Il San Corrado di Noto",
+        "place": "Noto",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 36.8454522,
+        "longitude": 15.0028313,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1081519,
+          37.6738494
+        ]
+      },
+      "properties": {
+        "name": "Monaci delle Terre Nere",
+        "place": "Zafferana Etnea",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 37.6738494,
+        "longitude": 15.1081519,
+        "webpage": "5B5A3A5991664CB1B1CA6C38F825E65E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0395225,
+          36.8674676
+        ]
+      },
+      "properties": {
+        "name": "Country House Villadorata",
+        "place": "Noto",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 36.8674676,
+        "longitude": 15.0395225,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0223824,
+          37.6162525
+        ]
+      },
+      "properties": {
+        "name": "Criu Boutique Hotel",
+        "place": "Nicolosi",
+        "country": "Italie",
+        "stars": "3*",
+        "latitude": 37.6162525,
+        "longitude": 15.0223824,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0885356,
+          37.5021362
+        ]
+      },
+      "properties": {
+        "name": "BASTIÒ PRIVATE SUITES",
+        "place": "Catania",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 37.5021362,
+        "longitude": 15.0885356,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7295416,
+          36.7347604
+        ]
+      },
+      "properties": {
+        "name": "RoccaSeta",
+        "place": "Scicli",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 36.7347604,
+        "longitude": 14.7295416,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6187017,
+          37.38537549999999
+        ]
+      },
+      "properties": {
+        "name": "Resort Fontes Episcopi",
+        "place": "Aragona",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 37.38537549999999,
+        "longitude": 13.6187017,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0899121,
+          36.9049924
+        ]
+      },
+      "properties": {
+        "name": "IUTA Farm",
+        "place": "Avola",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 36.9049924,
+        "longitude": 15.0899121,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2001857,
+          37.7088733
+        ]
+      },
+      "properties": {
+        "name": "Zash Country Boutique Hotel & Spa",
+        "place": "Riposto",
+        "country": "Italie",
+        "stars": "5",
+        "latitude": 37.7088733,
+        "longitude": 15.2001857,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4167,
+          37.6833
+        ]
+      },
+      "properties": {
+        "name": "Susafa",
+        "place": "Generosa",
+        "country": "Italie",
+        "stars": "5",
+        "latitude": 37.6833,
+        "longitude": 13.4167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0852836,
+          37.50149589999999
+        ]
+      },
+      "properties": {
+        "name": "Asmundo di Gisira",
+        "place": "Catania",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 37.50149589999999,
+        "longitude": 15.0852836,
+        "webpage": "DE97CF3B0AD24086A83014D2BAD2DE95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.882247,
+          38.028573
+        ]
+      },
+      "properties": {
+        "name": "Costamante Suites & Spa",
+        "place": "castellammare del golfo",
+        "country": "Italie",
+        "stars": "",
+        "latitude": 38.028573,
+        "longitude": 12.882247,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7503051,
+          43.1129518
+        ]
+      },
+      "properties": {
+        "name": "Lupaia",
+        "place": "Toscane",
+        "country": "Italie",
+        "stars": "",
+        "latitude": 43.1129518,
+        "longitude": 11.7503051,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3333,
+          42.7333
+        ]
+      },
+      "properties": {
+        "name": "Vocabolo Moscatelli Boutique",
+        "place": "Umbie",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 42.7333,
+        "longitude": 12.3333,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0835895,
+          45.8082431
+        ]
+      },
+      "properties": {
+        "name": "Palazzo Albricci Peregrini",
+        "place": "Como",
+        "country": "Italie",
+        "stars": "3*",
+        "latitude": 45.8082431,
+        "longitude": 9.0835895,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8778866,
+          43.0702569
+        ]
+      },
+      "properties": {
+        "name": "Precise Tale Poggio alla Sala",
+        "place": "",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 43.0702569,
+        "longitude": 11.8778866,
+        "webpage": "B63883CD5D8E41EB89AA6FD32950B530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35,
+          44.5
+        ]
+      },
+      "properties": {
+        "name": "nordelaia hotel italy",
+        "place": "",
+        "country": "Italie",
+        "stars": "",
+        "latitude": 44.5,
+        "longitude": 11.35,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4579839,
+          42.4460993
+        ]
+      },
+      "properties": {
+        "name": "Locanda Rossa",
+        "place": "",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 42.4460993,
+        "longitude": 11.4579839,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8797222503327,
+          40.7528338812124
+        ]
+      },
+      "properties": {
+        "name": "Botania Relais & Spa",
+        "place": "Forio",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 40.7528338812124,
+        "longitude": 13.8797222503327,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35,
+          46.5
+        ]
+      },
+      "properties": {
+        "name": "Villa Eden The Private Retreat",
+        "place": "Bozen",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 46.5,
+        "longitude": 11.35,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9167,
+          42.9167
+        ]
+      },
+      "properties": {
+        "name": "Conti di San Bonifacio",
+        "place": "Gavorrano",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 42.9167,
+        "longitude": 10.9167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1333,
+          42.7667
+        ]
+      },
+      "properties": {
+        "name": "Castello di Vicarello",
+        "place": "Grosseto",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 42.7667,
+        "longitude": 11.1333,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4222631,
+          43.0839873
+        ]
+      },
+      "properties": {
+        "name": "Rosewood Castiglion del Bosco",
+        "place": "Montalcino",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 43.0839873,
+        "longitude": 11.4222631,
+        "webpage": "FC3372BDCC564D4C821324FFBA3A7F56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.856752,
+          43.54007499999999
+        ]
+      },
+      "properties": {
+        "name": "Agriturismo Cuprena",
+        "place": "Arezzo",
+        "country": "Italie",
+        "stars": "",
+        "latitude": 43.54007499999999,
+        "longitude": 11.856752,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94698,
+          43.477618
+        ]
+      },
+      "properties": {
+        "name": "Badia di Pomaio",
+        "place": "Arezzi",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 43.477618,
+        "longitude": 11.94698,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7503051,
+          43.1129518
+        ]
+      },
+      "properties": {
+        "name": "Hotel Lupaia",
+        "place": "Torrita di siena",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 43.1129518,
+        "longitude": 11.7503051,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.307007,
+          43.586229
+        ]
+      },
+      "properties": {
+        "name": "borgo del cabreo",
+        "place": "Greve",
+        "country": "Italie",
+        "stars": "3*",
+        "latitude": 43.586229,
+        "longitude": 11.307007,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5333,
+          42.9
+        ]
+      },
+      "properties": {
+        "name": "Relais Le Macine Di Stigliano",
+        "place": "",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 42.9,
+        "longitude": 11.5333,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6806221,
+          43.0766181
+        ]
+      },
+      "properties": {
+        "name": "La Bandita Townhouse",
+        "place": "Pienza",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 43.0766181,
+        "longitude": 11.6806221,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6959727,
+          43.0044832
+        ]
+      },
+      "properties": {
+        "name": "Locanda in tuscany",
+        "place": "Castiglione dʼOrcia",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 43.0044832,
+        "longitude": 11.6959727,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1167,
+          43.4667
+        ]
+      },
+      "properties": {
+        "name": "Agriturismo L'Antica Fornace",
+        "place": "Cedri",
+        "country": "Italie",
+        "stars": "",
+        "latitude": 43.4667,
+        "longitude": 11.1167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6833,
+          42.9333
+        ]
+      },
+      "properties": {
+        "name": "Follonico",
+        "place": "",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 42.9333,
+        "longitude": 11.6833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2662131,
+          43.9326954
+        ]
+      },
+      "properties": {
+        "name": "Locanda al Colle",
+        "place": "",
+        "country": "Italie",
+        "stars": "",
+        "latitude": 43.9326954,
+        "longitude": 10.2662131,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7449757,
+          45.0074875
+        ]
+      },
+      "properties": {
+        "name": "Meneghetti Wine Hotel & Winery",
+        "place": "Bale",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 45.0074875,
+        "longitude": 13.7449757,
+        "webpage": "9C7DB72AC9CF4772B63C4C3E20DA1C20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6470588,
+          43.2612818
+        ]
+      },
+      "properties": {
+        "name": "Lifestyle Hotel Vitar",
+        "place": "Bol",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.2612818,
+        "longitude": 16.6470588,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.719239,
+          43.292595
+        ]
+      },
+      "properties": {
+        "name": "Nono Ban Hotel & Restaurant",
+        "place": "Brac",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.292595,
+        "longitude": 16.719239,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1,
+          42.6833
+        ]
+      },
+      "properties": {
+        "name": "NINON Design Boutique Hotel Dubrovnik",
+        "place": "Brsecine",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 42.6833,
+        "longitude": 18.1,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6236696,
+          45.3775686
+        ]
+      },
+      "properties": {
+        "name": "Heritage Hotel San Rocco",
+        "place": "Brtonigla",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.3775686,
+        "longitude": 13.6236696,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6863809,
+          45.3876387
+        ]
+      },
+      "properties": {
+        "name": "San Canzian Village & Hotel",
+        "place": "Buje",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.3876387,
+        "longitude": 13.6863809,
+        "webpage": "241A96080DC4485E836E6A86BB1D0607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6762277,
+          45.4234923
+        ]
+      },
+      "properties": {
+        "name": "san servolo camping resort",
+        "place": "Buje",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.4234923,
+        "longitude": 13.6762277,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2152747,
+          42.5837145
+        ]
+      },
+      "properties": {
+        "name": "Hotel Supetar",
+        "place": "Cavtat",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 42.5837145,
+        "longitude": 18.2152747,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1186852,
+          42.6412894
+        ]
+      },
+      "properties": {
+        "name": "Hotel Dubrovnik excelsior",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 42.6412894,
+        "longitude": 18.1186852,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0803148,
+          42.6578337
+        ]
+      },
+      "properties": {
+        "name": "Kazbek, hotel & restaurant",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 42.6578337,
+        "longitude": 18.0803148,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1213755,
+          42.6404818
+        ]
+      },
+      "properties": {
+        "name": "Grand Villa Argentina",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 42.6404818,
+        "longitude": 18.1213755,
+        "webpage": "6FFCBBE9F55C4857A5F722C5CF36B324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1272564,
+          42.6383095
+        ]
+      },
+      "properties": {
+        "name": "Villa Dubrovnik",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 42.6383095,
+        "longitude": 18.1272564,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1083831,
+          42.6417647
+        ]
+      },
+      "properties": {
+        "name": "Boutique Hotel Stari Grad",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "3*",
+        "latitude": 42.6417647,
+        "longitude": 18.1083831,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0924312,
+          42.6467133
+        ]
+      },
+      "properties": {
+        "name": "Hotel Bellevue Dubrovnik",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 42.6467133,
+        "longitude": 18.0924312,
+        "webpage": "FF32B6AB0B094EDD95507864D6C42612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697977,
+          42.6566888
+        ]
+      },
+      "properties": {
+        "name": "hotel kompas dubrovnik",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 42.6566888,
+        "longitude": 18.0697977,
+        "webpage": "2D873F1480A64E90964584E06C9DB39A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0610229,
+          42.6512591
+        ]
+      },
+      "properties": {
+        "name": "Hotel Dubrovnik Palace",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 42.6512591,
+        "longitude": 18.0610229,
+        "webpage": "BE0D50454A70411B9D98F2115031F6C9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1097475,
+          42.6404614
+        ]
+      },
+      "properties": {
+        "name": "The Pucic Palace",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 42.6404614,
+        "longitude": 18.1097475,
+        "webpage": "0FF5C3CB9C504DF0AFD64AFC8F877408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0816673,
+          42.6572373
+        ]
+      },
+      "properties": {
+        "name": "Hotel Lapad",
+        "place": "Dubrovnik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 42.6572373,
+        "longitude": 18.0816673,
+        "webpage": "71BD4F4C3B974B99AB55F1A3C951298B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0167,
+          44.0167
+        ]
+      },
+      "properties": {
+        "name": "Villa Nai 3.3",
+        "place": "Dugi Otok",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 44.0167,
+        "longitude": 15.0167,
+        "webpage": "23F62D3660A548CBA69AD16FFEC7FD74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4391475,
+          43.1723024
+        ]
+      },
+      "properties": {
+        "name": "Hotel Adriana",
+        "place": "Hvar",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.1723024,
+        "longitude": 16.4391475,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4428,
+          43.1725
+        ]
+      },
+      "properties": {
+        "name": "Maslina Resort",
+        "place": "hvar",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.1725,
+        "longitude": 16.4428,
+        "webpage": "2A00CCB72C354941AEC2463B061E6F0E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4413182,
+          43.1728101
+        ]
+      },
+      "properties": {
+        "name": "Heritage hotel Palace Elisabeth",
+        "place": "HVAR",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 43.1728101,
+        "longitude": 16.4413182,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5615995,
+          45.4888667
+        ]
+      },
+      "properties": {
+        "name": "Hotel Korana Srakovcic",
+        "place": "Karlovac",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.4888667,
+        "longitude": 15.5615995,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1354452,
+          42.962145
+        ]
+      },
+      "properties": {
+        "name": "Aminess Korcula Heritage Hotel",
+        "place": "Korcula",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 42.962145,
+        "longitude": 17.1354452,
+        "webpage": "B1D599C566DE4E4FA108159C24ABB2D1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1243045,
+          45.0879832
+        ]
+      },
+      "properties": {
+        "name": "Hotel Peteani",
+        "place": "Labin",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.0879832,
+        "longitude": 14.1243045,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5369191,
+          44.4865061
+        ]
+      },
+      "properties": {
+        "name": "Glamping Tents and Mobile Homes Trasorka",
+        "place": "Mali Losinj",
+        "country": "Kroatie",
+        "stars": "3*",
+        "latitude": 44.4865061,
+        "longitude": 14.5369191,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4582056,
+          44.5310091
+        ]
+      },
+      "properties": {
+        "name": "Boutique Hotel Alhambra",
+        "place": "Mali Losinj",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 44.5310091,
+        "longitude": 14.4582056,
+        "webpage": "42AE46B1DDB3487C8F502790DD6987BF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5266625,
+          45.1269281
+        ]
+      },
+      "properties": {
+        "name": "Luxury Hotel Riva",
+        "place": "Malinska",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.1269281,
+        "longitude": 14.5266625,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2065731606198,
+          43.3978057027006
+        ]
+      },
+      "properties": {
+        "name": "martinis marchi heritage hotel",
+        "place": "Maslinica",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 43.3978057027006,
+        "longitude": 16.2065731606198,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.824289,
+          45.33122609999999
+        ]
+      },
+      "properties": {
+        "name": "Winery & Design hotel ROXANICH",
+        "place": "Motovun",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 45.33122609999999,
+        "longitude": 13.824289,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5638066,
+          45.3227141
+        ]
+      },
+      "properties": {
+        "name": "Palazzo Rainis Hotel & Spa",
+        "place": "Novigrad",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.3227141,
+        "longitude": 13.5638066,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2812124,
+          45.3021393
+        ]
+      },
+      "properties": {
+        "name": "Ikador Luxury Boutique Hotel & Spa",
+        "place": "Opatija",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 45.3021393,
+        "longitude": 14.2812124,
+        "webpage": "B172BDA1D9B9483E8E030EB2FCAC2706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3110514,
+          45.3353536
+        ]
+      },
+      "properties": {
+        "name": "Hotel Bevanda",
+        "place": "Opatija",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 45.3353536,
+        "longitude": 14.3110514,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3056549,
+          45.3339431
+        ]
+      },
+      "properties": {
+        "name": "Amadria Park Hotel Milenij",
+        "place": "Opatija",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 45.3339431,
+        "longitude": 14.3056549,
+        "webpage": "34FA9BDB1CBE4519A879D65CA15B9BB2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6968427,
+          45.5611389
+        ]
+      },
+      "properties": {
+        "name": "Boutique hotel Tvrđa",
+        "place": "Osijek",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.5611389,
+        "longitude": 18.6968427,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6,
+          45.2667
+        ]
+      },
+      "properties": {
+        "name": "Glamping Arena One 99",
+        "place": "Pomer",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.2667,
+        "longitude": 13.6,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7330928,
+          43.3475682
+        ]
+      },
+      "properties": {
+        "name": "Puteus Palace Heritage Hotel",
+        "place": "Pucisca",
+        "country": "Kroatie",
+        "stars": "",
+        "latitude": 43.3475682,
+        "longitude": 16.7330928,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8460837,
+          44.8379801
+        ]
+      },
+      "properties": {
+        "name": "Boutique Hotel Valsabbion",
+        "place": "Pula",
+        "country": "Kroatie",
+        "stars": "3*",
+        "latitude": 44.8379801,
+        "longitude": 13.8460837,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1554524,
+          45.0789897
+        ]
+      },
+      "properties": {
+        "name": "Boutique Hotel Adoral",
+        "place": "Rabac",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.0789897,
+        "longitude": 14.1554524,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8833,
+          43.8833
+        ]
+      },
+      "properties": {
+        "name": "agrotourism kalpic",
+        "place": "Lozovac",
+        "country": "Kroatie",
+        "stars": "3*",
+        "latitude": 43.8833,
+        "longitude": 15.8833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6167,
+          44.8833
+        ]
+      },
+      "properties": {
+        "name": "Plitvice Holiday Resort",
+        "place": "Rokovica",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 44.8833,
+        "longitude": 15.6167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6349696,
+          45.08378039999999
+        ]
+      },
+      "properties": {
+        "name": "Spirito Santo Palazzo Storico",
+        "place": "Rovinj",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.08378039999999,
+        "longitude": 13.6349696,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6387067,
+          45.0811661
+        ]
+      },
+      "properties": {
+        "name": "Casa Amando Boutique House",
+        "place": "Rovinj",
+        "country": "Kroatie",
+        "stars": "3*",
+        "latitude": 45.0811661,
+        "longitude": 13.6387067,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6369242,
+          45.0728262
+        ]
+      },
+      "properties": {
+        "name": "Monte Mulini Adults Exclusive",
+        "place": "Rovinj",
+        "country": "Kroatie",
+        "stars": "",
+        "latitude": 45.0728262,
+        "longitude": 13.6369242,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6391357,
+          45.0730323
+        ]
+      },
+      "properties": {
+        "name": "Lone Hotel by Maistra Collection",
+        "place": "Rovinj",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 45.0730323,
+        "longitude": 13.6391357,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6341728,
+          45.081958
+        ]
+      },
+      "properties": {
+        "name": "Adriatic Hotel by Maistra Collection",
+        "place": "Rovinje",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.081958,
+        "longitude": 13.6341728,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78556,
+          43.6803216
+        ]
+      },
+      "properties": {
+        "name": "Obonjan Island Resort",
+        "place": "Sibenik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.6803216,
+        "longitude": 15.78556,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.895511,
+          43.723332
+        ]
+      },
+      "properties": {
+        "name": "d-resort sibenik",
+        "place": "Sibenik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.723332,
+        "longitude": 15.895511,
+        "webpage": "BBC308E8A7984BC094F43FEDFD61AD8A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8918172,
+          43.7329284
+        ]
+      },
+      "properties": {
+        "name": "Bellevue Superior City Hotel",
+        "place": "Sibenik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.7329284,
+        "longitude": 15.8918172,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9230663,
+          43.81841559999999
+        ]
+      },
+      "properties": {
+        "name": "Boutique Rooms Mirabilis",
+        "place": "Skradin",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.81841559999999,
+        "longitude": 15.9230663,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4463963,
+          43.502881
+        ]
+      },
+      "properties": {
+        "name": "briig boutique hotel",
+        "place": "Split",
+        "country": "Kroatie",
+        "stars": "",
+        "latitude": 43.502881,
+        "longitude": 16.4463963,
+        "webpage": "9D77AE9BC9F945FB99123379E4808054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4459475,
+          43.508802
+        ]
+      },
+      "properties": {
+        "name": "Five Elements Luxury Rooms",
+        "place": "Split",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.508802,
+        "longitude": 16.4459475,
+        "webpage": "ABA41BA435CD4BC2A02597A920DA0D5D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4405964,
+          43.5085164
+        ]
+      },
+      "properties": {
+        "name": "Murum Heritage Hotel",
+        "place": "Split",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.5085164,
+        "longitude": 16.4405964,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4405532,
+          43.50843039999999
+        ]
+      },
+      "properties": {
+        "name": "Heritage Hotel Antique Split",
+        "place": "Split",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.50843039999999,
+        "longitude": 16.4405532,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4385405,
+          43.5088785
+        ]
+      },
+      "properties": {
+        "name": "Judita Palace Heritage Hotel",
+        "place": "Split",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.5088785,
+        "longitude": 16.4385405,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4333761,
+          43.5075769
+        ]
+      },
+      "properties": {
+        "name": "Heritage Hotel 19 split",
+        "place": "Split",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.5075769,
+        "longitude": 16.4333761,
+        "webpage": "19CA4148229B4E0FA64CF8F1C745A7CE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4417432,
+          43.5122293
+        ]
+      },
+      "properties": {
+        "name": "Heritage Hotel FERMAI MGallery Split",
+        "place": "Split",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.5122293,
+        "longitude": 16.4417432,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5719371,
+          43.1803118
+        ]
+      },
+      "properties": {
+        "name": "Maslina Resort",
+        "place": "Stari Grad",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.1803118,
+        "longitude": 16.5719371,
+        "webpage": "2A00CCB72C354941AEC2463B061E6F0E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4791295,
+          43.3854273
+        ]
+      },
+      "properties": {
+        "name": "Hotel Lemongarden",
+        "place": "Sutivan",
+        "country": "Kroatie",
+        "stars": "5*",
+        "latitude": 43.3854273,
+        "longitude": 16.4791295,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2594597,
+          43.51597
+        ]
+      },
+      "properties": {
+        "name": "Brown Beach House Croatia",
+        "place": "Trogir",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.51597,
+        "longitude": 16.2594597,
+        "webpage": "28BAD86F40B044A7BF12FB7CF7ED9959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2506719,
+          43.5138812
+        ]
+      },
+      "properties": {
+        "name": "Bifora Heritage Hotel",
+        "place": "Trogir",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 43.5138812,
+        "longitude": 16.2506719,
+        "webpage": "955D0B25AD2046118081633FDF62804B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.198946,
+          43.05825
+        ]
+      },
+      "properties": {
+        "name": "Hotel San Giorgio",
+        "place": "Vis",
+        "country": "Kroatie",
+        "stars": "3*",
+        "latitude": 43.05825,
+        "longitude": 16.198946,
+        "webpage": "1A9176C7597E4B0B8EB0A6DE0845B6F5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6776748,
+          45.0765482
+        ]
+      },
+      "properties": {
+        "name": "Hotel Vinotel Gospoja",
+        "place": "Vrbnik",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.0765482,
+        "longitude": 14.6776748,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2268472,
+          44.1141254
+        ]
+      },
+      "properties": {
+        "name": "Art Hotel Kalelarga",
+        "place": "Zadar",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 44.1141254,
+        "longitude": 15.2268472,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.981986,
+          45.812169
+        ]
+      },
+      "properties": {
+        "name": "amadria park hotel zagreb",
+        "place": "zagreb",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.812169,
+        "longitude": 15.981986,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9684663,
+          45.81333919999999
+        ]
+      },
+      "properties": {
+        "name": "Swanky Mint Hostel",
+        "place": "Zagreb",
+        "country": "Kroatie",
+        "stars": "2*",
+        "latitude": 45.81333919999999,
+        "longitude": 15.9684663,
+        "webpage": "3AF14CAF3205463D91831204DF93916E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9851661,
+          45.8057242
+        ]
+      },
+      "properties": {
+        "name": "Canopy by Hilton Zagreb City Centre",
+        "place": "Zagreb",
+        "country": "Kroatie",
+        "stars": "4*",
+        "latitude": 45.8057242,
+        "longitude": 15.9851661,
+        "webpage": "DE3DE86300534188B367CF01CFEA45C5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2833,
+          44.2333
+        ]
+      },
+      "properties": {
+        "name": "Hotel Osmoliš",
+        "place": "Zaton",
+        "country": "Kroatie",
+        "stars": "3*",
+        "latitude": 44.2333,
+        "longitude": 15.2833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.517938,
+          35.8861947
+        ]
+      },
+      "properties": {
+        "name": "the snop house",
+        "place": "Senglea",
+        "country": "Malta",
+        "stars": "",
+        "latitude": 35.8861947,
+        "longitude": 14.517938,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51611,
+          35.8895038
+        ]
+      },
+      "properties": {
+        "name": "Sengla Suites",
+        "place": "",
+        "country": "Malta",
+        "stars": "5*",
+        "latitude": 35.8895038,
+        "longitude": 14.51611,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5103198,
+          35.8968581
+        ]
+      },
+      "properties": {
+        "name": "Domus Zamittello",
+        "place": "Valletta",
+        "country": "Malta",
+        "stars": "4*",
+        "latitude": 35.8968581,
+        "longitude": 14.5103198,
+        "webpage": "57A8F0D4F62243E3AE69905232B49851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5200033,
+          35.8854019
+        ]
+      },
+      "properties": {
+        "name": "Cugo Gran Macina Malta",
+        "place": "Senglea",
+        "country": "Malta",
+        "stars": "5*",
+        "latitude": 35.8854019,
+        "longitude": 14.5200033,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5149219,
+          35.8976501
+        ]
+      },
+      "properties": {
+        "name": "The Gomerino Hotel",
+        "place": "Valletta",
+        "country": "Malta",
+        "stars": "4*",
+        "latitude": 35.8976501,
+        "longitude": 14.5149219,
+        "webpage": "B2638FCF9C5E4BBF962D48E625FF5D7E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5120132,
+          35.9000841
+        ]
+      },
+      "properties": {
+        "name": "Casa Ellul",
+        "place": "Valletta",
+        "country": "Malta",
+        "stars": "5*",
+        "latitude": 35.9000841,
+        "longitude": 14.5120132,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.508749,
+          35.9095968
+        ]
+      },
+      "properties": {
+        "name": "1926 Le Soleil Hotel & Spa",
+        "place": "",
+        "country": "Malta",
+        "stars": "4*",
+        "latitude": 35.9095968,
+        "longitude": 14.508749,
+        "webpage": "C739D581B3FA4F6BB8550D661E0BBCF3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5075395,
+          35.8896126
+        ]
+      },
+      "properties": {
+        "name": "Waterfront",
+        "place": "",
+        "country": "Malta",
+        "stars": "4*",
+        "latitude": 35.8896126,
+        "longitude": 14.5075395,
+        "webpage": "8EF0EA90CC1B485EB283B4C93BA9C6E1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5181,
+          35.9042
+        ]
+      },
+      "properties": {
+        "name": "Pergola Hotel & Spa",
+        "place": "",
+        "country": "Malta",
+        "stars": "4*",
+        "latitude": 35.9042,
+        "longitude": 14.5181,
+        "webpage": "5AB49CBB7E5E46D881D1D17D8806D6E0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7308621,
+          58.97401799999999
+        ]
+      },
+      "properties": {
+        "name": "Eilert smith",
+        "place": "Stavanger",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 58.97401799999999,
+        "longitude": 5.7308621,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1524507,
+          62.472456
+        ]
+      },
+      "properties": {
+        "name": "hotel brosundet",
+        "place": "Alesund",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 62.472456,
+        "longitude": 6.1524507,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9667,
+          69.7667
+        ]
+      },
+      "properties": {
+        "name": "storfjord",
+        "place": "Storfjord",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 69.7667,
+        "longitude": 20.9667,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4272612,
+          68.4384984
+        ]
+      },
+      "properties": {
+        "name": "Malangen Resort",
+        "place": "Narvik",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 68.4384984,
+        "longitude": 17.4272612,
+        "webpage": "F815424363354F8FA23F859D8BE8831B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9850081,
+          67.8802252
+        ]
+      },
+      "properties": {
+        "name": "Å Rorbuer",
+        "place": "",
+        "country": "Noorwegen",
+        "stars": "",
+        "latitude": 67.8802252,
+        "longitude": 12.9850081,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.011441,
+          59.443872
+        ]
+      },
+      "properties": {
+        "name": "Dalen Hotel",
+        "place": "Dalen",
+        "country": "Noorwegen",
+        "stars": "5*",
+        "latitude": 59.443872,
+        "longitude": 8.011441,
+        "webpage": "DA194C8EB05744648CB7EF0064EDE64E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4490707,
+          68.2083588
+        ]
+      },
+      "properties": {
+        "name": "Nyvågar Rorbuhotel",
+        "place": "Lofoten",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 68.2083588,
+        "longitude": 14.4490707,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1583684,
+          62.47278960000001
+        ]
+      },
+      "properties": {
+        "name": "Hotel 1904",
+        "place": "Alesund",
+        "country": "Noorwegen",
+        "stars": "4*",
+        "latitude": 62.47278960000001,
+        "longitude": 6.1583684,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2717,
+          69.9689
+        ]
+      },
+      "properties": {
+        "name": "Sorrisniva Arctic Wilderness Lodge",
+        "place": "Alta",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 69.9689,
+        "longitude": 23.2717,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5346627,
+          60.86117309999999
+        ]
+      },
+      "properties": {
+        "name": "Fyri resort",
+        "place": "Hemsedal",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 60.86117309999999,
+        "longitude": 8.5346627,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4074178,
+          39.0093585
+        ]
+      },
+      "properties": {
+        "name": "Immerso",
+        "place": "Ericeira",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 39.0093585,
+        "longitude": -9.4074178,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.677075,
+          39.6215303
+        ]
+      },
+      "properties": {
+        "name": "Luz Charming Houses",
+        "place": "Fatima",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 39.6215303,
+        "longitude": -8.677075,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.633805599999999,
+          38.2647295
+        ]
+      },
+      "properties": {
+        "name": "Spatia Comporta",
+        "place": "Grandola",
+        "country": "Portugal",
+        "stars": "3*",
+        "latitude": 38.2647295,
+        "longitude": -8.633805599999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4171256,
+          39.0344987
+        ]
+      },
+      "properties": {
+        "name": "Aethos Ericeira",
+        "place": "Lissabon",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 39.0344987,
+        "longitude": -9.4171256,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5398494,
+          40.4187376
+        ]
+      },
+      "properties": {
+        "name": "Casa de Sao Lourenco",
+        "place": "Manteigas",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 40.4187376,
+        "longitude": -7.5398494,
+        "webpage": "CCA83C0DA7A840278ADB6A8317B10079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.488911000000001,
+          39.068323
+        ]
+      },
+      "properties": {
+        "name": "Torre De Palma Wine Hotel",
+        "place": "Monforte",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 39.068323,
+        "longitude": -7.488911000000001,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2463386,
+          38.6442201
+        ]
+      },
+      "properties": {
+        "name": "L 'and Vineyards",
+        "place": "Montemor-O-Novo",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.6442201,
+        "longitude": -8.2463386,
+        "webpage": "3D64388FDB6E405A86E167B4564F2F2F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.378314,
+          39.1364218
+        ]
+      },
+      "properties": {
+        "name": "Noah surf house",
+        "place": "santa cruz",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 39.1364218,
+        "longitude": -9.378314,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7321352,
+          38.9970208
+        ]
+      },
+      "properties": {
+        "name": "Salvaterra Country House & Spa",
+        "place": "Salvaterra de Magos",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 38.9970208,
+        "longitude": -8.7321352,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.173724100000001,
+          38.4472999
+        ]
+      },
+      "properties": {
+        "name": "Villa Epicurea",
+        "place": "Sesimbra",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 38.4472999,
+        "longitude": -9.173724100000001,
+        "webpage": "D3BF91C774064615BC5B664FF71B5C49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.752372399999999,
+          38.3105549
+        ]
+      },
+      "properties": {
+        "name": "Quinta da Comporta",
+        "place": "Setubal",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.3105549,
+        "longitude": -8.752372399999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.653593799999999,
+          37.1272446
+        ]
+      },
+      "properties": {
+        "name": "Colegio Charm House",
+        "place": "Tavira",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 37.1272446,
+        "longitude": -7.653593799999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9306,
+          37.0194
+        ]
+      },
+      "properties": {
+        "name": "Conversas de Alpendre",
+        "place": "faro",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 37.0194,
+        "longitude": -7.9306,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7667,
+          38.2
+        ]
+      },
+      "properties": {
+        "name": "Sublime comporta oountry retreat",
+        "place": "comporta",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.2,
+        "longitude": -8.7667,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.362714,
+          39.1532931
+        ]
+      },
+      "properties": {
+        "name": "areias do seixo",
+        "place": "santa cruz",
+        "country": "portugal",
+        "stars": "5*",
+        "latitude": 39.1532931,
+        "longitude": -9.362714,
+        "webpage": "82D14400DFAE4457ADDA92E13603ACB7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.5505317,
+          37.8149854
+        ]
+      },
+      "properties": {
+        "name": "Santa barbara eco beach resort",
+        "place": "ribeira grande",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 37.8149854,
+        "longitude": -25.5505317,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.675132399999999,
+          38.150914
+        ]
+      },
+      "properties": {
+        "name": "pa.te.os",
+        "place": "Melides",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 38.150914,
+        "longitude": -8.675132399999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.294171799999999,
+          39.3533827
+        ]
+      },
+      "properties": {
+        "name": "Bukubaki eco surf",
+        "place": "Peniche",
+        "country": "Portugal",
+        "stars": "",
+        "latitude": 39.3533827,
+        "longitude": -9.294171799999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7097648,
+          32.7423646
+        ]
+      },
+      "properties": {
+        "name": "Dreams Madeira Resort",
+        "place": "Canical",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 32.7423646,
+        "longitude": -16.7097648,
+        "webpage": "2BB4CF9621434BD782A3BBD9865C9D64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.975397,
+          32.648566
+        ]
+      },
+      "properties": {
+        "name": "Pestana Fisherman Village",
+        "place": "Camara de Lobos",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 32.648566,
+        "longitude": -16.975397,
+        "webpage": "6CB47285537E4890AD0DD072CA49D52A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1782506,
+          32.7229002
+        ]
+      },
+      "properties": {
+        "name": "Socalco Nature Calheta",
+        "place": "Calheta",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 32.7229002,
+        "longitude": -17.1782506,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9167,
+          32.6667
+        ]
+      },
+      "properties": {
+        "name": "soul camping",
+        "place": "",
+        "country": "Portugal",
+        "stars": "2*",
+        "latitude": 32.6667,
+        "longitude": -16.9167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9102339,
+          32.6497357
+        ]
+      },
+      "properties": {
+        "name": "Castanheiro Boutique Hotel",
+        "place": "Sao Martinho",
+        "country": "Portugal",
+        "stars": "4*",
+        "latitude": 32.6497357,
+        "longitude": -16.9102339,
+        "webpage": "DAEDCC8D82A74677B57541562F61211D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8673696,
+          32.6580288
+        ]
+      },
+      "properties": {
+        "name": "Casa Velha do Palheiro",
+        "place": "Funchal",
+        "country": "Portugal",
+        "stars": "5",
+        "latitude": 32.6580288,
+        "longitude": -16.8673696,
+        "webpage": "E2D316FB12824030B45DFEBB07C3B0C8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9250410321802,
+          32.6424262896949
+        ]
+      },
+      "properties": {
+        "name": "Reid's Palace",
+        "place": "",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 32.6424262896949,
+        "longitude": -16.9250410321802,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9186111,
+          32.6558333
+        ]
+      },
+      "properties": {
+        "name": "Quinta Jardins do Lago",
+        "place": "",
+        "country": "Portugal",
+        "stars": "5*",
+        "latitude": 32.6558333,
+        "longitude": -16.9186111,
+        "webpage": "C7161BF677B94A6FBA18069E60EAE690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.862709799999999,
+          36.9737017
+        ]
+      },
+      "properties": {
+        "name": "Hacienda de San Rafael",
+        "place": "Las Cabezas de San Juan",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 36.9737017,
+        "longitude": -5.862709799999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25,
+          41.1167
+        ]
+      },
+      "properties": {
+        "name": "Terra Dominicata",
+        "place": "Tarragona",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 41.1167,
+        "longitude": 1.25,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43939879241296,
+          38.6909853813729
+        ]
+      },
+      "properties": {
+        "name": "Villas Paraiso de los Pinos",
+        "place": "Formentera",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 38.6909853813729,
+        "longitude": 1.43939879241296,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02664,
+          42.45018
+        ]
+      },
+      "properties": {
+        "name": "Casa Grande Hotel Boutique",
+        "place": "Granon",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 42.45018,
+        "longitude": -3.02664,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.10431560515468,
+          39.8922408299609
+        ]
+      },
+      "properties": {
+        "name": "Torre Vella Fontenille",
+        "place": "Alaior / Son Boa",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.8922408299609,
+        "longitude": 4.10431560515468,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1817887,
+          38.793426
+        ]
+      },
+      "properties": {
+        "name": "Nomad Xabia Port",
+        "place": "Javea",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 38.793426,
+        "longitude": 0.1817887,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.425557,
+          36.7178196
+        ]
+      },
+      "properties": {
+        "name": "La Zambia",
+        "place": "Malaga",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 36.7178196,
+        "longitude": -4.425557,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4340579,
+          39.6497312
+        ]
+      },
+      "properties": {
+        "name": "Pleta de mar",
+        "place": "Canyamel",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 39.6497312,
+        "longitude": 3.4340579,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6456798,
+          39.574501
+        ]
+      },
+      "properties": {
+        "name": "concepcio by nobis",
+        "place": "Palma",
+        "country": "Spanje",
+        "stars": "",
+        "latitude": 39.574501,
+        "longitude": 2.6456798,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72428041345997,
+          39.4761678437951
+        ]
+      },
+      "properties": {
+        "name": "Cap Rocat",
+        "place": "Cala blava",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 39.4761678437951,
+        "longitude": 2.72428041345997,
+        "webpage": "CB688D625D194C8A9636F050F7EFEE5B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6505608,
+          39.5669209
+        ]
+      },
+      "properties": {
+        "name": "Portella",
+        "place": "Palma de Mallorca",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 39.5669209,
+        "longitude": 2.6505608,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7130858,
+          39.7731285
+        ]
+      },
+      "properties": {
+        "name": "Finca Can Quatre",
+        "place": "Soller",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.7731285,
+        "longitude": 2.7130858,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9165929,
+          39.71602120000001
+        ]
+      },
+      "properties": {
+        "name": "sa vinya des convent",
+        "place": "Inca",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 39.71602120000001,
+        "longitude": 2.9165929,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4353222,
+          39.7023646
+        ]
+      },
+      "properties": {
+        "name": "finca treurer olive grove & grand house",
+        "place": "CAPDEPERA",
+        "country": "Spanje",
+        "stars": "5",
+        "latitude": 39.7023646,
+        "longitude": 3.4353222,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0185174,
+          39.4336614
+        ]
+      },
+      "properties": {
+        "name": "sa creu nova 5*",
+        "place": "CAMPOS",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 39.4336614,
+        "longitude": 3.0185174,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9262001,
+          39.5271203
+        ]
+      },
+      "properties": {
+        "name": "Santuari de Cura",
+        "place": "Randa",
+        "country": "Spanje",
+        "stars": "3",
+        "latitude": 39.5271203,
+        "longitude": 2.9262001,
+        "webpage": "049D0B9A78D544D49FDDA478145A1287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3444902,
+          39.6708984
+        ]
+      },
+      "properties": {
+        "name": "Finca Sestelrica",
+        "place": "aRTA",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 39.6708984,
+        "longitude": 3.3444902,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6515194,
+          39.5687331
+        ]
+      },
+      "properties": {
+        "name": "Can cera",
+        "place": "Palma de Mallorca",
+        "country": "Spanje",
+        "stars": "5",
+        "latitude": 39.5687331,
+        "longitude": 2.6515194,
+        "webpage": "6AF54216F7054AE4A599EB441804733A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6472883,
+          39.572062
+        ]
+      },
+      "properties": {
+        "name": "Palma riad",
+        "place": "Palma de Mallorca",
+        "country": "Spanje",
+        "stars": "5",
+        "latitude": 39.572062,
+        "longitude": 2.6472883,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0429576,
+          40.8025317
+        ]
+      },
+      "properties": {
+        "name": "Hotel Consolacion",
+        "place": "Monroyo",
+        "country": "Spanje",
+        "stars": "2*",
+        "latitude": 40.8025317,
+        "longitude": -0.0429576,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.16358,
+          41.9159841
+        ]
+      },
+      "properties": {
+        "name": "CAN MASCOR eco resort",
+        "place": "palafrugell",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 41.9159841,
+        "longitude": 3.16358,
+        "webpage": "32EA9C646D604C13A7B7882881449B1B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6176092,
+          42.5115878
+        ]
+      },
+      "properties": {
+        "name": "Marques de riscal",
+        "place": "elciego",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 42.5115878,
+        "longitude": -2.6176092,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5969227,
+          27.7392934
+        ]
+      },
+      "properties": {
+        "name": "Eden Meloneras",
+        "place": "Maspalomas",
+        "country": "Spanje",
+        "stars": "",
+        "latitude": 27.7392934,
+        "longitude": -15.5969227,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4154671,
+          28.1028279
+        ]
+      },
+      "properties": {
+        "name": "boutique hotel cordial la peregrina",
+        "place": "Las Palmas",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 28.1028279,
+        "longitude": -15.4154671,
+        "webpage": "F0483DF909AE4476929614C5D4170E80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4165848,
+          28.1035991
+        ]
+      },
+      "properties": {
+        "name": "Boutique Hotel Cordial Malteses",
+        "place": "Las Palmas",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 28.1035991,
+        "longitude": -15.4165848,
+        "webpage": "196679B65161414581D37A0DCC86F6E8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4167,
+          28.1
+        ]
+      },
+      "properties": {
+        "name": "Hotel Rural Las Longueras",
+        "place": "",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 28.1,
+        "longitude": -15.4167,
+        "webpage": "F11C7EF8C2D84489882E0DA3D449561E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4167,
+          28.1
+        ]
+      },
+      "properties": {
+        "name": "Parador de Cruz de Tejeda",
+        "place": "Tejeda",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 28.1,
+        "longitude": -15.4167,
+        "webpage": "D7D4C819D9234CD0A87DBDFFD642537E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4151013,
+          28.0999695
+        ]
+      },
+      "properties": {
+        "name": "Suites 1478",
+        "place": "",
+        "country": "Spanje",
+        "stars": "",
+        "latitude": 28.0999695,
+        "longitude": -15.4151013,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5970415,
+          27.7396343
+        ]
+      },
+      "properties": {
+        "name": "Seaside Grand Hotel Residencia - Gran Lujo",
+        "place": "",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 27.7396343,
+        "longitude": -15.5970415,
+        "webpage": "78954E4DCECE40EF8F9FCC33D0A7C92F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4138253,
+          28.1004589
+        ]
+      },
+      "properties": {
+        "name": "VEINTIUNO Emblematic Hotels",
+        "place": "",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 28.1004589,
+        "longitude": -15.4138253,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6796349,
+          42.5685423
+        ]
+      },
+      "properties": {
+        "name": "Palacio de Samamiego",
+        "place": "Samaniego",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 42.5685423,
+        "longitude": -2.6796349,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.179214,
+          43.288455
+        ]
+      },
+      "properties": {
+        "name": "Hotel Ur Bare",
+        "place": "Zarautz",
+        "country": "Spanje",
+        "stars": "",
+        "latitude": 43.288455,
+        "longitude": -2.179214,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6387408,
+          42.9338724
+        ]
+      },
+      "properties": {
+        "name": "Hotel Palacio de Luko",
+        "place": "Urrunaga",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 42.9338724,
+        "longitude": -2.6387408,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9634078,
+          43.3223849
+        ]
+      },
+      "properties": {
+        "name": "Villa Soro",
+        "place": "San Sebastiaan",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 43.3223849,
+        "longitude": -1.9634078,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9861465,
+          43.3168832
+        ]
+      },
+      "properties": {
+        "name": "Hotel Villa Favorita",
+        "place": "San Sebastiaan",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 43.3168832,
+        "longitude": -1.9861465,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7357561,
+          43.3931185
+        ]
+      },
+      "properties": {
+        "name": "Hotel Nafarrola",
+        "place": "Bermeo",
+        "country": "Spanje",
+        "stars": "",
+        "latitude": 43.3931185,
+        "longitude": -2.7357561,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.82566449999999,
+          38.6404876
+        ]
+      },
+      "properties": {
+        "name": "Aza Cave Hotel",
+        "place": "Goreme",
+        "country": "Turkije",
+        "stars": "3*",
+        "latitude": 38.6404876,
+        "longitude": 34.82566449999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1017482,
+          36.6222498
+        ]
+      },
+      "properties": {
+        "name": "Roome",
+        "place": "Fethiye",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.6222498,
+        "longitude": 29.1017482,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0953855,
+          36.5788343
+        ]
+      },
+      "properties": {
+        "name": "Kaya Villas VILLA",
+        "place": "Fethiye",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.5788343,
+        "longitude": 29.0953855,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1266192,
+          36.553071
+        ]
+      },
+      "properties": {
+        "name": "The Pearl Ölüdeniz",
+        "place": "Oludeniz",
+        "country": "Turkije",
+        "stars": "3*",
+        "latitude": 36.553071,
+        "longitude": 29.1266192,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1245501,
+          36.6513914
+        ]
+      },
+      "properties": {
+        "name": "to be social house",
+        "place": "Fethiye",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.6513914,
+        "longitude": 29.1245501,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0997396,
+          36.6217691
+        ]
+      },
+      "properties": {
+        "name": "Yacht Classic Hotel",
+        "place": "Fethiye",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.6217691,
+        "longitude": 29.0997396,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1255302,
+          36.5536117
+        ]
+      },
+      "properties": {
+        "name": "Oludeniz Blu Luxury Unique Hotel",
+        "place": "Oludeniz",
+        "country": "Turkije",
+        "stars": "4*",
+        "latitude": 36.5536117,
+        "longitude": 29.1255302,
+        "webpage": "E29048C295764E77AB5581D280D121B4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1220076,
+          36.4874383
+        ]
+      },
+      "properties": {
+        "name": "Faralia hotel",
+        "place": "Faralya",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.4874383,
+        "longitude": 29.1220076,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.121793,
+          36.462796
+        ]
+      },
+      "properties": {
+        "name": "La Boheme Kabak",
+        "place": "Faralya",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.462796,
+        "longitude": 29.121793,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1127879,
+          36.4804478
+        ]
+      },
+      "properties": {
+        "name": "seaview faralya",
+        "place": "Faralya",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.4804478,
+        "longitude": 29.1127879,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1018153,
+          36.6223488
+        ]
+      },
+      "properties": {
+        "name": "Yacht Boheme - adults only",
+        "place": "Fethiye",
+        "country": "Turkije",
+        "stars": "",
+        "latitude": 36.6223488,
+        "longitude": 29.1018153,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7285521,
+          50.4744651
+        ]
+      },
+      "properties": {
+        "name": "Bodmin Jail Hotel",
+        "place": "Bodmin",
+        "country": "UK",
+        "stars": "4*",
+        "latitude": 50.4744651,
+        "longitude": -4.7285521,
+        "webpage": null
+      }
+    }
+  ],
+  "name": "Europa"
+}

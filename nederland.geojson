@@ -1,0 +1,462 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7259,
+          51.0537
+        ]
+      },
+      "properties": {
+        "name": "1898 the Post",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "5*",
+        "latitude": 51.0537,
+        "longitude": 3.7259,
+        "webpage": "32320325-b91b-4e8c-bd46-3826fbfc3cc8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7229,
+          51.0475
+        ]
+      },
+      "properties": {
+        "name": "Yalo Urban boutique",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0475,
+        "longitude": 3.7229,
+        "webpage": "7279cb67-03ce-4fb5-85b7-fcdf3fd4a47d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7371,
+          51.0583
+        ]
+      },
+      "properties": {
+        "name": "Monasterium",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0583,
+        "longitude": 3.7371,
+        "webpage": "f715a81b-9509-41ed-ab80-7c40f9e3a188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.723,
+          51.0543
+        ]
+      },
+      "properties": {
+        "name": "Pillows grand Reylof",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0543,
+        "longitude": 3.723,
+        "webpage": "421834a4-97de-45eb-b646-4fa0d9645b22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7208,
+          51.0528
+        ]
+      },
+      "properties": {
+        "name": "B&B The Verhaegen",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0528,
+        "longitude": 3.7208,
+        "webpage": "4b28a33a-4af2-41ae-96c2-bd45091fd3fe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7118,
+          51.0371
+        ]
+      },
+      "properties": {
+        "name": "Chambre d'Amis by Alix",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 51.0371,
+        "longitude": 3.7118,
+        "webpage": "b81efaca-247a-4029-890e-1b6f1c5d62ef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7229,
+          51.0494
+        ]
+      },
+      "properties": {
+        "name": "Nonam Boutique Hotel Gent",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 51.0494,
+        "longitude": 3.7229,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7262,
+          51.0558
+        ]
+      },
+      "properties": {
+        "name": "Harmony",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0558,
+        "longitude": 3.7262,
+        "webpage": "a90eb4e5-7dcc-4c7b-8e69-f2b207826384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7314,
+          51.0548
+        ]
+      },
+      "properties": {
+        "name": "Getaway Studios Gent",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 51.0548,
+        "longitude": 3.7314,
+        "webpage": "47e3a585-775e-4c82-b201-41cabaee2079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2274,
+          51.1969
+        ]
+      },
+      "properties": {
+        "name": "Boutiquehotel 't Fraeyhuis",
+        "place": "Brugge",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.1969,
+        "longitude": 3.2274,
+        "webpage": "8084e8bd-b168-4ebb-8760-3d3df5048c03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3426,
+          50.8447
+        ]
+      },
+      "properties": {
+        "name": "Urban Yard hotel",
+        "place": "Brussel",
+        "country": "Belgie",
+        "stars": "3*",
+        "latitude": 50.8447,
+        "longitude": 4.3426,
+        "webpage": "bdcd5399-9cf3-476b-a0f6-df6a6004cfc6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4737008,
+          51.4409242
+        ]
+      },
+      "properties": {
+        "name": "Inntel Hotels Art",
+        "place": "Eindhoven",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 51.4409242,
+        "longitude": 5.4737008,
+        "webpage": "509c3f9a-673c-49ab-ad09-2c9ba95fb429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.831719400000001,
+          53.1217321
+        ]
+      },
+      "properties": {
+        "name": "Boutique hotel Texel",
+        "place": "Cocksdorp / Texel",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 53.1217321,
+        "longitude": 4.831719400000001,
+        "webpage": "e4b67fe8-6b94-4d96-9578-fc11e985fbef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1197592,
+          52.0924941
+        ]
+      },
+      "properties": {
+        "name": "Mother Goose",
+        "place": "Utrecht",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 52.0924941,
+        "longitude": 5.1197592,
+        "webpage": "4e93cdb2-6543-4318-9b7f-8bd75585e558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8842114,
+          52.369359
+        ]
+      },
+      "properties": {
+        "name": "The dylan",
+        "place": "Amsterdam",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 52.369359,
+        "longitude": 4.8842114,
+        "webpage": "c1743b9f-0bfb-4a0e-a05c-2fe04f7ed379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8600542,
+          52.3663075
+        ]
+      },
+      "properties": {
+        "name": "Hotel Not Hotel",
+        "place": "Amsterdam",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 52.3663075,
+        "longitude": 4.8600542,
+        "webpage": "724fef93-2f76-46d9-9538-fb72e9970627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6189137,
+          52.40294919999999
+        ]
+      },
+      "properties": {
+        "name": "Hotel Bleecker",
+        "place": "Bloemendaal",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 52.40294919999999,
+        "longitude": 4.6189137,
+        "webpage": "55354864-5990-4b88-9390-46d0352e87a2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6408338,
+          52.3861716
+        ]
+      },
+      "properties": {
+        "name": "Boutique hotel Staats",
+        "place": "Haarlem",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 52.3861716,
+        "longitude": 4.6408338,
+        "webpage": "77dfb662-dc71-4ec2-ae15-7a899a1ecf9b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8795084,
+          52.3585857
+        ]
+      },
+      "properties": {
+        "name": "Conservatorium",
+        "place": "Amsterdam",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 52.3585857,
+        "longitude": 4.8795084,
+        "webpage": "2a06b86d-ef84-4b81-91df-83a65cc1a090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4653103,
+          51.9230819
+        ]
+      },
+      "properties": {
+        "name": "Hotel Not Hotel",
+        "place": "Rotterdam",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 51.9230819,
+        "longitude": 4.4653103,
+        "webpage": "7a90c077-e6c5-41e6-aab3-84c84c63a86c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895692,
+          52.375377
+        ]
+      },
+      "properties": {
+        "name": "The Exchange",
+        "place": "Amsterdam",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 52.375377,
+        "longitude": 4.895692,
+        "webpage": "5e6be028-a312-4d4d-a2fb-a02ea53af3fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8894852,
+          52.4007405
+        ]
+      },
+      "properties": {
+        "name": "Botel",
+        "place": "Amsterdam",
+        "country": "Nederland",
+        "stars": "3*",
+        "latitude": 52.4007405,
+        "longitude": 4.8894852,
+        "webpage": "e9a83754-4d07-4c27-97c9-d07c4918e061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7741644,
+          51.586814
+        ]
+      },
+      "properties": {
+        "name": "Hotel Nassau Breda / Autograph collection",
+        "place": "Breda",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 51.586814,
+        "longitude": 4.7741644,
+        "webpage": "2654918d-f144-4563-9b2c-915a9b858e18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6883167,
+          50.8483601
+        ]
+      },
+      "properties": {
+        "name": "Maison haas hustinx",
+        "place": "Maastricht",
+        "country": "Nederland",
+        "stars": "4*",
+        "latitude": 50.8483601,
+        "longitude": 5.6883167,
+        "webpage": "45f22de2-caf7-4499-a657-4b749598189e"
+      }
+    }
+  ],
+  "name": "Nederland"
+}

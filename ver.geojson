@@ -1,0 +1,5687 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5623398,
+          51.1838799
+        ]
+      },
+      "properties": {
+        "name": "Banff inn",
+        "place": "Banff",
+        "country": "Canada",
+        "stars": "3*",
+        "latitude": 51.1838799,
+        "longitude": -115.5623398,
+        "webpage": "43B1573B9AFA44C2858ECA5F55ECA4B7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0823,
+          52.8733
+        ]
+      },
+      "properties": {
+        "name": "Miette mountain cabins",
+        "place": "jasper",
+        "country": "Canada",
+        "stars": "3*",
+        "latitude": 52.8733,
+        "longitude": -118.0823,
+        "webpage": "B738DF2BDB374E828F8CF86260F21CDC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.5614,
+          50.7153
+        ]
+      },
+      "properties": {
+        "name": "Nimmo bay wilderness resort",
+        "place": "port mcneill",
+        "country": "canada",
+        "stars": "5*",
+        "latitude": 50.7153,
+        "longitude": -126.5614,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.777699336348,
+          49.3664105436772
+        ]
+      },
+      "properties": {
+        "name": "Clayoquot Wilderness lodge",
+        "place": "Tofino",
+        "country": "Canada",
+        "stars": "5*",
+        "latitude": 49.3664105436772,
+        "longitude": -125.777699336348,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.901604,
+          49.1232013
+        ]
+      },
+      "properties": {
+        "name": "Wickaninnish inn",
+        "place": "Vancouver island",
+        "country": "canada",
+        "stars": "4*",
+        "latitude": 49.1232013,
+        "longitude": -125.901604,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3678489,
+          48.42172100000001
+        ]
+      },
+      "properties": {
+        "name": "Fairmont Empress",
+        "place": "Vancouver island",
+        "country": "canada",
+        "stars": "4*",
+        "latitude": 48.42172100000001,
+        "longitude": -123.3678489,
+        "webpage": "F2BF6D1AA3B9407292AB2BDD05FCB6E5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4646507,
+          48.5777172
+        ]
+      },
+      "properties": {
+        "name": "Brentwood Bay Resort & Spa",
+        "place": "Vancouver island",
+        "country": "canada",
+        "stars": "",
+        "latitude": 48.5777172,
+        "longitude": -123.4646507,
+        "webpage": "A87D667D5FCD4DB1820CEBFFD1DB5C67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.0,
+          48.8
+        ]
+      },
+      "properties": {
+        "name": "Black Rock Oceanfront Resort",
+        "place": "Vancouver island",
+        "country": "canada",
+        "stars": "",
+        "latitude": 48.8,
+        "longitude": -125.0,
+        "webpage": "C03E16CF7A384736B7B6027C5D544D05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1138588,
+          49.27572319999999
+        ]
+      },
+      "properties": {
+        "name": "the DOUGLAS, Autograph Collection",
+        "place": "Vancouver",
+        "country": "canada",
+        "stars": "5*",
+        "latitude": 49.27572319999999,
+        "longitude": -123.1138588,
+        "webpage": "642dc2b4-ef21-44e8-96ab-fad62f93ce34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1324414,
+          49.2800857
+        ]
+      },
+      "properties": {
+        "name": "Sunset Inn & Suites | Sonder The Sunset",
+        "place": "Vancouver",
+        "country": "canada",
+        "stars": "3*",
+        "latitude": 49.2800857,
+        "longitude": -123.1324414,
+        "webpage": "133366a3-4034-42ee-ba4c-55db19b63ef7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1232789,
+          49.2875667
+        ]
+      },
+      "properties": {
+        "name": "Loden",
+        "place": "Vancouver",
+        "country": "canada",
+        "stars": "5*",
+        "latitude": 49.2875667,
+        "longitude": -123.1232789,
+        "webpage": "F59EFEBAE4664FA38C58C173EE971703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1276956,
+          49.2833058
+        ]
+      },
+      "properties": {
+        "name": "O Canada House",
+        "place": "Vancouver",
+        "country": "canada",
+        "stars": "3*",
+        "latitude": 49.2833058,
+        "longitude": -123.1276956,
+        "webpage": "abf5dc63-3c5e-4add-b4a5-ef50a76836f2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1138588,
+          49.27572319999999
+        ]
+      },
+      "properties": {
+        "name": "The douglas",
+        "place": "Vancouver",
+        "country": "canada",
+        "stars": "5*",
+        "latitude": 49.27572319999999,
+        "longitude": -123.1138588,
+        "webpage": "642dc2b4-ef21-44e8-96ab-fad62f93ce34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.119031,
+          49.283465
+        ]
+      },
+      "properties": {
+        "name": "rosewood hotel georgia",
+        "place": "Vancouver",
+        "country": "Canada",
+        "stars": "5*",
+        "latitude": 49.283465,
+        "longitude": -123.119031,
+        "webpage": "6FEA0FBF4FE7447C8DB18E743AD7D3E6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1404243,
+          49.66901739999999
+        ]
+      },
+      "properties": {
+        "name": "Fogo island in",
+        "place": "fogo island",
+        "country": "canada",
+        "stars": "4*",
+        "latitude": 49.66901739999999,
+        "longitude": -54.1404243,
+        "webpage": "6C6F40072B60404F8A0BD8FBCE925AF9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57155969999999,
+          44.6480903
+        ]
+      },
+      "properties": {
+        "name": "Muir",
+        "place": "halifax",
+        "country": "canada",
+        "stars": "",
+        "latitude": 44.6480903,
+        "longitude": -63.57155969999999,
+        "webpage": "e793a61d-b494-49ac-82d7-0640428055a7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0,
+          46.25
+        ]
+      },
+      "properties": {
+        "name": "drake devonshire",
+        "place": "Prince edward",
+        "country": "Canada",
+        "stars": "3*",
+        "latitude": 46.25,
+        "longitude": -63.0,
+        "webpage": "E9508010EDC749CB8EA3737E045CE989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.426906,
+          43.642698
+        ]
+      },
+      "properties": {
+        "name": "Gladstone house",
+        "place": "Toronto",
+        "country": "Canada",
+        "stars": "3*",
+        "latitude": 43.642698,
+        "longitude": -79.426906,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4246963,
+          43.6432497
+        ]
+      },
+      "properties": {
+        "name": "The drake",
+        "place": "Toronto",
+        "country": "Canada",
+        "stars": "3*",
+        "latitude": 43.6432497,
+        "longitude": -79.4246963,
+        "webpage": "327F3EF0118F4123A195F87D87C0606B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40161839999999,
+          43.6430423
+        ]
+      },
+      "properties": {
+        "name": "1 hotel toronto",
+        "place": "Toronto",
+        "country": "Canada",
+        "stars": "4*",
+        "latitude": 43.6430423,
+        "longitude": -79.40161839999999,
+        "webpage": "E8A3609530F145839B297FB0725A4CE6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3501888,
+          43.6589559
+        ]
+      },
+      "properties": {
+        "name": "The broadview",
+        "place": "Toronto",
+        "country": "Canada",
+        "stars": "5*",
+        "latitude": 43.6589559,
+        "longitude": -79.3501888,
+        "webpage": "4ECB2F85821D45AEB1F6826771C61992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3981354,
+          43.6467366
+        ]
+      },
+      "properties": {
+        "name": "Ace Hotel",
+        "place": "Toronto",
+        "country": "Canada",
+        "stars": "3",
+        "latitude": 43.6467366,
+        "longitude": -79.3981354,
+        "webpage": "f74dc34a-1751-4a61-afcb-490184343ca2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.99533079999999,
+          45.2640342
+        ]
+      },
+      "properties": {
+        "name": "Manoir hovey",
+        "place": "North Hatley",
+        "country": "Canada",
+        "stars": "3*",
+        "latitude": 45.2640342,
+        "longitude": -71.99533079999999,
+        "webpage": "8c80790a-3cc2-4378-8dc6-fb2471fe0e9d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35836019999999,
+          46.8570898
+        ]
+      },
+      "properties": {
+        "name": "Musee premieres nations",
+        "place": "Wendake",
+        "country": "Canada",
+        "stars": "4*",
+        "latitude": 46.8570898,
+        "longitude": -71.35836019999999,
+        "webpage": "556f7dca-678b-4e86-8930-f09e3300026b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.20521839999999,
+          46.8120085
+        ]
+      },
+      "properties": {
+        "name": "Château Frontenac",
+        "place": "Quebec city",
+        "country": "canada",
+        "stars": "4*",
+        "latitude": 46.8120085,
+        "longitude": -71.20521839999999,
+        "webpage": "c4716837-4ab8-4c3e-962b-c744177d7909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.20987079999999,
+          46.8158037
+        ]
+      },
+      "properties": {
+        "name": "Le monastere des Augustines",
+        "place": "Quebec city",
+        "country": "canada",
+        "stars": "3*",
+        "latitude": 46.8158037,
+        "longitude": -71.20987079999999,
+        "webpage": "b0f20fe2-0d32-424a-81d0-6e282f0ec079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2021927,
+          46.8144095
+        ]
+      },
+      "properties": {
+        "name": "Auberge Saint-Antoine",
+        "place": "Quebec city",
+        "country": "canada",
+        "stars": "4*",
+        "latitude": 46.8144095,
+        "longitude": -71.2021927,
+        "webpage": "5194AA38F4CA401E9E9C374E206C6A6A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826916,
+          13.3580926
+        ]
+      },
+      "properties": {
+        "name": "Zannier Hotels Phum Baitang",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "5*",
+        "latitude": 13.3580926,
+        "longitude": 103.826916,
+        "webpage": "4169f58f-cf2a-4cb1-b428-13b74d3934d8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860499,
+          13.3453623
+        ]
+      },
+      "properties": {
+        "name": "Sala Lodge",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "4*",
+        "latitude": 13.3453623,
+        "longitude": 103.860499,
+        "webpage": "87da84ed-4d60-4bf0-b097-092721a6f875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8402671,
+          13.3550904
+        ]
+      },
+      "properties": {
+        "name": "Angkor Heart Bungalow",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "3*",
+        "latitude": 13.3550904,
+        "longitude": 103.8402671,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8582782,
+          13.3556953
+        ]
+      },
+      "properties": {
+        "name": "Treeline Urban Resort",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "5*",
+        "latitude": 13.3556953,
+        "longitude": 103.8582782,
+        "webpage": "17CF833B8577495697871CFEFB3ACF6C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8618251,
+          13.3721222
+        ]
+      },
+      "properties": {
+        "name": "People by The Community",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "4*",
+        "latitude": 13.3721222,
+        "longitude": 103.8618251,
+        "webpage": "1ba89a96-4e57-4896-92a9-5c769600926b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8972216,
+          13.3583827
+        ]
+      },
+      "properties": {
+        "name": "Angkor Privilege Resort & Spa",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "4*",
+        "latitude": 13.3583827,
+        "longitude": 103.8972216,
+        "webpage": "196B4205B3774E2EB9B7EC676FCFA5F2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8566419,
+          13.3806518
+        ]
+      },
+      "properties": {
+        "name": "Shintana Saya La Maison",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "4*",
+        "latitude": 13.3806518,
+        "longitude": 103.8566419,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8644266,
+          13.3657198
+        ]
+      },
+      "properties": {
+        "name": "Maison Polanka",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "5*",
+        "latitude": 13.3657198,
+        "longitude": 103.8644266,
+        "webpage": "eb52ba8a-53e3-4b2b-a85d-4ee226ae87fb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8644395,
+          13.3700723
+        ]
+      },
+      "properties": {
+        "name": "Jaya House River Park",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "5*",
+        "latitude": 13.3700723,
+        "longitude": 103.8644395,
+        "webpage": "21B67AA7A29847DABDC96A112B19B88A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8504745,
+          13.3567428
+        ]
+      },
+      "properties": {
+        "name": "La Bastide de Caro",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "3*",
+        "latitude": 13.3567428,
+        "longitude": 103.8504745,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8589961,
+          13.3537348
+        ]
+      },
+      "properties": {
+        "name": "Angkor Village Hotel",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "4*",
+        "latitude": 13.3537348,
+        "longitude": 103.8589961,
+        "webpage": "196B4205B3774E2EB9B7EC676FCFA5F2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8424785,
+          13.3773423
+        ]
+      },
+      "properties": {
+        "name": "Anjali by Syphon",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "5",
+        "latitude": 13.3773423,
+        "longitude": 103.8424785,
+        "webpage": "91A276A86DD247E184D9807F156767CB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906614,
+          13.3649683
+        ]
+      },
+      "properties": {
+        "name": "Dontrei Villa Angkor",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "3",
+        "latitude": 13.3649683,
+        "longitude": 103.906614,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8583125,
+          13.3409375
+        ]
+      },
+      "properties": {
+        "name": "Le Chanthou Boutique",
+        "place": "Siem Raep",
+        "country": "Cambodia",
+        "stars": "3*",
+        "latitude": 13.3409375,
+        "longitude": 103.8583125,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3,
+          -51.25
+        ]
+      },
+      "properties": {
+        "name": "Tierra Patagonia",
+        "place": "Patagonia",
+        "country": "Chili",
+        "stars": "5*",
+        "latitude": -51.25,
+        "longitude": -72.3,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1,
+          10.4333
+        ]
+      },
+      "properties": {
+        "name": "Rio Perdido",
+        "place": "Guanacastle",
+        "country": "Costa Rica",
+        "stars": "5*",
+        "latitude": 10.4333,
+        "longitude": -85.1,
+        "webpage": "360abfcc-adb2-4130-9a79-d9662ee0a1b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7279555,
+          9.191740099999999
+        ]
+      },
+      "properties": {
+        "name": "Oxygen Jungle Villas & Spa",
+        "place": "Uvita",
+        "country": "Costa Rica",
+        "stars": "4*",
+        "latitude": 9.191740099999999,
+        "longitude": -83.7279555,
+        "webpage": "cc579828-0092-4bb8-b2cf-b75c13454cf0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6997445,
+          9.6375782
+        ]
+      },
+      "properties": {
+        "name": "aWà Beach Hotel",
+        "place": "Punta uva",
+        "country": "Costa Rica",
+        "stars": "4*",
+        "latitude": 9.6375782,
+        "longitude": -82.6997445,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4667,
+          10.4667
+        ]
+      },
+      "properties": {
+        "name": "Hotel Amor Arenal",
+        "place": "La fortuna",
+        "country": "Costa Rica",
+        "stars": "4*",
+        "latitude": 10.4667,
+        "longitude": -84.4667,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0833,
+          10.0
+        ]
+      },
+      "properties": {
+        "name": "Exotico Beach & Rooms",
+        "place": "Limon",
+        "country": "Costa Rica",
+        "stars": "3*",
+        "latitude": 10.0,
+        "longitude": -83.0833,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.69793,
+          10.1241022
+        ]
+      },
+      "properties": {
+        "name": "Ecolirios Boutique",
+        "place": "Guacimo",
+        "country": "Costa Rica",
+        "stars": "3*",
+        "latitude": 10.1241022,
+        "longitude": -83.69793,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1557196,
+          9.4098422
+        ]
+      },
+      "properties": {
+        "name": "Arenas del Mar Beachfront",
+        "place": "Manuel Antonio",
+        "country": "Costa Rica",
+        "stars": "4*",
+        "latitude": 9.4098422,
+        "longitude": -84.1557196,
+        "webpage": "5CA3CB646A73462CBAFB673192493798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2796723,
+          8.661034599999999
+        ]
+      },
+      "properties": {
+        "name": "Playa Nicuesa Rainforest Eco Sanctuary",
+        "place": "Golfito",
+        "country": "Costa Rica",
+        "stars": "4*",
+        "latitude": 8.661034599999999,
+        "longitude": -83.2796723,
+        "webpage": "73c349bb-e95f-4033-987f-d74fe6a19e88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6497472,
+          10.5894761
+        ]
+      },
+      "properties": {
+        "name": "El Mangroove",
+        "place": "Playa Papagayo",
+        "country": "Costa Rica",
+        "stars": "4*",
+        "latitude": 10.5894761,
+        "longitude": -85.6497472,
+        "webpage": "90636b6b-5a50-4f3a-971a-673dde02dd51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66031249999999,
+          9.9408125
+        ]
+      },
+      "properties": {
+        "name": "Bodhi tree yoga resort",
+        "place": "Nosara",
+        "country": "Costa Rica",
+        "stars": "3*",
+        "latitude": 9.9408125,
+        "longitude": -85.66031249999999,
+        "webpage": "61def094-4e41-429e-9174-b3a0f2d124cf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5498791,
+          9.9397899
+        ]
+      },
+      "properties": {
+        "name": "Pacuare Lodge",
+        "place": "Turrialba",
+        "country": "Costa Rica",
+        "stars": "4*",
+        "latitude": 9.9397899,
+        "longitude": -83.5498791,
+        "webpage": "3b5d0a02-a5f0-487f-a474-08ce2e1b8f40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1626684,
+          9.4030082
+        ]
+      },
+      "properties": {
+        "name": "Makanda By The Sea Hotel",
+        "place": "Manuel Antonio",
+        "country": "Costa Rica",
+        "stars": "2*",
+        "latitude": 9.4030082,
+        "longitude": -84.1626684,
+        "webpage": "b661978f-ea01-48d2-acf9-10af452b733e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7203052,
+          9.6431509
+        ]
+      },
+      "properties": {
+        "name": "Aguas Claras, Puerto Viejo",
+        "place": "Puerto Claras",
+        "country": "Costa Rica",
+        "stars": "5*",
+        "latitude": 9.6431509,
+        "longitude": -82.7203052,
+        "webpage": "3ee31e25-f0d1-4efb-ad1f-cb46ec2bf1e2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2844808,
+          25.2194872
+        ]
+      },
+      "properties": {
+        "name": "25hours hotel one central",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "5*",
+        "latitude": 25.2194872,
+        "longitude": 55.2844808,
+        "webpage": "8C7EDA12F161484A82C89BBC658D6C32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1954788,
+          25.146162
+        ]
+      },
+      "properties": {
+        "name": "Beach Walk Boutique (ex. Park Regis Boutique Hotel)",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "3*",
+        "latitude": 25.146162,
+        "longitude": 55.1954788,
+        "webpage": "71f41823-c3c6-401d-b533-67bc9bf21c6c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2707828,
+          25.2048493
+        ]
+      },
+      "properties": {
+        "name": "Manzil Downtown by Vida",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "4*",
+        "latitude": 25.2048493,
+        "longitude": 55.2707828,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29991949999999,
+          25.2640952
+        ]
+      },
+      "properties": {
+        "name": "XVA Art",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "4*",
+        "latitude": 25.2640952,
+        "longitude": 55.29991949999999,
+        "webpage": "7d168182-9b41-46b8-bc8e-06763508d917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2668,
+          25.189
+        ]
+      },
+      "properties": {
+        "name": "ME dubai Melia",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "5*",
+        "latitude": 25.189,
+        "longitude": 55.2668,
+        "webpage": "1fc5fa8d-44f6-4291-a6f0-26b3a34a0dd0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2308538,
+          24.8171508
+        ]
+      },
+      "properties": {
+        "name": "Babs al Shams desert resort & spa",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "5*",
+        "latitude": 24.8171508,
+        "longitude": 55.2308538,
+        "webpage": "A7E3EEA2FD2F4BEFB13D52981C5FB676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2715943,
+          25.179393
+        ]
+      },
+      "properties": {
+        "name": "Revier Dubai",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "4*",
+        "latitude": 25.179393,
+        "longitude": 55.2715943,
+        "webpage": "E336BF64C29448C3B0366FCB061F4C98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2708,
+          25.2048
+        ]
+      },
+      "properties": {
+        "name": "Terra Solis",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "5*",
+        "latitude": 25.2048,
+        "longitude": 55.2708,
+        "webpage": "5B0317D48EC64B0B8C19A05409675B2D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.23818000000001,
+          25.1851
+        ]
+      },
+      "properties": {
+        "name": "al seef heritage",
+        "place": "Dubai",
+        "country": "UAE",
+        "stars": "4*",
+        "latitude": 25.1851,
+        "longitude": 55.23818000000001,
+        "webpage": "ea70bd30-ae63-4507-98fd-3bff9c5a857a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2384718,
+          -8.365373
+        ]
+      },
+      "properties": {
+        "name": "Buahan, a Banyan Tree Escape",
+        "place": "Payangan",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -8.365373,
+        "longitude": 115.2384718,
+        "webpage": "A47CDCD17F7E490E9CC6F29EFCE6FFCC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1281652,
+          -8.6489286
+        ]
+      },
+      "properties": {
+        "name": "La Reserve 1785 Canggu Beach",
+        "place": "Canggu",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -8.6489286,
+        "longitude": 115.1281652,
+        "webpage": "2ccfdb1e-60b8-4421-8287-7b8243d0f7e6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1368531,
+          -8.6248502
+        ]
+      },
+      "properties": {
+        "name": "Desa Hay Canggu",
+        "place": "Canggu",
+        "country": "Indonesie",
+        "stars": "4*",
+        "latitude": -8.6248502,
+        "longitude": 115.1368531,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0813675,
+          -8.2709908
+        ]
+      },
+      "properties": {
+        "name": "Elevate Bali by Hanging Gardens Munduk",
+        "place": "Munduk",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -8.2709908,
+        "longitude": 115.0813675,
+        "webpage": "424C429EA2D24446857406927AC3E463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0631399,
+          -8.433468699999999
+        ]
+      },
+      "properties": {
+        "name": "Clove Tree Hill",
+        "place": "Selemadeg",
+        "country": "Indonesie",
+        "stars": "3*",
+        "latitude": -8.433468699999999,
+        "longitude": 115.0631399,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1889,
+          -8.4095
+        ]
+      },
+      "properties": {
+        "name": "Gdas Bali Health and Wellness Resort",
+        "place": "Mas",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -8.4095,
+        "longitude": 115.1889,
+        "webpage": "8a2d959a-3f86-451f-be35-f1bea9f5e6ab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1889,
+          -8.4095
+        ]
+      },
+      "properties": {
+        "name": "Lost Lindenberg",
+        "place": "",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -8.4095,
+        "longitude": 115.1889,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.3037752,
+          -8.4769279
+        ]
+      },
+      "properties": {
+        "name": "HOSHINOYA Bali",
+        "place": "",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -8.4769279,
+        "longitude": 115.3037752,
+        "webpage": "1af5e562-99ee-42c5-ac38-f4524a655175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.3057717,
+          -8.497702499999999
+        ]
+      },
+      "properties": {
+        "name": "Ubud Valley Boutique Resort",
+        "place": "",
+        "country": "Indonesie",
+        "stars": "3*",
+        "latitude": -8.497702499999999,
+        "longitude": 115.3057717,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2354507,
+          -8.450783200000002
+        ]
+      },
+      "properties": {
+        "name": "The COMO Shambhala Estate",
+        "place": "",
+        "country": "Indonesie",
+        "stars": "5",
+        "latitude": -8.450783200000002,
+        "longitude": 115.2354507,
+        "webpage": "30A67D2962ED4CF9BC4E2A08BBE8311B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2778314,
+          -8.512815999999999
+        ]
+      },
+      "properties": {
+        "name": "The Maya Ubud Resort",
+        "place": "",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -8.512815999999999,
+        "longitude": 115.2778314,
+        "webpage": "CA0126702BB24E109C44D96764DDA9CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2019658,
+          -7.6317331
+        ]
+      },
+      "properties": {
+        "name": "amanjiwo",
+        "place": "Borobudur",
+        "country": "Indonesie",
+        "stars": "5*",
+        "latitude": -7.6317331,
+        "longitude": 110.2019658,
+        "webpage": "9013068A2D6D4739BFD4808A9E1194BD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7256,
+          34.4675
+        ]
+      },
+      "properties": {
+        "name": "amanemu",
+        "place": "ise-shima national park",
+        "country": "Japan",
+        "stars": "5*",
+        "latitude": 34.4675,
+        "longitude": 136.7256,
+        "webpage": "7A76656206ED4BE098EC32EA32E1EB35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7973136,
+          35.7171942
+        ]
+      },
+      "properties": {
+        "name": "cyashitsu ryokan asakusa",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "2*",
+        "latitude": 35.7171942,
+        "longitude": 139.7973136,
+        "webpage": "dc5ee476-bcfc-4f9e-ade0-1dd6364c27c6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7040118,
+          35.6642971
+        ]
+      },
+      "properties": {
+        "name": "TRUNK(HOTEL)CAT STREET",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.6642971,
+        "longitude": 139.7040118,
+        "webpage": "6b02d125-c60e-4f4a-8530-4a597b8c20d5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7778077,
+          35.688766
+        ]
+      },
+      "properties": {
+        "name": "BnA WALL",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "2*",
+        "latitude": 35.688766,
+        "longitude": 139.7778077,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7781422,
+          35.6828966
+        ]
+      },
+      "properties": {
+        "name": "k5",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "5*",
+        "latitude": 35.6828966,
+        "longitude": 139.7781422,
+        "webpage": "04B21768B1DD4819A4379352A45CA482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.800153,
+          35.7049056
+        ]
+      },
+      "properties": {
+        "name": "kaika tokyo by the share hotels",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.7049056,
+        "longitude": 139.800153,
+        "webpage": "4b3a5cdb-12db-49af-a57a-58ce1c2e0109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697184,
+          35.660076
+        ]
+      },
+      "properties": {
+        "name": "Hotel Indigo Tokyo Shibuya",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "4*",
+        "latitude": 35.660076,
+        "longitude": 139.697184,
+        "webpage": "01388961-6c3a-4447-9578-792f4dfdd062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715796,
+          35.66952
+        ]
+      },
+      "properties": {
+        "name": "THE AOYAMA GRAND HOTEL",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "5*",
+        "latitude": 35.66952,
+        "longitude": 139.715796,
+        "webpage": "5fc56bde-5228-4b49-a48f-6df66c31f649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7775471,
+          35.6712469
+        ]
+      },
+      "properties": {
+        "name": "Hotel Vintage Tokyo",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.6712469,
+        "longitude": 139.7775471,
+        "webpage": "474eb176-73c1-48e6-bbb4-b153aed91f6c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711135,
+          35.6930649
+        ]
+      },
+      "properties": {
+        "name": "ONSEN RYOKAN YUEN SHINJUKU",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.6930649,
+        "longitude": 139.711135,
+        "webpage": "595ee373-1969-4f92-9a49-ea097bcad659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7691681,
+          35.7032562
+        ]
+      },
+      "properties": {
+        "name": "bnA Artist Hotel",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.7032562,
+        "longitude": 139.7691681,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7331012,
+          35.6569293
+        ]
+      },
+      "properties": {
+        "name": "THE LIVELY TOKYO AZABUJUBAN",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.6569293,
+        "longitude": 139.7331012,
+        "webpage": "90debcf2-6a0f-467a-948c-8f4487aea61d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7651065,
+          35.6878409
+        ]
+      },
+      "properties": {
+        "name": "Hoshinoya tokyo",
+        "place": "Tokio",
+        "country": "Japan",
+        "stars": "5*",
+        "latitude": 35.6878409,
+        "longitude": 139.7651065,
+        "webpage": "8c3be43e-598f-48a0-822c-51d80ab86831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7784897,
+          35.0017701
+        ]
+      },
+      "properties": {
+        "name": "Sowaka",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.0017701,
+        "longitude": 135.7784897,
+        "webpage": "199b32f6-8cf8-4b74-8718-11994f44fcf7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7571696,
+          35.0158832
+        ]
+      },
+      "properties": {
+        "name": "Nazuna Kyoto Gosho",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.0158832,
+        "longitude": 135.7571696,
+        "webpage": "a7148dc7-b56e-4b29-932e-c48117916b34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7667443,
+          34.9933479
+        ]
+      },
+      "properties": {
+        "name": "genji kyoto",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 34.9933479,
+        "longitude": 135.7667443,
+        "webpage": "fe2063a5-4805-4068-bdaf-bde5cd2ca26e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7798429,
+          35.009275
+        ]
+      },
+      "properties": {
+        "name": "Higashiyama Shikikaboku",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "4*",
+        "latitude": 35.009275,
+        "longitude": 135.7798429,
+        "webpage": "502e4cc9-af1c-4f2f-aa42-a4771e9b1eee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7768128,
+          35.0010361
+        ]
+      },
+      "properties": {
+        "name": "Hotel Gion Ichirin",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.0010361,
+        "longitude": 135.7768128,
+        "webpage": "30d7b999-1843-4b99-98cb-11194c808c65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7568831,
+          34.9824
+        ]
+      },
+      "properties": {
+        "name": "22 pieces",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "2*",
+        "latitude": 34.9824,
+        "longitude": 135.7568831,
+        "webpage": "c803f117-0282-40ec-b14e-9340f468424b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681489,
+          35.011564
+        ]
+      },
+      "properties": {
+        "name": "Moska rebirth",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.011564,
+        "longitude": 135.7681489,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6766835,
+          35.0138031
+        ]
+      },
+      "properties": {
+        "name": "Muni Kyoto",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.0138031,
+        "longitude": 135.6766835,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7892335,
+          35.0104481
+        ]
+      },
+      "properties": {
+        "name": "Nanzenji sando KIKUSUI",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "3*",
+        "latitude": 35.0104481,
+        "longitude": 135.7892335,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7491415,
+          35.0115409
+        ]
+      },
+      "properties": {
+        "name": "Garrya Nijo Castle Kyoto",
+        "place": "Kyoto",
+        "country": "Japan",
+        "stars": "5*",
+        "latitude": 35.0115409,
+        "longitude": 135.7491415,
+        "webpage": "AC321BFEA92F46A2B4210954EEB7F49E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4900595,
+          30.4320139
+        ]
+      },
+      "properties": {
+        "name": "Atlas Kasbah Ecolodge",
+        "place": "Tighanimine el Baz",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 30.4320139,
+        "longitude": -9.4900595,
+        "webpage": "347ae4f7-42ea-4b2e-883d-f0833d4306e3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5657836,
+          30.3585991
+        ]
+      },
+      "properties": {
+        "name": "Dar Maktoub",
+        "place": "",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 30.3585991,
+        "longitude": -9.5657836,
+        "webpage": "890c36b3-d749-4e3a-92b5-27c4a8582e73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.594167299999999,
+          30.3898655
+        ]
+      },
+      "properties": {
+        "name": "Le Riad Villa Blanche",
+        "place": "",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 30.3898655,
+        "longitude": -9.594167299999999,
+        "webpage": "74bcfa8b-19ee-43f0-a153-cc0254e203d4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5614227,
+          30.3586773
+        ]
+      },
+      "properties": {
+        "name": "Tikida Golf Palace",
+        "place": "",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 30.3586773,
+        "longitude": -9.5614227,
+        "webpage": "181C03CED2BF4A5B847A979B14E676C2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5981,
+          30.4271
+        ]
+      },
+      "properties": {
+        "name": "Paradis Plage Surf Yoga & Spa",
+        "place": "",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 30.4271,
+        "longitude": -9.5981,
+        "webpage": "D5D3FF3E42B5443EA1E1D3980F047260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5968123,
+          30.3933144
+        ]
+      },
+      "properties": {
+        "name": "Sofitel Agadir Royal Bay Resort",
+        "place": "",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 30.3933144,
+        "longitude": -9.5968123,
+        "webpage": "00814EF442004C249D9152E6589197D1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6039047,
+          30.415343
+        ]
+      },
+      "properties": {
+        "name": "The View Agadir",
+        "place": "",
+        "country": "Marokko",
+        "stars": "",
+        "latitude": 30.415343,
+        "longitude": -9.6039047,
+        "webpage": "5486BFAF5D8E4C1DB0BA4F2EB482A365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.757327799999999,
+          31.4488196
+        ]
+      },
+      "properties": {
+        "name": "Riad Tamayourt Ocean View",
+        "place": "",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 31.4488196,
+        "longitude": -9.757327799999999,
+        "webpage": "beb20293-3c47-428a-ab38-44e27ff62bc3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7487031,
+          31.4455375
+        ]
+      },
+      "properties": {
+        "name": "Riad Dar Etto",
+        "place": "",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 31.4455375,
+        "longitude": -9.7487031,
+        "webpage": "8FA4412765F940B3A38B1DBE6DB4E3AE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7052529,
+          31.4496281
+        ]
+      },
+      "properties": {
+        "name": "Le Jardin des Douars",
+        "place": "",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 31.4496281,
+        "longitude": -9.7052529,
+        "webpage": "117d24e4-eb32-44fa-8dc4-6fd9d2e55bfc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.765887,
+          31.5121132
+        ]
+      },
+      "properties": {
+        "name": "heure bleue",
+        "place": "Aourir",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 31.5121132,
+        "longitude": -9.765887,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7723493,
+          31.5138376
+        ]
+      },
+      "properties": {
+        "name": "salut maroc",
+        "place": "",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 31.5138376,
+        "longitude": -9.7723493,
+        "webpage": "9ecd39e2-7b5f-4c16-9dbf-cb0636f5dfd6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7673548,
+          31.4698359
+        ]
+      },
+      "properties": {
+        "name": "Sofitel Essaouira Mogador Golf & Spa",
+        "place": "",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 31.4698359,
+        "longitude": -9.7673548,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9893584,
+          31.6330906
+        ]
+      },
+      "properties": {
+        "name": "Riad Due",
+        "place": "",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 31.6330906,
+        "longitude": -7.9893584,
+        "webpage": "08b5e905-15d3-472b-ae00-32cd33da40da"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.952295500000001,
+          31.6726376
+        ]
+      },
+      "properties": {
+        "name": "Jnane Tamsna",
+        "place": "Marrakech",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 31.6726376,
+        "longitude": -7.952295500000001,
+        "webpage": "5060b970-566f-47bb-8f65-19150d8313c1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9962378,
+          31.6302151
+        ]
+      },
+      "properties": {
+        "name": "La Maison Arabe",
+        "place": "",
+        "country": "Marokko",
+        "stars": "",
+        "latitude": 31.6302151,
+        "longitude": -7.9962378,
+        "webpage": "EA38548CCF4F475FA068B0F97ECF5DA7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9953168,
+          31.6329898
+        ]
+      },
+      "properties": {
+        "name": "L'hotel Marrakech",
+        "place": "Marrakech",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 31.6329898,
+        "longitude": -7.9953168,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9915441,
+          31.63184
+        ]
+      },
+      "properties": {
+        "name": "Riad de Tarabel",
+        "place": "Marrakech",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 31.63184,
+        "longitude": -7.9915441,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.994270999999999,
+          31.6313619
+        ]
+      },
+      "properties": {
+        "name": "dar kandi",
+        "place": "Marrakech",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 31.6313619,
+        "longitude": -7.994270999999999,
+        "webpage": "60b96937-38f8-44b8-b5e5-31a5652cad05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9856728,
+          31.6256098
+        ]
+      },
+      "properties": {
+        "name": "Riad le Rihani",
+        "place": "Marrakech",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 31.6256098,
+        "longitude": -7.9856728,
+        "webpage": "baaf3704-b606-4356-8516-7eca3d79da26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0078892,
+          31.6227055
+        ]
+      },
+      "properties": {
+        "name": "Dar Rhizlane, Palais Table d'hôtes & SPA",
+        "place": "Marrakech",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 31.6227055,
+        "longitude": -8.0078892,
+        "webpage": "bd057652-3b03-4400-8af1-0d152aefcff8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8389201,
+          34.0275173
+        ]
+      },
+      "properties": {
+        "name": "Euphoriad",
+        "place": "Rabat",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 34.0275173,
+        "longitude": -6.8389201,
+        "webpage": "e4cb6d57-cf2f-486a-bec8-588948109499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8395515,
+          34.0256553
+        ]
+      },
+      "properties": {
+        "name": "Riad Dar Rabiaa",
+        "place": "Rabat",
+        "country": "Marokko",
+        "stars": "",
+        "latitude": 34.0256553,
+        "longitude": -6.8395515,
+        "webpage": "bec57403-cebb-4f40-b1af-b48df8a95f6d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.836097199999999,
+          34.0285541
+        ]
+      },
+      "properties": {
+        "name": "Dar Mayshad",
+        "place": "",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 34.0285541,
+        "longitude": -6.836097199999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8405895,
+          34.0272061
+        ]
+      },
+      "properties": {
+        "name": "Riad Rabat l'Alcazar",
+        "place": "",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 34.0272061,
+        "longitude": -6.8405895,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5547,
+          33.895
+        ]
+      },
+      "properties": {
+        "name": "Château Roslane Boutique hôtel & Spa",
+        "place": "Meknès",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 33.895,
+        "longitude": -5.5547,
+        "webpage": "df6c68fb-7f0f-4cd5-8295-e247c364a341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.562717999999999,
+          33.8935719
+        ]
+      },
+      "properties": {
+        "name": "Riad Yacout",
+        "place": "Meknès",
+        "country": "Marokko",
+        "stars": "4*",
+        "latitude": 33.8935719,
+        "longitude": -5.562717999999999,
+        "webpage": "32416955-21ea-473a-82bb-cef784d2b680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5661958,
+          33.8951853
+        ]
+      },
+      "properties": {
+        "name": "Dar Meknes Tresor",
+        "place": "Meknès",
+        "country": "Marokko",
+        "stars": "3*",
+        "latitude": 33.8951853,
+        "longitude": -5.5661958,
+        "webpage": "89becfb9-f7f2-49b6-95a5-b842b2d5c172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.972269,
+          34.0673146
+        ]
+      },
+      "properties": {
+        "name": "Palais Amani",
+        "place": "Fes",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 34.0673146,
+        "longitude": -4.972269,
+        "webpage": "88004445-7f3d-486d-a324-5dbf9a8dcd7a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9921164,
+          34.0436254
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Sahrai",
+        "place": "Fes",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 34.0436254,
+        "longitude": -4.9921164,
+        "webpage": "92ecaa0c-f96e-49aa-8d55-ac2c18dbe929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9798231,
+          34.0616095
+        ]
+      },
+      "properties": {
+        "name": "Riad Fès",
+        "place": "Fes",
+        "country": "Marokko",
+        "stars": "5*",
+        "latitude": 34.0616095,
+        "longitude": -4.9798231,
+        "webpage": "27f09398-da3d-4e10-a023-75be262716e4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8362504,
+          27.5112385
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mirador",
+        "place": "areponapuchi",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 27.5112385,
+        "longitude": -107.8362504,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3988373,
+          18.6690772
+        ]
+      },
+      "properties": {
+        "name": "Zensus Eco Boutique Hotel",
+        "place": "Bacalar",
+        "country": "Mexico",
+        "stars": "3*",
+        "latitude": 18.6690772,
+        "longitude": -88.3988373,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4324851,
+          18.6164999
+        ]
+      },
+      "properties": {
+        "name": "Habitas Bacalar",
+        "place": "Bacalar",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 18.6164999,
+        "longitude": -88.4324851,
+        "webpage": "2cd78666-afe9-4f40-8149-9c274a9d5595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3871334,
+          18.6836511
+        ]
+      },
+      "properties": {
+        "name": "Casa Hormiga",
+        "place": "Bacalar",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 18.6836511,
+        "longitude": -88.3871334,
+        "webpage": "04945766C91C418FBBA9B2BD506F718F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1961441,
+          23.3896978
+        ]
+      },
+      "properties": {
+        "name": "Paradero Todos Santos",
+        "place": "Baja California",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 23.3896978,
+        "longitude": -110.1961441,
+        "webpage": "5d232399-98ea-414e-bf37-021b150ef2d2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2167,
+          23.45
+        ]
+      },
+      "properties": {
+        "name": "el perdido baja california sur",
+        "place": "Baja California",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 23.45,
+        "longitude": -110.2167,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0768862,
+          28.6353855
+        ]
+      },
+      "properties": {
+        "name": "Central Hotel Boutique",
+        "place": "Chihuahua",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 28.6353855,
+        "longitude": -106.0768862,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7333,
+          19.2333
+        ]
+      },
+      "properties": {
+        "name": "Las Alamandas",
+        "place": "Costalegre",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 19.2333,
+        "longitude": -104.7333,
+        "webpage": "734031f7-0d18-4dc3-8f4b-5dced09ca325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.22357939999999,
+          18.9365749
+        ]
+      },
+      "properties": {
+        "name": "Anticavilla Hotel",
+        "place": "Cuernavaca",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 18.9365749,
+        "longitude": -99.22357939999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3745536,
+          21.5278303
+        ]
+      },
+      "properties": {
+        "name": "Aldea Kuká",
+        "place": "Isla Holbox",
+        "country": "Mexico",
+        "stars": "3*",
+        "latitude": 21.5278303,
+        "longitude": -87.3745536,
+        "webpage": "c1383217-30cd-4048-8927-c20c4278c565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3149572,
+          24.1641781
+        ]
+      },
+      "properties": {
+        "name": "Baja Club",
+        "place": "la paz",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 24.1641781,
+        "longitude": -110.3149572,
+        "webpage": "041d1d8b-5362-4e19-b24c-007a557bb2ae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9044,
+          22.8906
+        ]
+      },
+      "properties": {
+        "name": "Las Ventanas al Paraiso",
+        "place": "Los Cabos",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 22.8906,
+        "longitude": -109.9044,
+        "webpage": "14f1fbc6-51fb-4968-88b9-359d116c127c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6185065,
+          20.9790658
+        ]
+      },
+      "properties": {
+        "name": "Rosas & Xocolate",
+        "place": "Merida",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 20.9790658,
+        "longitude": -89.6185065,
+        "webpage": "ccc4a0d8-e6b3-4866-8493-4e3d49fcb58e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61810419999999,
+          20.9692307
+        ]
+      },
+      "properties": {
+        "name": "Ya'ax Hotel Boutique",
+        "place": "Merida",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 20.9692307,
+        "longitude": -89.61810419999999,
+        "webpage": "a5ff6615-1f71-4cef-8791-0967a16ad66b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1327956,
+          19.4351227
+        ]
+      },
+      "properties": {
+        "name": "circulo mexicano",
+        "place": "Mexico City",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 19.4351227,
+        "longitude": -99.1327956,
+        "webpage": "f361a6d0-f9ef-4359-9b13-fe44355f1aad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.162724,
+          19.419141
+        ]
+      },
+      "properties": {
+        "name": "Nima Local House Hotel",
+        "place": "Mexico City",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 19.419141,
+        "longitude": -99.162724,
+        "webpage": "C9CF6401BB9648AB83BC256D2A0517F7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7253,
+          17.0606
+        ]
+      },
+      "properties": {
+        "name": "Escondido Oaxaca",
+        "place": "Oaxaca",
+        "country": "Mexico",
+        "stars": "3*",
+        "latitude": 17.0606,
+        "longitude": -96.7253,
+        "webpage": "050c878a-4a10-4554-b43e-3823dd9ac0d7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.72068759999999,
+          17.0631779
+        ]
+      },
+      "properties": {
+        "name": "NaNa Vida Hotel Oaxaca",
+        "place": "Oaxaca",
+        "country": "Mexico",
+        "stars": "3*",
+        "latitude": 17.0631779,
+        "longitude": -96.72068759999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7132304,
+          17.0542297
+        ]
+      },
+      "properties": {
+        "name": "Terrestre",
+        "place": "oaxaca",
+        "country": "Mexico",
+        "stars": "5",
+        "latitude": 17.0542297,
+        "longitude": -96.7132304,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0680175,
+          20.6480842
+        ]
+      },
+      "properties": {
+        "name": "Hotel Xcaret",
+        "place": "Playa del Carmen",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 20.6480842,
+        "longitude": -87.0680175,
+        "webpage": "fbd82fa2-575e-40aa-b9c5-7e2a20204fd0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0657547,
+          20.6349805
+        ]
+      },
+      "properties": {
+        "name": "Hotel La Semilla",
+        "place": "Playa del Carmen",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 20.6349805,
+        "longitude": -87.0657547,
+        "webpage": "e20739da-5ccd-446f-b1a5-40408ebcde2e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0201301,
+          20.6879277
+        ]
+      },
+      "properties": {
+        "name": "Rosewood Mayakoba",
+        "place": "Playa del Carmen",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 20.6879277,
+        "longitude": -87.0201301,
+        "webpage": "BE2ECA941D104829ACDDF031A97BF23F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.63294309999999,
+          16.7392246
+        ]
+      },
+      "properties": {
+        "name": "Taller de Juan Casa-Hotel",
+        "place": "SAN CRISTÓBAL DE LAS CASAS",
+        "country": "Mexico",
+        "stars": "3*",
+        "latitude": 16.7392246,
+        "longitude": -92.63294309999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7409437,
+          20.9152023
+        ]
+      },
+      "properties": {
+        "name": "Casa Hoyos",
+        "place": "san miguel de allende",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 20.9152023,
+        "longitude": -100.7409437,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.08681729999999,
+          18.9856
+        ]
+      },
+      "properties": {
+        "name": "Amomoxtli",
+        "place": "tepoztlán",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 18.9856,
+        "longitude": -99.08681729999999,
+        "webpage": "462b8229-843c-4b68-8017-b50a1d8c9a90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4807592,
+          20.2006689
+        ]
+      },
+      "properties": {
+        "name": "Hotel Tiki Tiki",
+        "place": "Tulum",
+        "country": "Mexico",
+        "stars": "3*",
+        "latitude": 20.2006689,
+        "longitude": -87.4807592,
+        "webpage": "54003243046745138CDDABE25B245C07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4456393,
+          20.179156
+        ]
+      },
+      "properties": {
+        "name": "Azulik Resort",
+        "place": "Tulum",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 20.179156,
+        "longitude": -87.4456393,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4502894,
+          20.2047926
+        ]
+      },
+      "properties": {
+        "name": "Mayan Monkey",
+        "place": "Tulum",
+        "country": "Mexico",
+        "stars": "2*",
+        "latitude": 20.2047926,
+        "longitude": -87.4502894,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4612823,
+          20.140478
+        ]
+      },
+      "properties": {
+        "name": "Encantada Tulum",
+        "place": "Tulum",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 20.140478,
+        "longitude": -87.4612823,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4760606,
+          20.2116326
+        ]
+      },
+      "properties": {
+        "name": "hotel bardo",
+        "place": "Tulum",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 20.2116326,
+        "longitude": -87.4760606,
+        "webpage": " f165245f-18a3-41dc-b511-c71e49bd2f85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4443409,
+          20.2088845
+        ]
+      },
+      "properties": {
+        "name": "The Maya Residence tulum",
+        "place": "Tulum",
+        "country": "Mexico",
+        "stars": "",
+        "latitude": 20.2088845,
+        "longitude": -87.4443409,
+        "webpage": "99bea9d3-8826-479b-9dd5-5a70f157e1a5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2025115,
+          20.6937559
+        ]
+      },
+      "properties": {
+        "name": "Le Muuch hotel",
+        "place": "Valladolid",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 20.6937559,
+        "longitude": -88.2025115,
+        "webpage": "7e541814-7dfa-408c-919f-943cd5657add"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1333,
+          15.9333
+        ]
+      },
+      "properties": {
+        "name": "Hotel Escondido",
+        "place": "Villa Tututpec",
+        "country": "Mexico",
+        "stars": "4*",
+        "latitude": 15.9333,
+        "longitude": -97.1333,
+        "webpage": "565b63f0-1843-4ec6-808a-09bae3a06964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2561645,
+          20.481945
+        ]
+      },
+      "properties": {
+        "name": "Hotel Esencia",
+        "place": "xpu ha",
+        "country": "Mexico",
+        "stars": "5*",
+        "latitude": 20.481945,
+        "longitude": -87.2561645,
+        "webpage": "f58acb98-eca7-4106-9067-e3e672e2bbf8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7082154,
+          17.1123668
+        ]
+      },
+      "properties": {
+        "name": "Flavia hotel",
+        "place": "Oaxaca",
+        "country": "Mexico",
+        "stars": "2*",
+        "latitude": 17.1123668,
+        "longitude": -96.7082154,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3833,
+          -23.865
+        ]
+      },
+      "properties": {
+        "name": "Kisawa Sanctuary",
+        "place": "Inhambane",
+        "country": "Mozambique",
+        "stars": "5*",
+        "latitude": -23.865,
+        "longitude": 35.3833,
+        "webpage": "E626C256782A44EDAF9806AFE6B76281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1336,
+          -26.5397
+        ]
+      },
+      "properties": {
+        "name": "Zannier hotels Sonop",
+        "place": "Karas",
+        "country": "Namibie",
+        "stars": "5*",
+        "latitude": -26.5397,
+        "longitude": 18.1336,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6333,
+          -43.5667
+        ]
+      },
+      "properties": {
+        "name": "Silostay",
+        "place": "Little River",
+        "country": "Nieuw Zeeland",
+        "stars": "4*",
+        "latitude": -43.5667,
+        "longitude": 172.6333,
+        "webpage": "1bc81bfa-44c1-49e4-b426-9b0d91fe4f34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3829,
+          23.588
+        ]
+      },
+      "properties": {
+        "name": "alila jabal akhdar",
+        "place": "Al roose",
+        "country": "Oman",
+        "stars": "5",
+        "latitude": 23.588,
+        "longitude": 58.3829,
+        "webpage": "2775F746A74549ACA1B3F0EF9ABB3596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25,
+          26.2333
+        ]
+      },
+      "properties": {
+        "name": "six senses zighy bay",
+        "place": "Zaghi",
+        "country": "Oman",
+        "stars": "5",
+        "latitude": 26.2333,
+        "longitude": 56.25,
+        "webpage": "FB9DC3D4F24E4DD6A127A0F522006FC4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3829,
+          23.588
+        ]
+      },
+      "properties": {
+        "name": "the view",
+        "place": "Al Hamra",
+        "country": "Oman",
+        "stars": "3",
+        "latitude": 23.588,
+        "longitude": 58.3829,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.8273346,
+          22.4256005
+        ]
+      },
+      "properties": {
+        "name": "ras al jinz turtle reserve",
+        "place": "Ras al jinz",
+        "country": "Oman",
+        "stars": "3",
+        "latitude": 22.4256005,
+        "longitude": 59.8273346,
+        "webpage": "0ffb3972-25ba-41ac-905e-ee0efa44064c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3829,
+          23.588
+        ]
+      },
+      "properties": {
+        "name": "dunes by al nahda",
+        "place": "Rustaq",
+        "country": "Oman",
+        "stars": "4",
+        "latitude": 23.588,
+        "longitude": 58.3829,
+        "webpage": "80b4abfa-c974-445c-80e6-66d6c012ff1b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "Anantara Al Jabal Al Akhdar",
+        "place": "Jabal Al Akhdar",
+        "country": "Oman",
+        "stars": "5",
+        "latitude": 23.2,
+        "longitude": 57.4,
+        "webpage": "BA8AE7FCA7B8401989A04828E8716411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1,
+          16.7
+        ]
+      },
+      "properties": {
+        "name": "Alila Hinu Bay",
+        "place": "Alila Hinu Bay",
+        "country": "Oman",
+        "stars": "5",
+        "latitude": 16.7,
+        "longitude": 53.1,
+        "webpage": "F80305D30AE54D53A2C1DC988411D8CC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3990514,
+          23.6022003
+        ]
+      },
+      "properties": {
+        "name": "the chedi muscat",
+        "place": "Muscat",
+        "country": "Oman",
+        "stars": "5",
+        "latitude": 23.6022003,
+        "longitude": 58.3990514,
+        "webpage": "314D85D617F2411DA1A6379504D0013B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7961358,
+          22.4366675
+        ]
+      },
+      "properties": {
+        "name": "SAMA Ras Al Jinz Resort",
+        "place": "Ras al Hadd",
+        "country": "Oman",
+        "stars": "2",
+        "latitude": 22.4366675,
+        "longitude": 59.7961358,
+        "webpage": "8639ec94-6981-4436-8e08-83c704f2c1de"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.44483260000001,
+          19.3585556
+        ]
+      },
+      "properties": {
+        "name": "Pai Village",
+        "place": "Pai",
+        "country": "Thailand",
+        "stars": "",
+        "latitude": 19.3585556,
+        "longitude": 98.44483260000001,
+        "webpage": "67f1abea-0b79-4d70-a7f3-7637d0e074e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5309082,
+          11.6985842
+        ]
+      },
+      "properties": {
+        "name": "Kiri Private Reserve",
+        "place": "Koh Kood",
+        "country": "Thailand",
+        "stars": "",
+        "latitude": 11.6985842,
+        "longitude": 102.5309082,
+        "webpage": "fb3cc605-915d-444c-b035-c0a2dba783cc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.28157189999999,
+          7.9393413
+        ]
+      },
+      "properties": {
+        "name": "keemala",
+        "place": "Kamala",
+        "country": "Thailand",
+        "stars": "",
+        "latitude": 7.9393413,
+        "longitude": 98.28157189999999,
+        "webpage": "FF13C80F35BE42509F7F5B2361DF14F9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.24278179999999,
+          8.6701079
+        ]
+      },
+      "properties": {
+        "name": "Casa de la Flora",
+        "place": "Khao Lak",
+        "country": "Thailand",
+        "stars": "",
+        "latitude": 8.6701079,
+        "longitude": 98.24278179999999,
+        "webpage": "C0488D4A4FD94B10B080985EEBFB48C7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9238924,
+          9.572516499999999
+        ]
+      },
+      "properties": {
+        "name": "Four Seasons Resort Koh Samui",
+        "place": "Koh Samui",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 9.572516499999999,
+        "longitude": 99.9238924,
+        "webpage": "FCF15C82D7874953B00A62693C5244BD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6250725,
+          8.1197144
+        ]
+      },
+      "properties": {
+        "name": "Six Senses Yao Noi",
+        "place": "Koh Yao Noi",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 8.1197144,
+        "longitude": 98.6250725,
+        "webpage": "7809FE6B327A4C09A7DA51D45BBC914B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.077507,
+          20.3673439
+        ]
+      },
+      "properties": {
+        "name": "Anantara Golden Triangle",
+        "place": "Chiang Rai",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 20.3673439,
+        "longitude": 100.077507,
+        "webpage": "f83957b4-2fc2-41c5-8b57-ff1028e344ec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.98399339999999,
+          18.798603
+        ]
+      },
+      "properties": {
+        "name": "arch 39 minimal art & crafts",
+        "place": "Chiang Mai",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 18.798603,
+        "longitude": 98.98399339999999,
+        "webpage": "3b12f2f7-d683-430d-943b-f178cc605fed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0041676,
+          18.7919289
+        ]
+      },
+      "properties": {
+        "name": "137 Pillars House",
+        "place": "Chiang Mai",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 18.7919289,
+        "longitude": 99.0041676,
+        "webpage": "2bd6f44e-886c-4f8e-a067-0fb13a03f1e7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.98525769999999,
+          18.8486074
+        ]
+      },
+      "properties": {
+        "name": "Raya Heritage",
+        "place": "Chiang Mai",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 18.8486074,
+        "longitude": 98.98525769999999,
+        "webpage": "ED842DEE01324957B6D087E5CF722BC5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9565624,
+          18.783436
+        ]
+      },
+      "properties": {
+        "name": "Villa Mahabhirom",
+        "place": "Chaing Mai",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 18.783436,
+        "longitude": 98.9565624,
+        "webpage": "b1d67879-f9cf-441a-8ce4-66e47eba5959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.00511739999999,
+          18.8016707
+        ]
+      },
+      "properties": {
+        "name": "Cross Chaing Mai Riverside",
+        "place": "Chiang Mai",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 18.8016707,
+        "longitude": 99.00511739999999,
+        "webpage": "998571DC83F24019AF2DB1759C9634E6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.98219499999999,
+          18.7826766
+        ]
+      },
+      "properties": {
+        "name": "Pastell",
+        "place": "Chiang Mai",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 18.7826766,
+        "longitude": 98.98219499999999,
+        "webpage": "719be88c-ab61-46a8-a7d2-936c92bff3e6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9168258,
+          8.062681399999999
+        ]
+      },
+      "properties": {
+        "name": "Family Tree hotel",
+        "place": "Krabi",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 8.062681399999999,
+        "longitude": 98.9168258,
+        "webpage": "7c954043-7af5-442d-8f07-726389092610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0527589,
+          9.683502299999999
+        ]
+      },
+      "properties": {
+        "name": "Somewhere only we know",
+        "place": "Koh Phangan",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 9.683502299999999,
+        "longitude": 100.0527589,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5781565,
+          13.7268055
+        ]
+      },
+      "properties": {
+        "name": "Volve hotel",
+        "place": "Bangkok",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 13.7268055,
+        "longitude": 100.5781565,
+        "webpage": "33449226-f72c-4048-8c8d-361bfec0473b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5275287,
+          13.7580113
+        ]
+      },
+      "properties": {
+        "name": "Kloem hostel",
+        "place": "Bangkok",
+        "country": "Thailand",
+        "stars": "2*",
+        "latitude": 13.7580113,
+        "longitude": 100.5275287,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6395081,
+          13.7359264
+        ]
+      },
+      "properties": {
+        "name": "Heyyy hostel",
+        "place": "Bangkok",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 13.7359264,
+        "longitude": 100.6395081,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5050334,
+          13.767825
+        ]
+      },
+      "properties": {
+        "name": "The Raweekanlaya Bangkok",
+        "place": "Bangkok",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 13.767825,
+        "longitude": 100.5050334,
+        "webpage": "4e7e7d75-95e2-409b-afe6-35faff20d376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.39431019999999,
+          7.883943400000001
+        ]
+      },
+      "properties": {
+        "name": "blu monkey hub en hotel",
+        "place": "phuket",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 7.883943400000001,
+        "longitude": 98.39431019999999,
+        "webpage": "35B8D9F44C824F798D9BD624B18A5EF0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.2689789,
+          7.926395100000001
+        ]
+      },
+      "properties": {
+        "name": "the naka",
+        "place": "phuket",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 7.926395100000001,
+        "longitude": 98.2689789,
+        "webpage": "1c6e9e30-4c76-4cda-8ce7-a93cae7548e2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3884762,
+          7.8838119
+        ]
+      },
+      "properties": {
+        "name": "the memory at on on hotel",
+        "place": "phuket",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 7.8838119,
+        "longitude": 98.3884762,
+        "webpage": "30992363-5e46-4628-a8a5-2472470b3a0c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.5303826,
+          8.9080244
+        ]
+      },
+      "properties": {
+        "name": "Our jungle camp",
+        "place": "Khao Sok",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 8.9080244,
+        "longitude": 98.5303826,
+        "webpage": "a98cfe4a-0a13-4910-b72c-e7fa884bf7d6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.5319,
+          14.0192
+        ]
+      },
+      "properties": {
+        "name": "River jungle rafts",
+        "place": "kanchanaburi",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 14.0192,
+        "longitude": 99.5319,
+        "webpage": "f2d92e8a-04cf-4561-8167-04f79e3b1595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.367,
+          14.438
+        ]
+      },
+      "properties": {
+        "name": "Lala Mukha Tented Resort Khao Yai",
+        "place": "Khao Yai",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 14.438,
+        "longitude": 101.367,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.84854879999999,
+          8.013537399999999
+        ]
+      },
+      "properties": {
+        "name": "Railay great view resort",
+        "place": "krabi",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 8.013537399999999,
+        "longitude": 98.84854879999999,
+        "webpage": "E4E5F0774FFD48ED843594244A4497A1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.84093279999999,
+          8.0076722
+        ]
+      },
+      "properties": {
+        "name": "Rayavadee",
+        "place": "krabi",
+        "country": "Thailand",
+        "stars": "5",
+        "latitude": 8.0076722,
+        "longitude": 98.84093279999999,
+        "webpage": "4B14520D6ABB40DC89893141148EEDFD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.367,
+          14.438
+        ]
+      },
+      "properties": {
+        "name": "Sala Khaoyai",
+        "place": "wangkata",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 14.438,
+        "longitude": 101.367,
+        "webpage": "6095dcf2-3b6a-4fea-8d15-899050f1ce90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9559902,
+          12.5769589
+        ]
+      },
+      "properties": {
+        "name": "Putahracsa",
+        "place": "Hua hin",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 12.5769589,
+        "longitude": 99.9559902,
+        "webpage": "DBE8BE4895EE4F2DAA324B5DEC60D7DA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6343612,
+          8.176254199999999
+        ]
+      },
+      "properties": {
+        "name": "treehouse villas koh yao",
+        "place": "koh yao",
+        "country": "Thailand",
+        "stars": "3*",
+        "latitude": 8.176254199999999,
+        "longitude": 98.6343612,
+        "webpage": "5C61D822D83C44C3BAD011F5906EF504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.22264559999999,
+          8.7343607
+        ]
+      },
+      "properties": {
+        "name": "Cape Pakarang Wow Wild Wellness Escapes",
+        "place": "Phang Nga",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 8.7343607,
+        "longitude": 98.22264559999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9699596,
+          9.581472699999999
+        ]
+      },
+      "properties": {
+        "name": "Moorea Boutique Resort",
+        "place": "Koh Samui",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 9.581472699999999,
+        "longitude": 99.9699596,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.44216329999999,
+          19.3486677
+        ]
+      },
+      "properties": {
+        "name": "Reverie siam",
+        "place": "Mae Hong Son",
+        "country": "Thailand",
+        "stars": "4*",
+        "latitude": 19.3486677,
+        "longitude": 98.44216329999999,
+        "webpage": "76735e6e-ac84-4334-94de-9f1ec0c0b0f9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9736496,
+          9.58352
+        ]
+      },
+      "properties": {
+        "name": "Napasai Samui",
+        "place": "Ko Samui",
+        "country": "Thailand",
+        "stars": "5*",
+        "latitude": 9.58352,
+        "longitude": 99.9736496,
+        "webpage": "bda4b355-c615-491a-8d7f-64ba20198828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7874804,
+          18.7503179
+        ]
+      },
+      "properties": {
+        "name": "nan seasons boutique",
+        "place": "Muang Tuet",
+        "country": "Thailand",
+        "stars": "",
+        "latitude": 18.7503179,
+        "longitude": 100.7874804,
+        "webpage": "9d9498d2-d96f-45a5-a12a-5d2925c67b1b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.95272680000001,
+          18.7910092
+        ]
+      },
+      "properties": {
+        "name": "lannawild",
+        "place": "Chiang Mai",
+        "country": "Thailand",
+        "stars": "",
+        "latitude": 18.7910092,
+        "longitude": 98.95272680000001,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      },
+      "properties": {
+        "name": "Morning Star Glamping",
+        "place": "Chiang Mai",
+        "country": "Thailand",
+        "stars": "",
+        "latitude": 13.7563,
+        "longitude": 100.5018,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9688567,
+          33.5047873
+        ]
+      },
+      "properties": {
+        "name": "The Royal Palms Resort and Spa",
+        "place": "Phoenix",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 33.5047873,
+        "longitude": -111.9688567,
+        "webpage": "23B524B1F4CF4B11BA9896877269AD77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1863976,
+          35.2663651
+        ]
+      },
+      "properties": {
+        "name": "Trappers Rendezvous",
+        "place": "wILLIAMS",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 35.2663651,
+        "longitude": -112.1863976,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.140636,
+          36.056927
+        ]
+      },
+      "properties": {
+        "name": "Bright Angel Lodge",
+        "place": "Grand Canyon",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 36.056927,
+        "longitude": -112.140636,
+        "webpage": "160D4402C4244C59A9A6D0A8583B7195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0,
+          32.2217
+        ]
+      },
+      "properties": {
+        "name": "White Stallion Ranch",
+        "place": "Tuscon",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 32.2217,
+        "longitude": -111.0,
+        "webpage": "09422CC50CF54FB3A9539E4041BD11C2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8511295,
+          34.9136118
+        ]
+      },
+      "properties": {
+        "name": "Enchantment Resort and Mii amo Spa",
+        "place": "Sedona",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 34.9136118,
+        "longitude": -111.8511295,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.777151,
+          34.864884
+        ]
+      },
+      "properties": {
+        "name": "Ambiente, a Landscape Hotel",
+        "place": "Sedona",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 34.864884,
+        "longitude": -111.777151,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1401108,
+          36.0544445
+        ]
+      },
+      "properties": {
+        "name": "Under Canvas Grand Canyon",
+        "place": "Grand Canyon",
+        "country": "arizona",
+        "stars": "3*",
+        "latitude": 36.0544445,
+        "longitude": -112.1401108,
+        "webpage": "9F2529031ABD420882CAFD08276E56CD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6638087,
+          35.1919367
+        ]
+      },
+      "properties": {
+        "name": "High country motor Loge",
+        "place": "flagstaff",
+        "country": "arizona",
+        "stars": "4*",
+        "latitude": 35.1919367,
+        "longitude": -111.6638087,
+        "webpage": "C734C738B44248B3920D917FBEA62670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0646016,
+          42.3508921
+        ]
+      },
+      "properties": {
+        "name": "Moxy Bosten downtown",
+        "place": "Boston",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 42.3508921,
+        "longitude": -71.0646016,
+        "webpage": "47EC2DC31BF04470A65ED9A3E3B0E49A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.048124,
+          42.3537616
+        ]
+      },
+      "properties": {
+        "name": "the envoy",
+        "place": "boston",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 42.3537616,
+        "longitude": -71.048124,
+        "webpage": "d582896b-dfdd-451c-8270-45773376e452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0710392,
+          42.360636
+        ]
+      },
+      "properties": {
+        "name": "the whitney",
+        "place": "boston",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 42.360636,
+        "longitude": -71.0710392,
+        "webpage": "0FC7FC9E69274B38BF4C56232EF99706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3351096,
+          38.2557099
+        ]
+      },
+      "properties": {
+        "name": "Carneros Resort en Spa",
+        "place": "Napa",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 38.2557099,
+        "longitude": -122.3351096,
+        "webpage": "E7C797875EB84A95BB79977CBC018FB9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4429508,
+          34.0608622
+        ]
+      },
+      "properties": {
+        "name": "Palihotel Westwood village",
+        "place": "westwood",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 34.0608622,
+        "longitude": -118.4429508,
+        "webpage": "18B634C14EAF4944A947D0E4412A8EB9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3345951,
+          34.1046574
+        ]
+      },
+      "properties": {
+        "name": "the prospect",
+        "place": "Los Angeles",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 34.1046574,
+        "longitude": -118.3345951,
+        "webpage": "7ecff552-484c-4c67-b379-e9e8cbce79b5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.539921,
+          33.802534
+        ]
+      },
+      "properties": {
+        "name": "Villa Royale",
+        "place": "Palm Springs",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 33.802534,
+        "longitude": -116.539921,
+        "webpage": "63A3DCFFB0504E4BBA451CBFE530D454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.532388,
+          33.801901
+        ]
+      },
+      "properties": {
+        "name": "Sparrows Logde",
+        "place": "Palm Springs",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 33.801901,
+        "longitude": -116.532388,
+        "webpage": "9629AAB9BE254479A151DC27AB290D3F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5453,
+          33.8303
+        ]
+      },
+      "properties": {
+        "name": "Sands Hotel and Spa",
+        "place": "Palm Springs",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 33.8303,
+        "longitude": -116.5453,
+        "webpage": "3b81ce9b-9d82-4ba7-a65c-7ed1684b0aee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4210876,
+          37.75984640000001
+        ]
+      },
+      "properties": {
+        "name": "The phoenix",
+        "place": "San Francisco",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 37.75984640000001,
+        "longitude": -122.4210876,
+        "webpage": "71655BE4F0AB418DB5D6D07557B406D2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4126728,
+          37.780882
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Proper hotel",
+        "place": "San Francisco",
+        "country": "USA",
+        "stars": "",
+        "latitude": 37.780882,
+        "longitude": -122.4126728,
+        "webpage": "97A3FF105E8E49F8BB6FF568D12421C2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55050159999999,
+          39.7418037
+        ]
+      },
+      "properties": {
+        "name": "The Quoin",
+        "place": "Wilmington",
+        "country": "USA",
+        "stars": "",
+        "latitude": 39.7418037,
+        "longitude": -75.55050159999999,
+        "webpage": "f73a058b-ba65-48c0-9db8-d8d37da798e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13202900000002,
+          25.7868055
+        ]
+      },
+      "properties": {
+        "name": "esme miami bech",
+        "place": "Miami",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 25.7868055,
+        "longitude": -80.13202900000002,
+        "webpage": "101C0BAD8A9645C8B8C35CDF18D4CDA0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2129159,
+          25.7870883
+        ]
+      },
+      "properties": {
+        "name": "The goodwin",
+        "place": "Miami",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 25.7870883,
+        "longitude": -80.2129159,
+        "webpage": "3f121a9f-5004-40ff-93a3-882823428b05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0680758,
+          29.9502773
+        ]
+      },
+      "properties": {
+        "name": "The eliza jane nola",
+        "place": "New Orleans",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 29.9502773,
+        "longitude": -90.0680758,
+        "webpage": "EB536DD433F04CCC99A2644E3102C3BD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1670326,
+          42.701107
+        ]
+      },
+      "properties": {
+        "name": "tourists",
+        "place": "north adams",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 42.701107,
+        "longitude": -73.1670326,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9894995,
+          40.7461967
+        ]
+      },
+      "properties": {
+        "name": "made hotel",
+        "place": "new york",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 40.7461967,
+        "longitude": -73.9894995,
+        "webpage": "42B4613E62D9483D81E38D614D52A431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9843886,
+          40.73979509999999
+        ]
+      },
+      "properties": {
+        "name": "Freehand",
+        "place": "new york",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 40.73979509999999,
+        "longitude": -73.9843886,
+        "webpage": "e54fd62a-a33c-4e17-93f1-5c7e3ff81427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0001739,
+          40.7191893
+        ]
+      },
+      "properties": {
+        "name": "11 howard",
+        "place": "new york",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 40.7191893,
+        "longitude": -74.0001739,
+        "webpage": "AD90381FF9724F7883876F99660EAC84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0022128,
+          40.7546506
+        ]
+      },
+      "properties": {
+        "name": "Equinox hotel",
+        "place": "new york",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 40.7546506,
+        "longitude": -74.0022128,
+        "webpage": "07BFE86EB4D84C4BBCBED0F16718ACEB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98951,
+          40.7316
+        ]
+      },
+      "properties": {
+        "name": "Moxy NYC east village",
+        "place": "New York",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 40.7316,
+        "longitude": -73.98951,
+        "webpage": "d0b562fa-c287-4d8e-92e9-5260531c51d1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0001739,
+          40.7191893
+        ]
+      },
+      "properties": {
+        "name": "11 Howard",
+        "place": "New York",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 40.7191893,
+        "longitude": -74.0001739,
+        "webpage": "AD90381FF9724F7883876F99660EAC84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9883598,
+          40.7457029
+        ]
+      },
+      "properties": {
+        "name": "Ace Hotel",
+        "place": "New York",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 40.7457029,
+        "longitude": -73.9883598,
+        "webpage": "765cf7b9-7951-4c80-a836-f93d1c3c4127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99851509999999,
+          40.7249351
+        ]
+      },
+      "properties": {
+        "name": "The Mercer",
+        "place": "New York",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 40.7249351,
+        "longitude": -73.99851509999999,
+        "webpage": "aa76f15c-bb93-472d-886d-73bb0a0800e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9996263,
+          40.7256084
+        ]
+      },
+      "properties": {
+        "name": "arlo soho",
+        "place": "New York",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 40.7256084,
+        "longitude": -73.9996263,
+        "webpage": "495837F95EA64ECEA6DC98B925B63122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9762963,
+          40.7543532
+        ]
+      },
+      "properties": {
+        "name": "Public New York",
+        "place": "new york",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 40.7543532,
+        "longitude": -73.9762963,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9765358,
+          40.7493602
+        ]
+      },
+      "properties": {
+        "name": "The pod 39",
+        "place": "new york",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 40.7493602,
+        "longitude": -73.9765358,
+        "webpage": "0E710C42D46948EA90CB39C1E38E1353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0118779,
+          40.7010955
+        ]
+      },
+      "properties": {
+        "name": "Casa Cipriani",
+        "place": "new york",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 40.7010955,
+        "longitude": -74.0118779,
+        "webpage": "E55BB1AC5F5541A3982D928A41F9F45C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0097526,
+          40.7236168
+        ]
+      },
+      "properties": {
+        "name": "Hotel Barrière Fouquet's New York",
+        "place": "new york",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 40.7236168,
+        "longitude": -74.0097526,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99348429999999,
+          40.7207157
+        ]
+      },
+      "properties": {
+        "name": "citizenm new york bowery hotel",
+        "place": "new york",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 40.7207157,
+        "longitude": -73.99348429999999,
+        "webpage": "03776d86-8a51-4f1a-8361-89cceeed5d37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00347909999999,
+          40.7423311
+        ]
+      },
+      "properties": {
+        "name": "Dream Downtown New York",
+        "place": "new york",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 40.7423311,
+        "longitude": -74.00347909999999,
+        "webpage": "7fc34692-205a-4972-8154-cc45a2b480c2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7997273,
+          36.1515449
+        ]
+      },
+      "properties": {
+        "name": "Graduate",
+        "place": "nashville",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 36.1515449,
+        "longitude": -86.7997273,
+        "webpage": "2ccd09d2-1020-48f4-8fe3-1b241f29f611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7478629,
+          30.2525556
+        ]
+      },
+      "properties": {
+        "name": "Hotel Magdalena",
+        "place": "Austin",
+        "country": "USA",
+        "stars": "2",
+        "latitude": 30.2525556,
+        "longitude": -97.7478629,
+        "webpage": "40469381-8bbb-4799-86ea-092c61d30740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7587185,
+          30.2622123
+        ]
+      },
+      "properties": {
+        "name": "Carpenter hotel",
+        "place": "Austin",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 30.2622123,
+        "longitude": -97.7587185,
+        "webpage": "40E3D0893E034D60A6A46F63ADC32400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4457693,
+          40.81292670000001
+        ]
+      },
+      "properties": {
+        "name": "The Lodge at Blue Sky",
+        "place": "Wanship",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 40.81292670000001,
+        "longitude": -111.4457693,
+        "webpage": "D670C7EB90FC4F4A84C11D75375BA9C3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6501151,
+          37.1705957
+        ]
+      },
+      "properties": {
+        "name": "Red Mountain Resort",
+        "place": "Ivins",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 37.1705957,
+        "longitude": -113.6501151,
+        "webpage": "2BB4E534457D4976A5F510225A912092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5599335,
+          38.5873532
+        ]
+      },
+      "properties": {
+        "name": "Field Station Moab",
+        "place": "Moab",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 38.5873532,
+        "longitude": -109.5599335,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.382565,
+          38.320108
+        ]
+      },
+      "properties": {
+        "name": "Capitol Reef Resort",
+        "place": "Torry",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 38.320108,
+        "longitude": -111.382565,
+        "webpage": "A5C98683A86149FF8C01C73DE1873E29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5498,
+          38.5733
+        ]
+      },
+      "properties": {
+        "name": "sorrel river ranch resort",
+        "place": "Moab",
+        "country": "USA",
+        "stars": "3*",
+        "latitude": 38.5733,
+        "longitude": -109.5498,
+        "webpage": "e7529401-ac1e-48ec-91e6-961f82a275e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6111213,
+          37.0146225
+        ]
+      },
+      "properties": {
+        "name": "Amangiri",
+        "place": "Lake Powell",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 37.0146225,
+        "longitude": -111.6111213,
+        "webpage": "F10F4029076A454CAAAA30C240DFC756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0244208,
+          38.8971091
+        ]
+      },
+      "properties": {
+        "name": "Riggs Washington",
+        "place": "Washington D.C.",
+        "country": "USA",
+        "stars": "5*",
+        "latitude": 38.8971091,
+        "longitude": -77.0244208,
+        "webpage": "2E16F26C42584733A3221B4232EEE08C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0563114,
+          38.9444639
+        ]
+      },
+      "properties": {
+        "name": "The line hotel",
+        "place": "Washington D.C.",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 38.9444639,
+        "longitude": -77.0563114,
+        "webpage": "EFDB02C783B8441DBC3F05DB5F5BF83F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0475158,
+          38.9013042
+        ]
+      },
+      "properties": {
+        "name": "the avery",
+        "place": "Washington D.C.",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 38.9013042,
+        "longitude": -77.0475158,
+        "webpage": "d0218134-4f97-4f9c-84e9-ad5a3a4b4c65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3406853,
+          47.6097824
+        ]
+      },
+      "properties": {
+        "name": "Palihotel",
+        "place": "seatlle",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 47.6097824,
+        "longitude": -122.3406853,
+        "webpage": "9d9e062d-5a28-4ed0-820d-8710afca5dbf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7743935,
+          43.5040497
+        ]
+      },
+      "properties": {
+        "name": "Amangani",
+        "place": "Jackson Hole",
+        "country": "USA",
+        "stars": "4*",
+        "latitude": 43.5040497,
+        "longitude": -110.7743935,
+        "webpage": "13F27CC0F7C54285AC35F20FF87ABB7E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4225592,
+          -33.9084084
+        ]
+      },
+      "properties": {
+        "name": "The silo hotel",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -33.9084084,
+        "longitude": 18.4225592,
+        "webpage": "d8675ecf-d550-4d13-8197-2f9db7ac075a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4082,
+          -33.931803
+        ]
+      },
+      "properties": {
+        "name": "Cape Cadogan Boutique hotel",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "",
+        "latitude": -33.931803,
+        "longitude": 18.4082,
+        "webpage": "7a72a397-f385-4acb-9df7-801e5802f71b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4200855,
+          -33.9236057
+        ]
+      },
+      "properties": {
+        "name": "Gorgeous George by Design Hotels",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "4*",
+        "latitude": -33.9236057,
+        "longitude": 18.4200855,
+        "webpage": "c2943cf0-06a2-4720-9ccf-da681ef98627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41707,
+          -33.94727
+        ]
+      },
+      "properties": {
+        "name": "Camissa House",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "3*",
+        "latitude": -33.94727,
+        "longitude": 18.41707,
+        "webpage": "7508f696-4ad2-44da-8637-15bb94821652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4217397,
+          -33.92487380000001
+        ]
+      },
+      "properties": {
+        "name": "Labotessa Luxury Boutique Hotel",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -33.92487380000001,
+        "longitude": 18.4217397,
+        "webpage": "7dfdd996-ea7d-4149-8e7b-8ad2ae9324da"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.412711,
+          -33.9161118
+        ]
+      },
+      "properties": {
+        "name": "Dorp hotel",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "",
+        "latitude": -33.9161118,
+        "longitude": 18.412711,
+        "webpage": "26E49C4F88DE427983452353BB5F5424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41828,
+          -33.92069
+        ]
+      },
+      "properties": {
+        "name": "Cape Heritage Hotel",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "4*",
+        "latitude": -33.92069,
+        "longitude": 18.41828,
+        "webpage": "99145663-a2ca-4b07-a53f-85934d8af39b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.408012,
+          -33.9081457
+        ]
+      },
+      "properties": {
+        "name": "Harpers House",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "4*",
+        "latitude": -33.9081457,
+        "longitude": 18.408012,
+        "webpage": "a8131b5e-1b26-4417-b718-6f492c9d0cc1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3884675,
+          -33.9194552
+        ]
+      },
+      "properties": {
+        "name": "pineapple house boutique hotel",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "3*",
+        "latitude": -33.9194552,
+        "longitude": 18.3884675,
+        "webpage": "764B2B79A1B14111898A6416E0A158D2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9743442,
+          -33.8767937
+        ]
+      },
+      "properties": {
+        "name": "Boschendal Farm Estate",
+        "place": "Franschhoek",
+        "country": "Zuid afrika",
+        "stars": "4*",
+        "latitude": -33.8767937,
+        "longitude": 18.9743442,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9218332,
+          -33.9202951
+        ]
+      },
+      "properties": {
+        "name": "Delaire Graff",
+        "place": "Stellenbosch",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -33.9202951,
+        "longitude": 18.9218332,
+        "webpage": "2ff8fe08-1e7e-4139-b8fa-a05592ebe374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2704837,
+          -34.0521707
+        ]
+      },
+      "properties": {
+        "name": "Tsala Treetop Lodge",
+        "place": "Plettenberg",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -34.0521707,
+        "longitude": 23.2704837,
+        "webpage": "1D9BA0A36C104B6B8C1CD7568CD1641E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1238449,
+          -33.9125476
+        ]
+      },
+      "properties": {
+        "name": "Akademie Street Boutique Hotel",
+        "place": "Franschhoek",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -33.9125476,
+        "longitude": 19.1238449,
+        "webpage": "F612648A8ADC449AB21AE11957D0E05E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1333,
+          -34.1833
+        ]
+      },
+      "properties": {
+        "name": "Garden Route Safari Camp",
+        "place": "Mosselbay",
+        "country": "Zuid afrika",
+        "stars": "3*",
+        "latitude": -34.1833,
+        "longitude": 22.1333,
+        "webpage": "2dd1c4ac-98d3-4118-88ab-e3cd5dd46af8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.140841,
+          -34.030167
+        ]
+      },
+      "properties": {
+        "name": "Botlierskop Private Game Reserve",
+        "place": "Little Brak River",
+        "country": "Zuid afrika",
+        "stars": "4*",
+        "latitude": -34.030167,
+        "longitude": 22.140841,
+        "webpage": "EC2E2BC61E794DC7B20383A51C99AB8C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3333,
+          -32.5
+        ]
+      },
+      "properties": {
+        "name": "Kagga Kamma Nature Reserve",
+        "place": "Cederberg",
+        "country": "Zuid afrika",
+        "stars": "4*",
+        "latitude": -32.5,
+        "longitude": 19.3333,
+        "webpage": "51dd68de-7c6d-4b61-a14b-cd5c95def926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0488524,
+          -34.0486059
+        ]
+      },
+      "properties": {
+        "name": "Turbine Hotel and Spa",
+        "place": "Knysna",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -34.0486059,
+        "longitude": 23.0488524,
+        "webpage": "9a5cbb29-f0a3-464a-9146-976c9905410b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.01,
+          -33.64
+        ]
+      },
+      "properties": {
+        "name": "AfriCamps at Doolhof- Glamping",
+        "place": "Wellington",
+        "country": "Zuid afrika",
+        "stars": "2*",
+        "latitude": -33.64,
+        "longitude": 19.01,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9988023,
+          -33.7735818
+        ]
+      },
+      "properties": {
+        "name": "africamps at pat busch",
+        "place": "Robertson",
+        "country": "Zuid afrika",
+        "stars": "3*",
+        "latitude": -33.7735818,
+        "longitude": 19.9988023,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "name": "Vergenoegd Löw Boutique Hotel & Spa",
+        "place": "Kaapstad",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -33.9249,
+        "longitude": 18.4241,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -24.8333
+        ]
+      },
+      "properties": {
+        "name": "Singita Lebombo Lodge",
+        "place": "Singita national park",
+        "country": "Zuid afrika",
+        "stars": "5*",
+        "latitude": -24.8333,
+        "longitude": 31.5,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4908622,
+          33.486769
+        ]
+      },
+      "properties": {
+        "name": "Doldam Guesthouse",
+        "place": "Jeju eiland",
+        "country": "Zuid Korea",
+        "stars": "2*",
+        "latitude": 33.486769,
+        "longitude": 126.4908622,
+        "webpage": "47c923b8-276a-4cff-a98d-97b918e1eb59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4983,
+          33.489
+        ]
+      },
+      "properties": {
+        "name": "Hotel Yeon",
+        "place": "Jeju eiland",
+        "country": "Zuid Korea",
+        "stars": "2*",
+        "latitude": 33.489,
+        "longitude": 126.4983,
+        "webpage": "9dc99c52-8b0e-40f7-9545-10443544670d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4983,
+          33.489
+        ]
+      },
+      "properties": {
+        "name": "Bayhill Pool & Villa",
+        "place": "Jeju eiland",
+        "country": "Zuid Korea",
+        "stars": "5*",
+        "latitude": 33.489,
+        "longitude": 126.4983,
+        "webpage": "882f1381-ccfd-45bc-b033-0b1c1d03fbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5661908,
+          33.3785614
+        ]
+      },
+      "properties": {
+        "name": "Amber Pure Hill Hotels & Resorts Jeju",
+        "place": "Jeju eiland",
+        "country": "Zuid Korea",
+        "stars": "4*",
+        "latitude": 33.3785614,
+        "longitude": 126.5661908,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4983,
+          33.489
+        ]
+      },
+      "properties": {
+        "name": "parnas hotel jeju",
+        "place": "Jeju eiland",
+        "country": "Zuid Korea",
+        "stars": "5*",
+        "latitude": 33.489,
+        "longitude": 126.4983,
+        "webpage": "cbc15654-d08e-4da5-b51d-594defdec3f0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0052509,
+          37.5559034
+        ]
+      },
+      "properties": {
+        "name": "The Shilla Seoul",
+        "place": "Seoul",
+        "country": "Zuid Korea",
+        "stars": "5*",
+        "latitude": 37.5559034,
+        "longitude": 127.0052509,
+        "webpage": "976457A3122A410EAFB633F9098496F4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9839286,
+          37.5642997
+        ]
+      },
+      "properties": {
+        "name": "Hotel28 Myeongdong",
+        "place": "Seoul",
+        "country": "Zuid Korea",
+        "stars": "3*",
+        "latitude": 37.5642997,
+        "longitude": 126.9839286,
+        "webpage": "dea8111e-be33-4c90-8db0-041551f48ec7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0007308,
+          37.5499721
+        ]
+      },
+      "properties": {
+        "name": "Banyan Tree Club & Spa Seoul",
+        "place": "Seoul",
+        "country": "Zuid Korea",
+        "stars": "5",
+        "latitude": 37.5499721,
+        "longitude": 127.0007308,
+        "webpage": "BB4A7562841143798EC7727F0A1A2530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.898751,
+          37.534586
+        ]
+      },
+      "properties": {
+        "name": "Hotel Loft",
+        "place": "Seoul",
+        "country": "Zuid Korea",
+        "stars": "3",
+        "latitude": 37.534586,
+        "longitude": 126.898751,
+        "webpage": "24f709eb-85a3-45e0-be78-1eeea816f742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9883153,
+          37.5620011
+        ]
+      },
+      "properties": {
+        "name": "Henn na seoul",
+        "place": "Seoul",
+        "country": "Zuid Korea",
+        "stars": "3",
+        "latitude": 37.5620011,
+        "longitude": 126.9883153,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1112096,
+          37.5543699
+        ]
+      },
+      "properties": {
+        "name": "Vista walkerhill seoul",
+        "place": "Seoul",
+        "country": "Zuid Korea",
+        "stars": "5",
+        "latitude": 37.5543699,
+        "longitude": 127.1112096,
+        "webpage": "DC5B15AECD584BC4B3A6B9B31B46380C"
+      }
+    }
+  ],
+  "name": "Ver"
+}

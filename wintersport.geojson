@@ -1,0 +1,1260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7259,
+          51.0537
+        ]
+      },
+      "properties": {
+        "name": "1898 the Post",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "5*",
+        "latitude": 51.0537,
+        "longitude": 3.7259,
+        "webpage": "32320325B91B4E8CBD463826FBFC3CC8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7371,
+          51.0583
+        ]
+      },
+      "properties": {
+        "name": "Monasterium",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0583,
+        "longitude": 3.7371,
+        "webpage": "F715A81B950941EDAB807C40F9E3A188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7208,
+          51.0528
+        ]
+      },
+      "properties": {
+        "name": "B&B The Verhaegen",
+        "place": "Gent",
+        "country": "Belgie",
+        "stars": "4*",
+        "latitude": 51.0528,
+        "longitude": 3.7208,
+        "webpage": "4B28A33A4AF241AE96C2BD45091FD3FE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5768,
+          55.6797
+        ]
+      },
+      "properties": {
+        "name": "25hours",
+        "place": "Kopenhagen",
+        "country": "Denemarken",
+        "stars": "4*",
+        "latitude": 55.6797,
+        "longitude": 12.5768,
+        "webpage": "99c01a8c-5b97-4f93-813d-829c6eaac4cd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3101,
+          52.4975
+        ]
+      },
+      "properties": {
+        "name": "provocateur hotel",
+        "place": "Berlijn",
+        "country": "Duitsland",
+        "stars": "4*",
+        "latitude": 52.4975,
+        "longitude": 13.3101,
+        "webpage": "55279fe6-52fd-47a7-ae9d-47eab788741f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.777,
+          51.2291
+        ]
+      },
+      "properties": {
+        "name": "the fritz",
+        "place": "Dusseldorf",
+        "country": "Duitsland",
+        "stars": "3*",
+        "latitude": 51.2291,
+        "longitude": 6.777,
+        "webpage": "f858b652-ca51-480e-86ef-5e3f1f023230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7402,
+          59.4398
+        ]
+      },
+      "properties": {
+        "name": "Nunne boutique hotel",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "4*",
+        "latitude": 59.4398,
+        "longitude": 24.7402,
+        "webpage": "640e9890-a69d-4bff-a4b2-f1ab4c271462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2796,
+          48.8624
+        ]
+      },
+      "properties": {
+        "name": "Brach Hotel",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8624,
+        "longitude": 2.2796,
+        "webpage": "0707c5bb-1438-41e2-b99c-14aa37d707f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3087,
+          48.8687
+        ]
+      },
+      "properties": {
+        "name": "Le Damantin Hotel & Spa",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8687,
+        "longitude": 2.3087,
+        "webpage": "f541f66e-145e-403d-a499-6580759af63d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3056,
+          48.8665
+        ]
+      },
+      "properties": {
+        "name": "Le Demeure Montaigne",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 48.8665,
+        "longitude": 2.3056,
+        "webpage": "50D1550743704CE981AF60F891B3F4E5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3006,
+          48.8672
+        ]
+      },
+      "properties": {
+        "name": "Plaza Athenee",
+        "place": "Parijs",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 48.8672,
+        "longitude": 2.3006,
+        "webpage": "AA85BE2A23684F739B06C5DBA4132735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7765394,
+          46.1893456
+        ]
+      },
+      "properties": {
+        "name": "Hotel des Dromonts",
+        "place": "Avoriaz",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 46.1893456,
+        "longitude": 6.7765394,
+        "webpage": "9c959cbd-27c2-498c-9718-8cd14b4a1133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.868072199999999,
+          45.9231484
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mont Blanc Chamonix",
+        "place": "Chamonix",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 45.9231484,
+        "longitude": 6.868072199999999,
+        "webpage": "D811384F94854C4FA342636DE0A0D905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6206293,
+          45.8586684
+        ]
+      },
+      "properties": {
+        "name": "Grand Hotel du Soleil D'or",
+        "place": "Megeve",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 45.8586684,
+        "longitude": 6.6206293,
+        "webpage": "357edc24-c874-47fc-bcfe-b1ed5688b985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6167323,
+          45.8549166
+        ]
+      },
+      "properties": {
+        "name": "Le M de Megeve",
+        "place": "Megeve",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 45.8549166,
+        "longitude": 6.6167323,
+        "webpage": "703643d6-e78c-4c9d-921c-c32eea709346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6310461,
+          45.4149001
+        ]
+      },
+      "properties": {
+        "name": "les 3 vallees courchevel",
+        "place": "Courchevel",
+        "country": "Frankrijk",
+        "stars": "3*",
+        "latitude": 45.4149001,
+        "longitude": 6.6310461,
+        "webpage": "6b3472ee-860b-46b4-a5e7-a75c5f662088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.993001599999999,
+          45.4341549
+        ]
+      },
+      "properties": {
+        "name": "Le Refuge de Solaise",
+        "place": "Val-d 'Isere",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 45.4341549,
+        "longitude": 6.993001599999999,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9815629,
+          45.4484667
+        ]
+      },
+      "properties": {
+        "name": "Le K2 Chogori",
+        "place": "Val-d 'Isere",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 45.4484667,
+        "longitude": 6.9815629,
+        "webpage": "e20bc8d9-188b-4117-9265-e0f8b1336b09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6525478,
+          45.4174869
+        ]
+      },
+      "properties": {
+        "name": "Fahrenheit Seven Courchevel",
+        "place": "Courchevel",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 45.4174869,
+        "longitude": 6.6525478,
+        "webpage": "89101f69-b34b-4a19-b3d7-01364c5bbf1c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.555487200000001,
+          44.4887103
+        ]
+      },
+      "properties": {
+        "name": "alpin d'home",
+        "place": "les orres",
+        "country": "Frankrijk",
+        "stars": "4*",
+        "latitude": 44.4887103,
+        "longitude": 6.555487200000001,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6377387,
+          45.4038016
+        ]
+      },
+      "properties": {
+        "name": "Alpes Hôtel du Pralong Courchevel",
+        "place": "Courchevel",
+        "country": "Frankrijk",
+        "stars": "5*",
+        "latitude": 45.4038016,
+        "longitude": 6.6377387,
+        "webpage": "851f17b0-aa41-4d53-ae27-8232efbf405f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5338063,
+          70.03615119999999
+        ]
+      },
+      "properties": {
+        "name": "Bjornfjell Mountain Lodge",
+        "place": "Alta",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 70.03615119999999,
+        "longitude": 23.5338063,
+        "webpage": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2715873,
+          69.9688853
+        ]
+      },
+      "properties": {
+        "name": "Igloo",
+        "place": "Alta",
+        "country": "Noorwegen",
+        "stars": "3*",
+        "latitude": 69.9688853,
+        "longitude": 23.2715873,
+        "webpage": "81d18a02-a9c8-4390-9871-6f40a23fa6f3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8110204,
+          46.4776534
+        ]
+      },
+      "properties": {
+        "name": "Giardino Mountain",
+        "place": "St. Moritz",
+        "country": "Zwitserland",
+        "stars": "5*",
+        "latitude": 46.4776534,
+        "longitude": 9.8110204,
+        "webpage": "2c96e2dd-11c8-46b1-be5b-258a621620d6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.744586,
+          46.010445
+        ]
+      },
+      "properties": {
+        "name": "Boutique hotel Matthiol",
+        "place": "Zermatt",
+        "country": "Zwitserland",
+        "stars": "5*",
+        "latitude": 46.010445,
+        "longitude": 7.744586,
+        "webpage": "f65c1200-e19c-40d3-8297-afe248079ff1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8411589,
+          46.4975879
+        ]
+      },
+      "properties": {
+        "name": "Badrutt's Palace",
+        "place": "st Moritz",
+        "country": "Zwitserland",
+        "stars": "5*",
+        "latitude": 46.4975879,
+        "longitude": 9.8411589,
+        "webpage": "da56ca5b-fe53-4af1-b44c-fc653e8166b2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.594439099999999,
+          46.6363524
+        ]
+      },
+      "properties": {
+        "name": "The Chedi Andermatt",
+        "place": "Andermatt",
+        "country": "Zwitserland",
+        "stars": "5*",
+        "latitude": 46.6363524,
+        "longitude": 8.594439099999999,
+        "webpage": "FDB6C525905A4C1AAEF0A10966897215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754370499999999,
+          46.0219264
+        ]
+      },
+      "properties": {
+        "name": "Nomad by CERVO Mountain Resort",
+        "place": "Zermatt",
+        "country": "Zwitserland",
+        "stars": "4*",
+        "latitude": 46.0219264,
+        "longitude": 7.754370499999999,
+        "webpage": "61152a48-e662-4368-9537-ae820ff4a026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5584162219512,
+          46.5679010438991
+        ]
+      },
+      "properties": {
+        "name": "Schgaguler Hotel",
+        "place": "Kastelruth",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 46.5679010438991,
+        "longitude": 11.5584162219512,
+        "webpage": "ac624d03-56bb-427e-93b3-d30b4df87466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7165881069722,
+          47.4394161949973
+        ]
+      },
+      "properties": {
+        "name": "Naturhotel Forsthofgut",
+        "place": "Leogang",
+        "country": "Oostenrijk",
+        "stars": "5*",
+        "latitude": 47.4394161949973,
+        "longitude": 12.7165881069722,
+        "webpage": "d8e0b8d7-67d3-4792-91aa-8b1ba686826b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6934674837532,
+          47.439811673778
+        ]
+      },
+      "properties": {
+        "name": "Nova Moments Boutique",
+        "place": "Pertisau",
+        "country": "Oostenrijk",
+        "stars": "4*",
+        "latitude": 47.439811673778,
+        "longitude": 11.6934674837532,
+        "webpage": "062e8a0f-bf63-47fb-a3a5-4376d45e9f0e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.451008356923,
+          47.0734522246967
+        ]
+      },
+      "properties": {
+        "name": "Bergwiesenglück",
+        "place": "See",
+        "country": "Oostenrijk",
+        "stars": "3*",
+        "latitude": 47.0734522246967,
+        "longitude": 10.451008356923,
+        "webpage": "c65eacba-0882-44d8-b5b4-0e866eb645be"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7168009516932,
+          47.4413562660253
+        ]
+      },
+      "properties": {
+        "name": "mama thresl",
+        "place": "Leogang",
+        "country": "Oostenrijk",
+        "stars": "3*",
+        "latitude": 47.4413562660253,
+        "longitude": 12.7168009516932,
+        "webpage": "270817f0-dff8-4bcc-806f-f5365f38f4a2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5926972117444,
+          46.5777891210239
+        ]
+      },
+      "properties": {
+        "name": "Alpine Boutique Villa Gabriela",
+        "place": "Kastelruth",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 46.5777891210239,
+        "longitude": 11.5926972117444,
+        "webpage": "e4916ea2-7257-4919-964f-87da08c19e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7107228277226,
+          46.6760500780571
+        ]
+      },
+      "properties": {
+        "name": "Forestis Dolomites",
+        "place": "Brixen",
+        "country": "Italie",
+        "stars": "5*",
+        "latitude": 46.6760500780571,
+        "longitude": 11.7107228277226,
+        "webpage": "ba535b28-fdd5-40ff-b925-8b497e713153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8950655700977,
+          46.6067676682283
+        ]
+      },
+      "properties": {
+        "name": "Hotel Badia Hill",
+        "place": "Alta Badia",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 46.6067676682283,
+        "longitude": 11.8950655700977,
+        "webpage": "95d5e0e8-a4fc-45df-9ae4-6e40b7b3c2f2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3297842658949,
+          46.7294353646599
+        ]
+      },
+      "properties": {
+        "name": "JOAS natur.hotel.b&b",
+        "place": "",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 46.7294353646599,
+        "longitude": 12.3297842658949,
+        "webpage": "63406bc6-c1b9-4557-aba2-ac9b7d6820ea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0083749966805,
+          46.5411997358502
+        ]
+      },
+      "properties": {
+        "name": "Sensoria Dolomites",
+        "place": "Siusi allo Sciliar",
+        "country": "Italie",
+        "stars": "4*",
+        "latitude": 46.5411997358502,
+        "longitude": 11.0083749966805,
+        "webpage": "12ac451c-e5aa-441f-8e93-70246e4010c3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7479574793448,
+          59.4388168875098
+        ]
+      },
+      "properties": {
+        "name": "Schlössle Hotel",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "5*",
+        "latitude": 59.4388168875098,
+        "longitude": 24.7479574793448,
+        "webpage": "84882513-3643-46d3-9e3f-0f2dd2453dbb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8048751894162,
+          59.4429258426742
+        ]
+      },
+      "properties": {
+        "name": "Oru Hub Hotel Tallinn",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "4*",
+        "latitude": 59.4429258426742,
+        "longitude": 24.8048751894162,
+        "webpage": "cc9243c8-d672-4641-8a1e-2847fb673c48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7484523073162,
+          59.4379494166832
+        ]
+      },
+      "properties": {
+        "name": "Telegraaf",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "5*",
+        "latitude": 59.4379494166832,
+        "longitude": 24.7484523073162,
+        "webpage": "ec20885f-3cd5-4630-bb25-3eaa52643267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.434816978774,
+          59.434816978774
+        ]
+      },
+      "properties": {
+        "name": "von Stackelberg Hotel Tallinn",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "4*",
+        "latitude": 59.434816978774,
+        "longitude": 59.434816978774,
+        "webpage": "e8f4eccb-574e-423c-80e1-28dd7b242b2a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7625201711793,
+          59.4329693588222
+        ]
+      },
+      "properties": {
+        "name": "Swissotel Tallinn",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "5*",
+        "latitude": 59.4329693588222,
+        "longitude": 24.7625201711793,
+        "webpage": "69904115-3075-4a8d-a808-4a0191fb4ba5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7481782214042,
+          59.4421235004674
+        ]
+      },
+      "properties": {
+        "name": "The Tree Sisters",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "5*",
+        "latitude": 59.4421235004674,
+        "longitude": 24.7481782214042,
+        "webpage": "4d294acc-e2c9-417a-893d-9866db7cc031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7485600613669,
+          59.4369831285794
+        ]
+      },
+      "properties": {
+        "name": "Hotel Cru",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "4*",
+        "latitude": 59.4369831285794,
+        "longitude": 24.7485600613669,
+        "webpage": "7df625e1-029b-4149-8ef1-3f68e8eac635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7437381236127,
+          59.4371897360665
+        ]
+      },
+      "properties": {
+        "name": "Merchants House",
+        "place": "Tallinn",
+        "country": "Estland",
+        "stars": "4*",
+        "latitude": 59.4371897360665,
+        "longitude": 24.7437381236127,
+        "webpage": "a4d8b3a2-e383-4b8c-81fb-9494c0e0cd47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4497482203269,
+          -34.0161642713208
+        ]
+      },
+      "properties": {
+        "name": "Schoone Oordt Country House",
+        "place": "Swellendam",
+        "country": "Zuid Afrika",
+        "stars": "5*",
+        "latitude": -34.0161642713208,
+        "longitude": 20.4497482203269,
+        "webpage": "14f1535b-f747-424c-a5be-1799d28633a7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1228888286903,
+          -33.9111503803165
+        ]
+      },
+      "properties": {
+        "name": "Chapter House Boutique Hotel",
+        "place": "Franschhoek",
+        "country": "Zuid Afrika",
+        "stars": "5*",
+        "latitude": -33.9111503803165,
+        "longitude": 19.1228888286903,
+        "webpage": "0cae72cb-0590-4aee-aec9-56dd1e1e62e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9113610855582,
+          -34.0801963856147
+        ]
+      },
+      "properties": {
+        "name": "Gondwana Private Game Reserve",
+        "place": "Herbertsdale",
+        "country": "Zuid Afrika",
+        "stars": "5*",
+        "latitude": -34.0801963856147,
+        "longitude": 21.9113610855582,
+        "webpage": "82b79b5e-1e05-4dbc-bae3-c643f78b08a9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.412540538254,
+          -34.5430308351161
+        ]
+      },
+      "properties": {
+        "name": "Grootbos Private Nature Reserve",
+        "place": "Gaansbaai",
+        "country": "Zuid Afrika",
+        "stars": "5*",
+        "latitude": -34.5430308351161,
+        "longitude": 19.412540538254,
+        "webpage": "fb4f7d5e-aea4-4318-9199-14d1d3ed28f0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1196635701922,
+          -33.7875807221532
+        ]
+      },
+      "properties": {
+        "name": "Monte Vista Boutique Hotel",
+        "place": "Montagu",
+        "country": "Zuid Afrika",
+        "stars": "4*",
+        "latitude": -33.7875807221532,
+        "longitude": 20.1196635701922,
+        "webpage": "81507f5a-3c40-490d-8373-ad869dffa83c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4720294884036,
+          -34.4157626200536
+        ]
+      },
+      "properties": {
+        "name": "AfriCamps at Stanford",
+        "place": "Stanford",
+        "country": "Zuid Afrika",
+        "stars": "2*",
+        "latitude": -34.4157626200536,
+        "longitude": 19.4720294884036,
+        "webpage": "f0eede9e-4b6e-45bc-b852-5f37efc19b55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2712776356581,
+          -34.0520282473558
+        ]
+      },
+      "properties": {
+        "name": "Tsala Treetop Lodge",
+        "place": "Plettenberg",
+        "country": "Zuid Afrika",
+        "stars": "5*",
+        "latitude": -34.0520282473558,
+        "longitude": 23.2712776356581,
+        "webpage": "1d9ba0a3-6c10-4b6b-8c1c-d7568cd1641e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0296454198597,
+          -34.0541117337152
+        ]
+      },
+      "properties": {
+        "name": "Garden Route Safari Camp",
+        "place": "Mossel bay",
+        "country": "Zuid Afrika",
+        "stars": "3*",
+        "latitude": -34.0541117337152,
+        "longitude": 22.0296454198597,
+        "webpage": "2dd1c4ac-98d3-4118-88ab-e3cd5dd46af8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0380864960883,
+          -34.0709616761015
+        ]
+      },
+      "properties": {
+        "name": "Alkira Lodge",
+        "place": "Knysna",
+        "country": "Zuid Afrika",
+        "stars": "4*",
+        "latitude": -34.0709616761015,
+        "longitude": 23.0380864960883,
+        "webpage": "6d43d4d-557f-4199-97f9-f00fb467eeda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5869787640164,
+          -33.9935234779776
+        ]
+      },
+      "properties": {
+        "name": "Moontide Riverside Lodge",
+        "place": "Wilderness",
+        "country": "Zuid Afrika",
+        "stars": "3*",
+        "latitude": -33.9935234779776,
+        "longitude": 22.5869787640164,
+        "webpage": "9303cb43-4b95-40f4-ae35-eec55eb53deb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.39333450511002,
+          36.7255353174142
+        ]
+      },
+      "properties": {
+        "name": "Hotel Castillo De Santa Catalina",
+        "place": "Malaga",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 36.7255353174142,
+        "longitude": -4.39333450511002,
+        "webpage": "1ab50d44-a90e-4fb2-8c4e-521d93adf20d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2231101956633,
+          36.3972062893197
+        ]
+      },
+      "properties": {
+        "name": "Finca Cortesin",
+        "place": "Casares",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 36.3972062893197,
+        "longitude": -5.2231101956633,
+        "webpage": "b55a7e43-0e67-49b5-8058-17ef1f15170a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.59519723374115,
+          36.5806904458259
+        ]
+      },
+      "properties": {
+        "name": "Higueron Hotel Malaga",
+        "place": "Fuengirola",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 36.5806904458259,
+        "longitude": -4.59519723374115,
+        "webpage": "b5c40865-9ef8-4736-90a8-f73a3c3b2bed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.30798677968174,
+          37.1410750835055
+        ]
+      },
+      "properties": {
+        "name": "Finca La Bobadilla",
+        "place": "Loja",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 37.1410750835055,
+        "longitude": -4.30798677968174,
+        "webpage": "6c3e5fb8-db4a-40e1-b5c8-dd9e6fa33acf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2394095217311,
+          36.506195336285
+        ]
+      },
+      "properties": {
+        "name": "Kimpton Los Monteros Marbella",
+        "place": "Marbella",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 36.506195336285,
+        "longitude": -48.2394095217311,
+        "webpage": "5bc73dd0-5d57-414e-9df9-86137f13b14a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.88498613026012,
+          36.5126330541519
+        ]
+      },
+      "properties": {
+        "name": "Hotel Claude Marbella",
+        "place": "Marbella",
+        "country": "Spanje",
+        "stars": "3*",
+        "latitude": 36.5126330541519,
+        "longitude": -4.88498613026012,
+        "webpage": "ffd22dfc-2bfe-42d0-81f7-be652198a1b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.88480406301912,
+          36.5124966739189
+        ]
+      },
+      "properties": {
+        "name": "La Fonda Heritage Hotel",
+        "place": "Marbella",
+        "country": "Spanje",
+        "stars": "5*",
+        "latitude": 36.5124966739189,
+        "longitude": -4.88480406301912,
+        "webpage": "59dfc9dd-193b-46b1-9ef4-1ec66401e5a5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42112080779011,
+          36.7191792757493
+        ]
+      },
+      "properties": {
+        "name": "Hotel Vincci Larios Diez",
+        "place": "Malaga",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 36.7191792757493,
+        "longitude": -4.42112080779011,
+        "webpage": "8ee613e4-a9b9-4149-812a-d0f6cd9a44c3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.14493245041678,
+          36.4255795559154
+        ]
+      },
+      "properties": {
+        "name": "Hotel El Pilar Andalucia",
+        "place": "Estepona",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 36.4255795559154,
+        "longitude": -5.14493245041678,
+        "webpage": "b9d4b582-f40b-4288-aaa3-7a0220cc6af9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13279743577844,
+          36.788279371191
+        ]
+      },
+      "properties": {
+        "name": "Hotel Cortijo Bravo",
+        "place": "Vélez-Málaga",
+        "country": "Spanje",
+        "stars": "4*",
+        "latitude": 36.788279371191,
+        "longitude": -4.13279743577844,
+        "webpage": "287f4090-d529-4353-952a-c4bfc4e43515"
+      }
+    }
+  ],
+  "name": "Wintersport"
+}
