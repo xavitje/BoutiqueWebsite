@@ -37,6 +37,7 @@
         "@types/react-dom": "^19",
         "autoprefixer": "^10.4.20",
         "better-sqlite3": "^12.6.2",
+        "dotenv": "^17.2.4",
         "drizzle-kit": "^0.29.1",
         "eslint": "^9",
         "eslint-config-next": "^15.1.3",
