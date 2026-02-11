@@ -104,10 +104,8 @@ export default function MapPage() {
                             <InfoWindow
                                 position={{ lat: selectedHotel.latitude, lng: selectedHotel.longitude }}
                                 onCloseClick={() => setSelectedHotel(null)}
-                                options={{
-                                    maxWidth: 280,
-                                    pixelOffset: new google.maps.Size(0, -10),
-                                }}
+                                maxWidth={280}
+                                pixelOffset={[0, -10]}
                             >
                                 <MapInfoContent hotel={selectedHotel} />
                             </InfoWindow>

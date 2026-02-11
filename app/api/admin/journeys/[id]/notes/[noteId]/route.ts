@@ -7,8 +7,9 @@ import { eq, and } from 'drizzle-orm';
 // PATCH - Update a note
 export async function PATCH(
     request: NextRequest,
-    { params }: { params: { id: string; noteId: string } }
+    props: { params: Promise<{ id: string; noteId: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 
@@ -55,8 +56,9 @@ export async function PATCH(
 // DELETE - Delete a note
 export async function DELETE(
     request: NextRequest,
-    { params }: { params: { id: string; noteId: string } }
+    props: { params: Promise<{ id: string; noteId: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 

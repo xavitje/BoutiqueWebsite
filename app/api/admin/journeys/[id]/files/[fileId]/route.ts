@@ -12,8 +12,9 @@ import { del } from '@vercel/blob';
 // GET - Download a file
 export async function GET(
     request: NextRequest,
-    { params }: { params: { id: string; fileId: string } }
+    props: { params: Promise<{ id: string; fileId: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 
@@ -69,8 +70,9 @@ export async function GET(
 // DELETE - Delete a file
 export async function DELETE(
     request: NextRequest,
-    { params }: { params: { id: string; fileId: string } }
+    props: { params: Promise<{ id: string; fileId: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 

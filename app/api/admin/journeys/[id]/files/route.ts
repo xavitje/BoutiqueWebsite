@@ -11,8 +11,9 @@ import { existsSync } from 'fs';
 // GET - List all files for a journey
 export async function GET(
     request: NextRequest,
-    { params }: { params: { id: string } }
+    props: { params: Promise<{ id: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 
@@ -52,8 +53,9 @@ export async function GET(
 // POST - Upload a file
 export async function POST(
     request: NextRequest,
-    { params }: { params: { id: string } }
+    props: { params: Promise<{ id: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 

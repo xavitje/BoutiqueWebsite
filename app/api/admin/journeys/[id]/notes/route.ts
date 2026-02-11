@@ -7,8 +7,9 @@ import { eq } from 'drizzle-orm';
 // GET - List all notes for a journey
 export async function GET(
     request: NextRequest,
-    { params }: { params: { id: string } }
+    props: { params: Promise<{ id: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 
@@ -46,8 +47,9 @@ export async function GET(
 // POST - Add a new note
 export async function POST(
     request: NextRequest,
-    { params }: { params: { id: string } }
+    props: { params: Promise<{ id: string }> }
 ) {
+    const params = await props.params;
     try {
         const session = await auth();
 
