@@ -4,6 +4,7 @@ import { FloatingNav } from '@/components/navigation/FloatingNav';
 import { MagneticButton } from '@/components/ui/MagneticButton';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getAllHotels } from '@/lib/data/hotels';
 import { HotelCard } from '@/components/hotel/HotelCard';
 
@@ -13,7 +14,18 @@ export default function Home() {
 
     return (
         <>
-            <main className="page-container">
+            <main className="page-container relative">
+                <div className="fixed inset-0 -z-10">
+                    <Image
+                        src="/images/background.jpg"
+                        alt="Beautiful sunny landscape"
+                        fill
+                        style={{ objectFit: 'cover' }}
+                        priority
+                        quality={100}
+                    />
+                    <div className="absolute inset-0 bg-black/10" />
+                </div>
                 {/* Hero Section */}
                 <section className="min-h-screen flex items-center justify-center section-padding">
                     <div className="max-w-5xl mx-auto text-center space-y-8">
